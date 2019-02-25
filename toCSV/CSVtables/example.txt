@@ -1,0 +1,5 @@
+a simple example of the csv table containing the data for the Teas. 
+Every single one will be formatted similarly, except some will be very long.
+
+EX: the Player_Played_In csv will consist of every game every player has played in for the 2017 season...
+So we are looking at around ~100k tables

@@ -1,0 +1,3374 @@
+{
+    "400933827": {
+        "Loser": "Florida State",
+        "Winner": "Alabama"
+    },
+    "400933828": {
+        "Winner": "Arkansas"
+    },
+    "400933829": {
+        "Loser": "Georgia Southern",
+        "Winner": "Auburn"
+    },
+    "400933830": {
+        "Loser": "Florida",
+        "Winner": "Michigan"
+    },
+    "400933831": {
+        "Loser": "Appalachian State",
+        "Winner": "Georgia"
+    },
+    "400933832": {
+        "Loser": "Southern Mississippi",
+        "Winner": "Kentucky"
+    },
+    "400933833": {
+        "Loser": "BYU",
+        "Winner": "LSU"
+    },
+    "400933834": {
+        "Loser": "South Alabama",
+        "Winner": "Ole Miss"
+    },
+    "400933835": {
+        "Winner": "Mississippi State"
+    },
+    "400933836": {
+        "Winner": "Missouri"
+    },
+    "400933837": {
+        "Loser": "NC State",
+        "Winner": "South Carolina"
+    },
+    "400933838": {
+        "Loser": "Texas A&M",
+        "Winner": "UCLA"
+    },
+    "400933839": {
+        "Loser": "Middle Tennessee",
+        "Winner": "Vanderbilt"
+    },
+    "400933840": {
+        "Loser": "Georgia Tech",
+        "Winner": "Tennessee"
+    },
+    "400933841": {
+        "Loser": "Fresno State",
+        "Winner": "Alabama"
+    },
+    "400933842": {
+        "Loser": "Arkansas",
+        "Winner": "TCU"
+    },
+    "400933843": {
+        "Loser": "Auburn",
+        "Winner": "Clemson"
+    },
+    "400933845": {
+        "Loser": "Notre Dame",
+        "Winner": "Georgia"
+    },
+    "400933846": {
+        "Winner": "Kentucky"
+    },
+    "400933847": {
+        "Winner": "LSU"
+    },
+    "400933848": {
+        "Winner": "Ole Miss"
+    },
+    "400933849": {
+        "Loser": "Louisiana Tech",
+        "Winner": "Mississippi State"
+    },
+    "400933850": {
+        "Loser": "Missouri",
+        "Winner": "South Carolina"
+    },
+    "400933851": {
+        "Winner": "Tennessee"
+    },
+    "400933852": {
+        "Winner": "Texas A&M"
+    },
+    "400933853": {
+        "Winner": "Vanderbilt"
+    },
+    "400933854": {
+        "Loser": "Colorado State",
+        "Winner": "Alabama"
+    },
+    "400933855": {
+        "Winner": "Auburn"
+    },
+    "400933856": {
+        "Loser": "Tennessee",
+        "Winner": "Florida"
+    },
+    "400933857": {
+        "Winner": "Georgia"
+    },
+    "400933858": {
+        "Loser": "Ole Miss",
+        "Winner": "California"
+    },
+    "400933859": {
+        "Loser": "LSU",
+        "Winner": "Mississippi State"
+    },
+    "400933860": {
+        "Loser": "Missouri",
+        "Winner": "Purdue"
+    },
+    "400933861": {
+        "Loser": "South Carolina",
+        "Winner": "Kentucky"
+    },
+    "400933862": {
+        "Loser": "Louisiana",
+        "Winner": "Texas A&M"
+    },
+    "400933863": {
+        "Loser": "Kansas State",
+        "Winner": "Vanderbilt"
+    },
+    "400933864": {
+        "Loser": "Arkansas",
+        "Winner": "Texas A&M"
+    },
+    "400933865": {
+        "Loser": "Mississippi State",
+        "Winner": "Georgia"
+    },
+    "400933866": {
+        "Loser": "Kentucky",
+        "Winner": "Florida"
+    },
+    "400933867": {
+        "Loser": "Syracuse",
+        "Winner": "LSU"
+    },
+    "400933868": {
+        "Loser": "Missouri",
+        "Winner": "Auburn"
+    },
+    "400933869": {
+        "Loser": "Louisiana Tech",
+        "Winner": "South Carolina"
+    },
+    "400933870": {
+        "Loser": "UMass",
+        "Winner": "Tennessee"
+    },
+    "400933871": {
+        "Loser": "Vanderbilt",
+        "Winner": "Alabama"
+    },
+    "400933872": {
+        "Loser": "Ole Miss",
+        "Winner": "Alabama"
+    },
+    "400933873": {
+        "Loser": "New Mexico State",
+        "Winner": "Arkansas"
+    },
+    "400933874": {
+        "Loser": "Mississippi State",
+        "Winner": "Auburn"
+    },
+    "400933875": {
+        "Loser": "Vanderbilt",
+        "Winner": "Florida"
+    },
+    "400933876": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Kentucky"
+    },
+    "400933877": {
+        "Loser": "LSU",
+        "Winner": "Troy"
+    },
+    "400933878": {
+        "Loser": "Tennessee",
+        "Winner": "Georgia"
+    },
+    "400933879": {
+        "Loser": "South Carolina",
+        "Winner": "Texas A&M"
+    },
+    "400933880": {
+        "Loser": "Ole Miss",
+        "Winner": "Auburn"
+    },
+    "400933881": {
+        "Loser": "Missouri",
+        "Winner": "Kentucky"
+    },
+    "400933882": {
+        "Loser": "Florida",
+        "Winner": "LSU"
+    },
+    "400933883": {
+        "Loser": "Arkansas",
+        "Winner": "South Carolina"
+    },
+    "400933884": {
+        "Loser": "Texas A&M",
+        "Winner": "Alabama"
+    },
+    "400933885": {
+        "Loser": "Vanderbilt",
+        "Winner": "Georgia"
+    },
+    "400933886": {
+        "Loser": "Arkansas",
+        "Winner": "Alabama"
+    },
+    "400933887": {
+        "Loser": "Florida",
+        "Winner": "Texas A&M"
+    },
+    "400933888": {
+        "Loser": "Missouri",
+        "Winner": "Georgia"
+    },
+    "400933889": {
+        "Loser": "Auburn",
+        "Winner": "LSU"
+    },
+    "400933890": {
+        "Loser": "Vanderbilt",
+        "Winner": "Ole Miss"
+    },
+    "400933891": {
+        "Loser": "BYU",
+        "Winner": "Mississippi State"
+    },
+    "400933892": {
+        "Loser": "Tennessee",
+        "Winner": "South Carolina"
+    },
+    "400933893": {
+        "Loser": "Tennessee",
+        "Winner": "Alabama"
+    },
+    "400933894": {
+        "Loser": "Arkansas",
+        "Winner": "Auburn"
+    },
+    "400933895": {
+        "Loser": "Ole Miss",
+        "Winner": "LSU"
+    },
+    "400933896": {
+        "Loser": "Kentucky",
+        "Winner": "Mississippi State"
+    },
+    "400933897": {
+        "Winner": "Missouri"
+    },
+    "400933898": {
+        "Loser": "Florida",
+        "Winner": "Georgia"
+    },
+    "400933899": {
+        "Loser": "Tennessee",
+        "Winner": "Kentucky"
+    },
+    "400933900": {
+        "Loser": "Ole Miss",
+        "Winner": "Arkansas"
+    },
+    "400933901": {
+        "Loser": "UConn",
+        "Winner": "Missouri"
+    },
+    "400933902": {
+        "Loser": "Vanderbilt",
+        "Winner": "South Carolina"
+    },
+    "400933903": {
+        "Loser": "Texas A&M",
+        "Winner": "Mississippi State"
+    },
+    "400933904": {
+        "Loser": "LSU",
+        "Winner": "Alabama"
+    },
+    "400933905": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Arkansas"
+    },
+    "400933906": {
+        "Loser": "South Carolina",
+        "Winner": "Georgia"
+    },
+    "400933907": {
+        "Loser": "Kentucky",
+        "Winner": "Ole Miss"
+    },
+    "400933908": {
+        "Loser": "UMass",
+        "Winner": "Mississippi State"
+    },
+    "400933909": {
+        "Loser": "Florida",
+        "Winner": "Missouri"
+    },
+    "400933910": {
+        "Loser": "Southern Mississippi",
+        "Winner": "Tennessee"
+    },
+    "400933911": {
+        "Loser": "Texas A&M",
+        "Winner": "Auburn"
+    },
+    "400933912": {
+        "Loser": "Western Kentucky",
+        "Winner": "Vanderbilt"
+    },
+    "400933913": {
+        "Loser": "Georgia",
+        "Winner": "Auburn"
+    },
+    "400933914": {
+        "Loser": "Arkansas",
+        "Winner": "LSU"
+    },
+    "400933915": {
+        "Loser": "Louisiana",
+        "Winner": "Ole Miss"
+    },
+    "400933916": {
+        "Loser": "Mississippi State",
+        "Winner": "Alabama"
+    },
+    "400933917": {
+        "Loser": "Tennessee",
+        "Winner": "Missouri"
+    },
+    "400933918": {
+        "Loser": "Florida",
+        "Winner": "South Carolina"
+    },
+    "400933919": {
+        "Loser": "New Mexico",
+        "Winner": "Texas A&M"
+    },
+    "400933920": {
+        "Loser": "Vanderbilt",
+        "Winner": "Kentucky"
+    },
+    "400933921": {
+        "Winner": "Alabama"
+    },
+    "400933922": {
+        "Loser": "Arkansas",
+        "Winner": "Mississippi State"
+    },
+    "400933923": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Auburn"
+    },
+    "400933924": {
+        "Loser": "UAB",
+        "Winner": "Florida"
+    },
+    "400933925": {
+        "Loser": "Kentucky",
+        "Winner": "Georgia"
+    },
+    "400933926": {
+        "Loser": "Ole Miss",
+        "Winner": "Texas A&M"
+    },
+    "400933927": {
+        "Winner": "South Carolina"
+    },
+    "400933928": {
+        "Loser": "Tennessee",
+        "Winner": "LSU"
+    },
+    "400933929": {
+        "Loser": "Vanderbilt",
+        "Winner": "Missouri"
+    },
+    "400933930": {
+        "Loser": "Mississippi State",
+        "Winner": "Ole Miss"
+    },
+    "400933931": {
+        "Loser": "Arkansas",
+        "Winner": "Missouri"
+    },
+    "400933932": {
+        "Loser": "Alabama",
+        "Winner": "Auburn"
+    },
+    "400933933": {
+        "Loser": "Florida",
+        "Winner": "Florida State"
+    },
+    "400933934": {
+        "Loser": "Georgia Tech",
+        "Winner": "Georgia"
+    },
+    "400933935": {
+        "Loser": "Kentucky",
+        "Winner": "Louisville"
+    },
+    "400933936": {
+        "Loser": "Texas A&M",
+        "Winner": "LSU"
+    },
+    "400933937": {
+        "Loser": "South Carolina",
+        "Winner": "Clemson"
+    },
+    "400933938": {
+        "Loser": "Tennessee",
+        "Winner": "Vanderbilt"
+    },
+    "400934488": {
+        "Winner": "Iowa State"
+    },
+    "400934489": {
+        "Loser": "Baylor",
+        "Winner": "Liberty"
+    },
+    "400934490": {
+        "Winner": "Kansas"
+    },
+    "400934491": {
+        "Winner": "Kansas State"
+    },
+    "400934492": {
+        "Loser": "UTEP",
+        "Winner": "Oklahoma"
+    },
+    "400934493": {
+        "Loser": "Tulsa",
+        "Winner": "Oklahoma State"
+    },
+    "400934494": {
+        "Winner": "TCU"
+    },
+    "400934495": {
+        "Loser": "Texas",
+        "Winner": "Maryland"
+    },
+    "400934496": {
+        "Winner": "Texas Tech"
+    },
+    "400934497": {
+        "Loser": "West Virginia",
+        "Winner": "Virginia Tech"
+    },
+    "400934498": {
+        "Loser": "Baylor",
+        "Winner": "UT San Antonio"
+    },
+    "400934499": {
+        "Loser": "Iowa State",
+        "Winner": "Iowa"
+    },
+    "400934500": {
+        "Loser": "Kansas",
+        "Winner": "Central Michigan"
+    },
+    "400934501": {
+        "Loser": "Charlotte",
+        "Winner": "Kansas State"
+    },
+    "400934502": {
+        "Loser": "Ohio State",
+        "Winner": "Oklahoma"
+    },
+    "400934503": {
+        "Loser": "South Alabama",
+        "Winner": "Oklahoma State"
+    },
+    "400934504": {
+        "Loser": "San Jose State",
+        "Winner": "Texas"
+    },
+    "400934505": {
+        "Loser": "East Carolina",
+        "Winner": "West Virginia"
+    },
+    "400934506": {
+        "Loser": "Baylor",
+        "Winner": "Duke"
+    },
+    "400934507": {
+        "Loser": "Kansas",
+        "Winner": "Ohio"
+    },
+    "400934508": {
+        "Loser": "Tulane",
+        "Winner": "Oklahoma"
+    },
+    "400934509": {
+        "Loser": "Pittsburgh",
+        "Winner": "Oklahoma State"
+    },
+    "400934510": {
+        "Loser": "SMU",
+        "Winner": "TCU"
+    },
+    "400934511": {
+        "Loser": "Texas",
+        "Winner": "USC"
+    },
+    "400934512": {
+        "Loser": "Arizona State",
+        "Winner": "Texas Tech"
+    },
+    "400934513": {
+        "Winner": "West Virginia"
+    },
+    "400934514": {
+        "Loser": "Kansas",
+        "Winner": "West Virginia"
+    },
+    "400934515": {
+        "Loser": "Baylor",
+        "Winner": "Oklahoma"
+    },
+    "400934516": {
+        "Loser": "Oklahoma State",
+        "Winner": "TCU"
+    },
+    "400934517": {
+        "Loser": "Akron",
+        "Winner": "Iowa State"
+    },
+    "400934518": {
+        "Loser": "Houston",
+        "Winner": "Texas Tech"
+    },
+    "400934519": {
+        "Loser": "Baylor",
+        "Winner": "Kansas State"
+    },
+    "400934520": {
+        "Loser": "Texas Tech",
+        "Winner": "Oklahoma State"
+    },
+    "400934521": {
+        "Loser": "Iowa State",
+        "Winner": "Texas"
+    },
+    "400934522": {
+        "Loser": "West Virginia",
+        "Winner": "TCU"
+    },
+    "400934523": {
+        "Loser": "Oklahoma",
+        "Winner": "Iowa State"
+    },
+    "400934524": {
+        "Loser": "Kansas State",
+        "Winner": "Texas"
+    },
+    "400934525": {
+        "Loser": "Kansas",
+        "Winner": "Texas Tech"
+    },
+    "400934526": {
+        "Loser": "Baylor",
+        "Winner": "Oklahoma State"
+    },
+    "400934527": {
+        "Loser": "Kansas",
+        "Winner": "Iowa State"
+    },
+    "400934528": {
+        "Loser": "Texas",
+        "Winner": "Oklahoma"
+    },
+    "400934529": {
+        "Loser": "Texas Tech",
+        "Winner": "West Virginia"
+    },
+    "400934530": {
+        "Loser": "Kansas State",
+        "Winner": "TCU"
+    },
+    "400934531": {
+        "Loser": "Texas Tech",
+        "Winner": "Iowa State"
+    },
+    "400934532": {
+        "Loser": "Kansas",
+        "Winner": "TCU"
+    },
+    "400934533": {
+        "Loser": "Baylor",
+        "Winner": "West Virginia"
+    },
+    "400934534": {
+        "Loser": "Kansas State",
+        "Winner": "Oklahoma"
+    },
+    "400934535": {
+        "Loser": "Texas",
+        "Winner": "Oklahoma State"
+    },
+    "400934536": {
+        "Loser": "Kansas",
+        "Winner": "Kansas State"
+    },
+    "400934537": {
+        "Loser": "West Virginia",
+        "Winner": "Oklahoma State"
+    },
+    "400934538": {
+        "Loser": "Baylor",
+        "Winner": "Texas"
+    },
+    "400934539": {
+        "Loser": "Texas Tech",
+        "Winner": "Oklahoma"
+    },
+    "400934540": {
+        "Loser": "TCU",
+        "Winner": "Iowa State"
+    },
+    "400934541": {
+        "Loser": "Kansas",
+        "Winner": "Baylor"
+    },
+    "400934542": {
+        "Loser": "Iowa State",
+        "Winner": "West Virginia"
+    },
+    "400934543": {
+        "Loser": "Texas Tech",
+        "Winner": "Kansas State"
+    },
+    "400934544": {
+        "Loser": "Oklahoma State",
+        "Winner": "Oklahoma"
+    },
+    "400934545": {
+        "Loser": "Texas",
+        "Winner": "TCU"
+    },
+    "400934546": {
+        "Loser": "Kansas",
+        "Winner": "Texas"
+    },
+    "400934547": {
+        "Loser": "Kansas State",
+        "Winner": "West Virginia"
+    },
+    "400934548": {
+        "Loser": "Iowa State",
+        "Winner": "Oklahoma State"
+    },
+    "400934549": {
+        "Loser": "Baylor",
+        "Winner": "Texas Tech"
+    },
+    "400934550": {
+        "Loser": "TCU",
+        "Winner": "Oklahoma"
+    },
+    "400934551": {
+        "Loser": "Baylor",
+        "Winner": "Iowa State"
+    },
+    "400934552": {
+        "Loser": "Oklahoma State",
+        "Winner": "Kansas State"
+    },
+    "400934553": {
+        "Loser": "Kansas",
+        "Winner": "Oklahoma"
+    },
+    "400934554": {
+        "Loser": "West Virginia",
+        "Winner": "Texas"
+    },
+    "400934555": {
+        "Loser": "Texas Tech",
+        "Winner": "TCU"
+    },
+    "400934556": {
+        "Loser": "Baylor",
+        "Winner": "TCU"
+    },
+    "400934557": {
+        "Loser": "Texas",
+        "Winner": "Texas Tech"
+    },
+    "400934558": {
+        "Loser": "Iowa State",
+        "Winner": "Kansas State"
+    },
+    "400934559": {
+        "Loser": "Kansas",
+        "Winner": "Oklahoma State"
+    },
+    "400934560": {
+        "Loser": "West Virginia",
+        "Winner": "Oklahoma"
+    },
+    "400934561": {
+        "Loser": "Army",
+        "Winner": "Tulane"
+    },
+    "400934562": {
+        "Loser": "Buffalo",
+        "Winner": "Army"
+    },
+    "400934563": {
+        "Loser": "Army",
+        "Winner": "Ohio State"
+    },
+    "400934564": {
+        "Loser": "Rice",
+        "Winner": "Army"
+    },
+    "400934565": {
+        "Loser": "Duke",
+        "Winner": "Army"
+    },
+    "400934566": {
+        "Loser": "UTEP",
+        "Winner": "Army"
+    },
+    "400934567": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Army"
+    },
+    "400934568": {
+        "Loser": "Temple",
+        "Winner": "Army"
+    },
+    "400934569": {
+        "Loser": "Air Force",
+        "Winner": "Army"
+    },
+    "400934570": {
+        "Winner": "Army"
+    },
+    "400934571": {
+        "Loser": "Army",
+        "Winner": "North Texas"
+    },
+    "400934572": {
+        "Loser": "Navy",
+        "Winner": "Army"
+    },
+    "400934573": {
+        "Loser": "Temple",
+        "Winner": "Notre Dame"
+    },
+    "400934574": {
+        "Loser": "Boston College",
+        "Winner": "Notre Dame"
+    },
+    "400934575": {
+        "Loser": "Michigan State",
+        "Winner": "Notre Dame"
+    },
+    "400934576": {
+        "Loser": "Miami (OH)",
+        "Winner": "Notre Dame"
+    },
+    "400934577": {
+        "Loser": "North Carolina",
+        "Winner": "Notre Dame"
+    },
+    "400934578": {
+        "Loser": "USC",
+        "Winner": "Notre Dame"
+    },
+    "400934579": {
+        "Loser": "NC State",
+        "Winner": "Notre Dame"
+    },
+    "400934580": {
+        "Loser": "Wake Forest",
+        "Winner": "Notre Dame"
+    },
+    "400934581": {
+        "Loser": "Notre Dame",
+        "Winner": "Miami"
+    },
+    "400934582": {
+        "Loser": "Navy",
+        "Winner": "Notre Dame"
+    },
+    "400934583": {
+        "Loser": "Notre Dame",
+        "Winner": "Stanford"
+    },
+    "400935229": {
+        "Loser": "Indiana",
+        "Winner": "Ohio State"
+    },
+    "400935230": {
+        "Loser": "Buffalo",
+        "Winner": "Minnesota"
+    },
+    "400935231": {
+        "Loser": "Utah State",
+        "Winner": "Wisconsin"
+    },
+    "400935232": {
+        "Loser": "Ball State",
+        "Winner": "Illinois"
+    },
+    "400935233": {
+        "Loser": "Wyoming",
+        "Winner": "Iowa"
+    },
+    "400935234": {
+        "Loser": "Bowling Green",
+        "Winner": "Michigan State"
+    },
+    "400935235": {
+        "Loser": "Arkansas State",
+        "Winner": "Nebraska"
+    },
+    "400935236": {
+        "Loser": "Nevada",
+        "Winner": "Northwestern"
+    },
+    "400935237": {
+        "Loser": "Akron",
+        "Winner": "Penn State"
+    },
+    "400935238": {
+        "Loser": "Purdue",
+        "Winner": "Louisville"
+    },
+    "400935239": {
+        "Loser": "Ohio",
+        "Winner": "Purdue"
+    },
+    "400935240": {
+        "Loser": "Northwestern",
+        "Winner": "Duke"
+    },
+    "400935241": {
+        "Loser": "Western Kentucky",
+        "Winner": "Illinois"
+    },
+    "400935242": {
+        "Winner": "Maryland"
+    },
+    "400935243": {
+        "Loser": "Cincinnati",
+        "Winner": "Michigan"
+    },
+    "400935244": {
+        "Loser": "Western Michigan",
+        "Winner": "Michigan State"
+    },
+    "400935245": {
+        "Loser": "Pittsburgh",
+        "Winner": "Penn State"
+    },
+    "400935246": {
+        "Loser": "Rutgers",
+        "Winner": "Eastern Michigan"
+    },
+    "400935247": {
+        "Loser": "New Mexico State",
+        "Winner": "Arizona State"
+    },
+    "400935248": {
+        "Winner": "Utah"
+    },
+    "400935249": {
+        "Loser": "Colorado State",
+        "Winner": "Colorado"
+    },
+    "400935250": {
+        "Loser": "Rutgers",
+        "Winner": "Washington"
+    },
+    "400935251": {
+        "Winner": "Arizona"
+    },
+    "400935252": {
+        "Loser": "Western Michigan",
+        "Winner": "USC"
+    },
+    "400935253": {
+        "Winner": "Oregon"
+    },
+    "400935254": {
+        "Winner": "Oregon State"
+    },
+    "400935255": {
+        "Winner": "Washington State"
+    },
+    "400935256": {
+        "Loser": "North Carolina",
+        "Winner": "California"
+    },
+    "400935257": {
+        "Loser": "Rice",
+        "Winner": "Stanford"
+    },
+    "400935258": {
+        "Loser": "Arizona",
+        "Winner": "Houston"
+    },
+    "400935259": {
+        "Loser": "Arizona State",
+        "Winner": "San Diego State"
+    },
+    "400935260": {
+        "Loser": "Stanford",
+        "Winner": "USC"
+    },
+    "400935261": {
+        "Loser": "Hawai'i",
+        "Winner": "UCLA"
+    },
+    "400935262": {
+        "Loser": "Texas State",
+        "Winner": "Colorado"
+    },
+    "400935263": {
+        "Loser": "BYU",
+        "Winner": "Utah"
+    },
+    "400935264": {
+        "Loser": "Nebraska",
+        "Winner": "Oregon"
+    },
+    "400935265": {
+        "Loser": "Oregon State",
+        "Winner": "Minnesota"
+    },
+    "400935266": {
+        "Winner": "Washington"
+    },
+    "400935267": {
+        "Loser": "Boise State",
+        "Winner": "Washington State"
+    },
+    "400935268": {
+        "Winner": "California"
+    },
+    "400935269": {
+        "Loser": "UTEP",
+        "Winner": "Arizona"
+    },
+    "400935270": {
+        "Loser": "UCLA",
+        "Winner": "Memphis"
+    },
+    "400935271": {
+        "Winner": "Colorado"
+    },
+    "400935272": {
+        "Loser": "San Jose State",
+        "Winner": "Utah"
+    },
+    "400935273": {
+        "Loser": "Wyoming",
+        "Winner": "Oregon"
+    },
+    "400935274": {
+        "Loser": "Oregon State",
+        "Winner": "Washington State"
+    },
+    "400935275": {
+        "Loser": "Fresno State",
+        "Winner": "Washington"
+    },
+    "400935276": {
+        "Loser": "Stanford",
+        "Winner": "San Diego State"
+    },
+    "400935277": {
+        "Loser": "Arizona",
+        "Winner": "Utah"
+    },
+    "400935278": {
+        "Loser": "Oregon",
+        "Winner": "Arizona State"
+    },
+    "400935279": {
+        "Loser": "California",
+        "Winner": "USC"
+    },
+    "400935280": {
+        "Loser": "UCLA",
+        "Winner": "Stanford"
+    },
+    "400935281": {
+        "Loser": "Colorado",
+        "Winner": "Washington"
+    },
+    "400935282": {
+        "Loser": "Oregon State",
+        "Winner": "Colorado State"
+    },
+    "400935283": {
+        "Loser": "Nevada",
+        "Winner": "Washington State"
+    },
+    "400935284": {
+        "Loser": "USC",
+        "Winner": "Washington State"
+    },
+    "400935285": {
+        "Loser": "Arizona State",
+        "Winner": "Stanford"
+    },
+    "400935286": {
+        "Loser": "Colorado",
+        "Winner": "UCLA"
+    },
+    "400935287": {
+        "Loser": "California",
+        "Winner": "Oregon"
+    },
+    "400935288": {
+        "Loser": "Oregon State",
+        "Winner": "Washington"
+    },
+    "400935289": {
+        "Loser": "Colorado",
+        "Winner": "Arizona"
+    },
+    "400935290": {
+        "Loser": "Oregon State",
+        "Winner": "USC"
+    },
+    "400935291": {
+        "Loser": "Utah",
+        "Winner": "Stanford"
+    },
+    "400935292": {
+        "Loser": "Oregon",
+        "Winner": "Washington State"
+    },
+    "400935293": {
+        "Loser": "California",
+        "Winner": "Washington"
+    },
+    "400935294": {
+        "Loser": "Washington State",
+        "Winner": "California"
+    },
+    "400935295": {
+        "Loser": "UCLA",
+        "Winner": "Arizona"
+    },
+    "400935296": {
+        "Loser": "Washington",
+        "Winner": "Arizona State"
+    },
+    "400935297": {
+        "Loser": "Utah",
+        "Winner": "USC"
+    },
+    "400935298": {
+        "Loser": "Oregon State",
+        "Winner": "Colorado"
+    },
+    "400935299": {
+        "Loser": "Oregon",
+        "Winner": "Stanford"
+    },
+    "400935300": {
+        "Loser": "California",
+        "Winner": "Arizona"
+    },
+    "400935301": {
+        "Loser": "Utah",
+        "Winner": "Arizona State"
+    },
+    "400935302": {
+        "Loser": "Oregon",
+        "Winner": "UCLA"
+    },
+    "400935303": {
+        "Loser": "Colorado",
+        "Winner": "Washington State"
+    },
+    "400935304": {
+        "Loser": "Oregon State",
+        "Winner": "Stanford"
+    },
+    "400935305": {
+        "Loser": "Washington State",
+        "Winner": "Arizona"
+    },
+    "400935306": {
+        "Loser": "Arizona State",
+        "Winner": "USC"
+    },
+    "400935307": {
+        "Loser": "UCLA",
+        "Winner": "Washington"
+    },
+    "400935308": {
+        "Loser": "California",
+        "Winner": "Colorado"
+    },
+    "400935309": {
+        "Loser": "Utah",
+        "Winner": "Oregon"
+    },
+    "400935310": {
+        "Loser": "UCLA",
+        "Winner": "Utah"
+    },
+    "400935311": {
+        "Loser": "Arizona",
+        "Winner": "USC"
+    },
+    "400935312": {
+        "Loser": "Colorado",
+        "Winner": "Arizona State"
+    },
+    "400935313": {
+        "Loser": "Oregon",
+        "Winner": "Washington"
+    },
+    "400935314": {
+        "Loser": "Oregon State",
+        "Winner": "California"
+    },
+    "400935315": {
+        "Loser": "Stanford",
+        "Winner": "Washington State"
+    },
+    "400935316": {
+        "Loser": "Washington",
+        "Winner": "Stanford"
+    },
+    "400935317": {
+        "Loser": "Oregon State",
+        "Winner": "Arizona"
+    },
+    "400935318": {
+        "Loser": "Arizona State",
+        "Winner": "UCLA"
+    },
+    "400935319": {
+        "Loser": "Colorado",
+        "Winner": "USC"
+    },
+    "400935320": {
+        "Loser": "Utah",
+        "Winner": "Washington State"
+    },
+    "400935321": {
+        "Loser": "Arizona",
+        "Winner": "Oregon"
+    },
+    "400935322": {
+        "Loser": "Oregon State",
+        "Winner": "Arizona State"
+    },
+    "400935323": {
+        "Loser": "UCLA",
+        "Winner": "USC"
+    },
+    "400935324": {
+        "Loser": "Utah",
+        "Winner": "Washington"
+    },
+    "400935325": {
+        "Loser": "California",
+        "Winner": "Stanford"
+    },
+    "400935326": {
+        "Loser": "California",
+        "Winner": "UCLA"
+    },
+    "400935327": {
+        "Loser": "Oregon State",
+        "Winner": "Oregon"
+    },
+    "400935328": {
+        "Loser": "Arizona",
+        "Winner": "Arizona State"
+    },
+    "400935329": {
+        "Loser": "Colorado",
+        "Winner": "Utah"
+    },
+    "400935330": {
+        "Loser": "Washington State",
+        "Winner": "Washington"
+    },
+    "400935347": {
+        "Loser": "Virginia",
+        "Winner": "Indiana"
+    },
+    "400935348": {
+        "Loser": "Florida Atlantic",
+        "Winner": "Wisconsin"
+    },
+    "400935349": {
+        "Loser": "BYU",
+        "Winner": "Wisconsin"
+    },
+    "400935351": {
+        "Loser": "North Texas",
+        "Winner": "Iowa"
+    },
+    "400935352": {
+        "Loser": "Air Force",
+        "Winner": "Michigan"
+    },
+    "400935353": {
+        "Loser": "Middle Tennessee",
+        "Winner": "Minnesota"
+    },
+    "400935354": {
+        "Loser": "Nebraska",
+        "Winner": "Northern Illinois"
+    },
+    "400935355": {
+        "Loser": "Bowling Green",
+        "Winner": "Northwestern"
+    },
+    "400935356": {
+        "Loser": "Georgia State",
+        "Winner": "Penn State"
+    },
+    "400935357": {
+        "Winner": "Rutgers"
+    },
+    "400935359": {
+        "Loser": "Georgia Southern",
+        "Winner": "Indiana"
+    },
+    "400935360": {
+        "Loser": "Iowa",
+        "Winner": "Penn State"
+    },
+    "400935361": {
+        "Loser": "Maryland",
+        "Winner": "UCF"
+    },
+    "400935362": {
+        "Loser": "Rutgers",
+        "Winner": "Nebraska"
+    },
+    "400935363": {
+        "Loser": "UNLV",
+        "Winner": "Ohio State"
+    },
+    "400935364": {
+        "Loser": "Purdue",
+        "Winner": "Michigan"
+    },
+    "400935365": {
+        "Loser": "Illinois",
+        "Winner": "Nebraska"
+    },
+    "400935366": {
+        "Loser": "Iowa",
+        "Winner": "Michigan State"
+    },
+    "400935367": {
+        "Loser": "Minnesota",
+        "Winner": "Maryland"
+    },
+    "400935368": {
+        "Loser": "Indiana",
+        "Winner": "Penn State"
+    },
+    "400935369": {
+        "Loser": "Rutgers",
+        "Winner": "Ohio State"
+    },
+    "400935370": {
+        "Loser": "Northwestern",
+        "Winner": "Wisconsin"
+    },
+    "400935371": {
+        "Loser": "Illinois",
+        "Winner": "Iowa"
+    },
+    "400935372": {
+        "Loser": "Michigan",
+        "Winner": "Michigan State"
+    },
+    "400935373": {
+        "Loser": "Nebraska",
+        "Winner": "Wisconsin"
+    },
+    "400935374": {
+        "Loser": "Northwestern",
+        "Winner": "Penn State"
+    },
+    "400935375": {
+        "Loser": "Maryland",
+        "Winner": "Ohio State"
+    },
+    "400935376": {
+        "Loser": "Minnesota",
+        "Winner": "Purdue"
+    },
+    "400935377": {
+        "Loser": "Maryland",
+        "Winner": "Northwestern"
+    },
+    "400935378": {
+        "Loser": "Illinois",
+        "Winner": "Rutgers"
+    },
+    "400935379": {
+        "Loser": "Indiana",
+        "Winner": "Michigan"
+    },
+    "400935380": {
+        "Loser": "Minnesota",
+        "Winner": "Michigan State"
+    },
+    "400935381": {
+        "Loser": "Nebraska",
+        "Winner": "Ohio State"
+    },
+    "400935382": {
+        "Loser": "Purdue",
+        "Winner": "Wisconsin"
+    },
+    "400935383": {
+        "Loser": "Indiana",
+        "Winner": "Michigan State"
+    },
+    "400935384": {
+        "Loser": "Illinois",
+        "Winner": "Minnesota"
+    },
+    "400935385": {
+        "Loser": "Iowa",
+        "Winner": "Northwestern"
+    },
+    "400935386": {
+        "Loser": "Michigan",
+        "Winner": "Penn State"
+    },
+    "400935387": {
+        "Loser": "Purdue",
+        "Winner": "Rutgers"
+    },
+    "400935388": {
+        "Loser": "Maryland",
+        "Winner": "Wisconsin"
+    },
+    "400935389": {
+        "Loser": "Michigan State",
+        "Winner": "Northwestern"
+    },
+    "400935390": {
+        "Loser": "Illinois",
+        "Winner": "Wisconsin"
+    },
+    "400935391": {
+        "Loser": "Minnesota",
+        "Winner": "Iowa"
+    },
+    "400935392": {
+        "Loser": "Indiana",
+        "Winner": "Maryland"
+    },
+    "400935393": {
+        "Loser": "Rutgers",
+        "Winner": "Michigan"
+    },
+    "400935394": {
+        "Loser": "Penn State",
+        "Winner": "Ohio State"
+    },
+    "400935395": {
+        "Loser": "Purdue",
+        "Winner": "Nebraska"
+    },
+    "400935396": {
+        "Loser": "Indiana",
+        "Winner": "Wisconsin"
+    },
+    "400935397": {
+        "Loser": "Ohio State",
+        "Winner": "Iowa"
+    },
+    "400935398": {
+        "Loser": "Minnesota",
+        "Winner": "Michigan"
+    },
+    "400935399": {
+        "Loser": "Penn State",
+        "Winner": "Michigan State"
+    },
+    "400935400": {
+        "Loser": "Nebraska",
+        "Winner": "Northwestern"
+    },
+    "400935401": {
+        "Loser": "Illinois",
+        "Winner": "Purdue"
+    },
+    "400935402": {
+        "Loser": "Maryland",
+        "Winner": "Rutgers"
+    },
+    "400935403": {
+        "Loser": "Illinois",
+        "Winner": "Indiana"
+    },
+    "400935404": {
+        "Loser": "Maryland",
+        "Winner": "Michigan"
+    },
+    "400935405": {
+        "Loser": "Nebraska",
+        "Winner": "Minnesota"
+    },
+    "400935406": {
+        "Loser": "Purdue",
+        "Winner": "Northwestern"
+    },
+    "400935407": {
+        "Loser": "Michigan State",
+        "Winner": "Ohio State"
+    },
+    "400935408": {
+        "Loser": "Rutgers",
+        "Winner": "Penn State"
+    },
+    "400935409": {
+        "Loser": "Iowa",
+        "Winner": "Wisconsin"
+    },
+    "400935410": {
+        "Loser": "Rutgers",
+        "Winner": "Indiana"
+    },
+    "400935411": {
+        "Loser": "Iowa",
+        "Winner": "Purdue"
+    },
+    "400935412": {
+        "Loser": "Maryland",
+        "Winner": "Michigan State"
+    },
+    "400935413": {
+        "Loser": "Minnesota",
+        "Winner": "Northwestern"
+    },
+    "400935414": {
+        "Loser": "Illinois",
+        "Winner": "Ohio State"
+    },
+    "400935415": {
+        "Loser": "Nebraska",
+        "Winner": "Penn State"
+    },
+    "400935416": {
+        "Loser": "Michigan",
+        "Winner": "Wisconsin"
+    },
+    "400935417": {
+        "Loser": "Nebraska",
+        "Winner": "Iowa"
+    },
+    "400935418": {
+        "Loser": "Illinois",
+        "Winner": "Northwestern"
+    },
+    "400935419": {
+        "Loser": "Maryland",
+        "Winner": "Penn State"
+    },
+    "400935420": {
+        "Loser": "Michigan",
+        "Winner": "Ohio State"
+    },
+    "400935421": {
+        "Loser": "Minnesota",
+        "Winner": "Wisconsin"
+    },
+    "400935422": {
+        "Loser": "Indiana",
+        "Winner": "Purdue"
+    },
+    "400935423": {
+        "Loser": "Rutgers",
+        "Winner": "Michigan State"
+    },
+    "400937445": {
+        "Winner": "Wake Forest"
+    },
+    "400937446": {
+        "Loser": "Northern Illinois",
+        "Winner": "Boston College"
+    },
+    "400937447": {
+        "Loser": "Kent State",
+        "Winner": "Clemson"
+    },
+    "400937448": {
+        "Winner": "Duke"
+    },
+    "400937449": {
+        "Winner": "Miami"
+    },
+    "400937450": {
+        "Winner": "Pittsburgh"
+    },
+    "400937451": {
+        "Winner": "Syracuse"
+    },
+    "400937452": {
+        "Winner": "Virginia"
+    },
+    "400937453": {
+        "Loser": "Boston College",
+        "Winner": "Wake Forest"
+    },
+    "400937455": {
+        "Winner": "Georgia Tech"
+    },
+    "400937456": {
+        "Loser": "North Carolina",
+        "Winner": "Louisville"
+    },
+    "400937458": {
+        "Loser": "Marshall",
+        "Winner": "NC State"
+    },
+    "400937459": {
+        "Loser": "Syracuse",
+        "Winner": "Middle Tennessee"
+    },
+    "400937460": {
+        "Winner": "Virginia Tech"
+    },
+    "400937461": {
+        "Loser": "Louisville",
+        "Winner": "Clemson"
+    },
+    "400937464": {
+        "Loser": "Old Dominion",
+        "Winner": "North Carolina"
+    },
+    "400937465": {
+        "Winner": "NC State"
+    },
+    "400937466": {
+        "Loser": "Central Michigan",
+        "Winner": "Syracuse"
+    },
+    "400937467": {
+        "Loser": "UConn",
+        "Winner": "Virginia"
+    },
+    "400937468": {
+        "Loser": "East Carolina",
+        "Winner": "Virginia Tech"
+    },
+    "400937469": {
+        "Loser": "Utah State",
+        "Winner": "Wake Forest"
+    },
+    "400937470": {
+        "Loser": "Boston College",
+        "Winner": "Clemson"
+    },
+    "400937471": {
+        "Loser": "North Carolina",
+        "Winner": "Duke"
+    },
+    "400937472": {
+        "Loser": "Florida State",
+        "Winner": "NC State"
+    },
+    "400937473": {
+        "Loser": "Pittsburgh",
+        "Winner": "Georgia Tech"
+    },
+    "400937474": {
+        "Loser": "Kent State",
+        "Winner": "Louisville"
+    },
+    "400937475": {
+        "Loser": "Toledo",
+        "Winner": "Miami"
+    },
+    "400937477": {
+        "Loser": "Old Dominion",
+        "Winner": "Virginia Tech"
+    },
+    "400937478": {
+        "Loser": "Appalachian State",
+        "Winner": "Wake Forest"
+    },
+    "400937479": {
+        "Loser": "Duke",
+        "Winner": "Miami"
+    },
+    "400937480": {
+        "Loser": "Central Michigan",
+        "Winner": "Boston College"
+    },
+    "400937481": {
+        "Loser": "Virginia Tech",
+        "Winner": "Clemson"
+    },
+    "400937482": {
+        "Loser": "Wake Forest",
+        "Winner": "Florida State"
+    },
+    "400937483": {
+        "Loser": "North Carolina",
+        "Winner": "Georgia Tech"
+    },
+    "400937484": {
+        "Winner": "Louisville"
+    },
+    "400937485": {
+        "Loser": "Syracuse",
+        "Winner": "NC State"
+    },
+    "400937486": {
+        "Loser": "Rice",
+        "Winner": "Pittsburgh"
+    },
+    "400937487": {
+        "Loser": "Louisville",
+        "Winner": "NC State"
+    },
+    "400937488": {
+        "Loser": "Boston College",
+        "Winner": "Virginia Tech"
+    },
+    "400937489": {
+        "Loser": "Wake Forest",
+        "Winner": "Clemson"
+    },
+    "400937490": {
+        "Loser": "Duke",
+        "Winner": "Virginia"
+    },
+    "400937491": {
+        "Loser": "Pittsburgh",
+        "Winner": "Syracuse"
+    },
+    "400937493": {
+        "Loser": "Clemson",
+        "Winner": "Syracuse"
+    },
+    "400937494": {
+        "Loser": "Louisville",
+        "Winner": "Boston College"
+    },
+    "400937495": {
+        "Loser": "Duke",
+        "Winner": "Florida State"
+    },
+    "400937496": {
+        "Loser": "North Carolina",
+        "Winner": "Virginia"
+    },
+    "400937497": {
+        "Loser": "Pittsburgh",
+        "Winner": "NC State"
+    },
+    "400937498": {
+        "Loser": "Virginia",
+        "Winner": "Boston College"
+    },
+    "400937499": {
+        "Loser": "Duke",
+        "Winner": "Pittsburgh"
+    },
+    "400937500": {
+        "Loser": "Florida State",
+        "Winner": "Louisville"
+    },
+    "400937501": {
+        "Loser": "Wake Forest",
+        "Winner": "Georgia Tech"
+    },
+    "400937502": {
+        "Loser": "Syracuse",
+        "Winner": "Miami"
+    },
+    "400937503": {
+        "Loser": "North Carolina",
+        "Winner": "Virginia Tech"
+    },
+    "400937504": {
+        "Loser": "Florida State",
+        "Winner": "Boston College"
+    },
+    "400937505": {
+        "Loser": "Georgia Tech",
+        "Winner": "Clemson"
+    },
+    "400937506": {
+        "Loser": "Duke",
+        "Winner": "Virginia Tech"
+    },
+    "400937507": {
+        "Loser": "Louisville",
+        "Winner": "Wake Forest"
+    },
+    "400937508": {
+        "Loser": "North Carolina",
+        "Winner": "Miami"
+    },
+    "400937509": {
+        "Loser": "Virginia",
+        "Winner": "Pittsburgh"
+    },
+    "400937510": {
+        "Loser": "NC State",
+        "Winner": "Clemson"
+    },
+    "400937511": {
+        "Loser": "Syracuse",
+        "Winner": "Florida State"
+    },
+    "400937512": {
+        "Loser": "Georgia Tech",
+        "Winner": "Virginia"
+    },
+    "400937513": {
+        "Loser": "Virginia Tech",
+        "Winner": "Miami"
+    },
+    "400937514": {
+        "Loser": "Pittsburgh",
+        "Winner": "North Carolina"
+    },
+    "400937515": {
+        "Loser": "Boston College",
+        "Winner": "NC State"
+    },
+    "400937516": {
+        "Loser": "Florida State",
+        "Winner": "Clemson"
+    },
+    "400937517": {
+        "Loser": "Virginia Tech",
+        "Winner": "Georgia Tech"
+    },
+    "400937518": {
+        "Loser": "Virginia",
+        "Winner": "Louisville"
+    },
+    "400937519": {
+        "Loser": "Syracuse",
+        "Winner": "Wake Forest"
+    },
+    "400937520": {
+        "Loser": "UConn",
+        "Winner": "Boston College"
+    },
+    "400937521": {
+        "Winner": "Clemson"
+    },
+    "400937522": {
+        "Loser": "Georgia Tech",
+        "Winner": "Duke"
+    },
+    "400937523": {
+        "Winner": "Florida State"
+    },
+    "400937524": {
+        "Loser": "Syracuse",
+        "Winner": "Louisville"
+    },
+    "400937525": {
+        "Loser": "Virginia",
+        "Winner": "Miami"
+    },
+    "400937526": {
+        "Winner": "North Carolina"
+    },
+    "400937527": {
+        "Loser": "NC State",
+        "Winner": "Wake Forest"
+    },
+    "400937528": {
+        "Loser": "Pittsburgh",
+        "Winner": "Virginia Tech"
+    },
+    "400937529": {
+        "Loser": "Miami",
+        "Winner": "Pittsburgh"
+    },
+    "400937530": {
+        "Loser": "Virginia",
+        "Winner": "Virginia Tech"
+    },
+    "400937531": {
+        "Loser": "Syracuse",
+        "Winner": "Boston College"
+    },
+    "400937532": {
+        "Loser": "Wake Forest",
+        "Winner": "Duke"
+    },
+    "400937533": {
+        "Loser": "North Carolina",
+        "Winner": "NC State"
+    },
+    "400938591": {
+        "Winner": "UCF"
+    },
+    "400938592": {
+        "Loser": "Florida Atlantic",
+        "Winner": "Navy"
+    },
+    "400938593": {
+        "Winner": "Louisiana Tech"
+    },
+    "400938594": {
+        "Loser": "Miami (OH)",
+        "Winner": "Marshall"
+    },
+    "400938595": {
+        "Winner": "North Texas"
+    },
+    "400938596": {
+        "Winner": "Old Dominion"
+    },
+    "400938597": {
+        "Winner": "UAB"
+    },
+    "400938599": {
+        "Winner": "Western Kentucky"
+    },
+    "400938600": {},
+    "400938601": {
+        "Loser": "North Texas",
+        "Winner": "SMU"
+    },
+    "400938602": {
+        "Loser": "UMass",
+        "Winner": "Old Dominion"
+    },
+    "400938603": {
+        "Loser": "UTEP",
+        "Winner": "Rice"
+    },
+    "400938604": {
+        "Winner": "Southern Mississippi"
+    },
+    "400938605": {
+        "Loser": "UAB",
+        "Winner": "Ball State"
+    },
+    "400938606": {
+        "Loser": "Charlotte"
+    },
+    "400938607": {
+        "Winner": "Florida Atlantic"
+    },
+    "400938608": {
+        "Loser": "Western Kentucky",
+        "Winner": "Louisiana Tech"
+    },
+    "400938609": {
+        "Loser": "Kent State",
+        "Winner": "Marshall"
+    },
+    "400938610": {
+        "Loser": "Rice",
+        "Winner": "Houston"
+    },
+    "400938611": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Southern Mississippi"
+    },
+    "400938612": {
+        "Loser": "Coastal Carolina",
+        "Winner": "UAB"
+    },
+    "400938613": {
+        "Winner": "UT San Antonio"
+    },
+    "400938614": {
+        "Loser": "Charlotte",
+        "Winner": "Georgia State"
+    },
+    "400938615": {
+        "Loser": "Rice"
+    },
+    "400938616": {
+        "Loser": "Florida Atlantic",
+        "Winner": "Buffalo"
+    },
+    "400938617": {
+        "Loser": "Bowling Green",
+        "Winner": "Middle Tennessee"
+    },
+    "400938618": {
+        "Loser": "UAB",
+        "Winner": "North Texas"
+    },
+    "400938619": {
+        "Loser": "UTEP",
+        "Winner": "New Mexico State"
+    },
+    "400938620": {
+        "Loser": "Texas State",
+        "Winner": "UT San Antonio"
+    },
+    "400938621": {
+        "Loser": "Ball State",
+        "Winner": "Western Kentucky"
+    },
+    "400938622": {
+        "Loser": "Charlotte"
+    },
+    "400938623": {
+        "Loser": "Middle Tennessee",
+        "Winner": "Florida Atlantic"
+    },
+    "400938624": {
+        "Loser": "South Alabama",
+        "Winner": "Louisiana Tech"
+    },
+    "400938625": {
+        "Loser": "Cincinnati",
+        "Winner": "Marshall"
+    },
+    "400938626": {
+        "Loser": "Southern Mississippi",
+        "Winner": "North Texas"
+    },
+    "400938627": {
+        "Loser": "Charlotte",
+        "Winner": "Marshall"
+    },
+    "400938628": {
+        "Winner": "Middle Tennessee"
+    },
+    "400938629": {
+        "Loser": "Old Dominion",
+        "Winner": "Florida Atlantic"
+    },
+    "400938630": {
+        "Loser": "Louisiana Tech",
+        "Winner": "UAB"
+    },
+    "400938631": {
+        "Loser": "UTEP",
+        "Winner": "Western Kentucky"
+    },
+    "400938632": {
+        "Loser": "Charlotte",
+        "Winner": "Western Kentucky"
+    },
+    "400938633": {
+        "Loser": "Tulane"
+    },
+    "400938634": {
+        "Loser": "Old Dominion",
+        "Winner": "Marshall"
+    },
+    "400938635": {
+        "Loser": "Middle Tennessee",
+        "Winner": "UAB"
+    },
+    "400938636": {
+        "Loser": "UT San Antonio",
+        "Winner": "North Texas"
+    },
+    "400938637": {
+        "Loser": "UTEP",
+        "Winner": "Southern Mississippi"
+    },
+    "400938638": {
+        "Loser": "UAB",
+        "Winner": "Charlotte"
+    },
+    "400938639": {
+        "Loser": "North Texas",
+        "Winner": "Florida Atlantic"
+    },
+    "400938640": {
+        "Loser": "Louisiana Tech",
+        "Winner": "Southern Mississippi"
+    },
+    "400938641": {
+        "Loser": "Old Dominion",
+        "Winner": "Western Kentucky"
+    },
+    "400938642": {
+        "Loser": "Rice",
+        "Winner": "UT San Antonio"
+    },
+    "400938643": {
+        "Loser": "Marshall"
+    },
+    "400938644": {
+        "Loser": "Western Kentucky",
+        "Winner": "Florida Atlantic"
+    },
+    "400938645": {
+        "Loser": "Rice",
+        "Winner": "Louisiana Tech"
+    },
+    "400938646": {
+        "Loser": "Old Dominion",
+        "Winner": "North Texas"
+    },
+    "400938647": {
+        "Loser": "Southern Mississippi",
+        "Winner": "UAB"
+    },
+    "400938648": {
+        "Loser": "UTEP",
+        "Winner": "UT San Antonio"
+    },
+    "400938649": {
+        "Loser": "Charlotte",
+        "Winner": "Old Dominion"
+    },
+    "400938650": {
+        "Loser": "UT San Antonio"
+    },
+    "400938651": {
+        "Loser": "Louisiana Tech",
+        "Winner": "North Texas"
+    },
+    "400938652": {
+        "Loser": "UTEP",
+        "Winner": "Middle Tennessee"
+    },
+    "400938653": {
+        "Loser": "Rice",
+        "Winner": "UAB"
+    },
+    "400938654": {
+        "Loser": "Charlotte",
+        "Winner": "Middle Tennessee"
+    },
+    "400938655": {
+        "Winner": "Old Dominion"
+    },
+    "400938656": {
+        "Loser": "Louisiana Tech",
+        "Winner": "Florida Atlantic"
+    },
+    "400938657": {
+        "Loser": "Western Kentucky",
+        "Winner": "Marshall"
+    },
+    "400938658": {
+        "Loser": "UTEP",
+        "Winner": "North Texas"
+    },
+    "400938659": {
+        "Loser": "Rice",
+        "Winner": "Southern Mississippi"
+    },
+    "400938660": {
+        "Loser": "UT San Antonio",
+        "Winner": "UAB"
+    },
+    "400938661": {
+        "Loser": "Charlotte",
+        "Winner": "Southern Mississippi"
+    },
+    "400938662": {
+        "Winner": "Florida Atlantic"
+    },
+    "400938663": {
+        "Loser": "UTEP",
+        "Winner": "Louisiana Tech"
+    },
+    "400938664": {
+        "Loser": "Marshall",
+        "Winner": "UT San Antonio"
+    },
+    "400938665": {
+        "Loser": "Middle Tennessee",
+        "Winner": "Western Kentucky"
+    },
+    "400938666": {
+        "Loser": "Rice",
+        "Winner": "Old Dominion"
+    },
+    "400938667": {
+        "Loser": "Charlotte",
+        "Winner": "Florida Atlantic"
+    },
+    "400938668": {
+        "Loser": "Western Kentucky"
+    },
+    "400938669": {
+        "Loser": "UT San Antonio",
+        "Winner": "Louisiana Tech"
+    },
+    "400938670": {
+        "Loser": "Marshall",
+        "Winner": "Southern Mississippi"
+    },
+    "400938671": {
+        "Loser": "Old Dominion",
+        "Winner": "Middle Tennessee"
+    },
+    "400938672": {
+        "Loser": "Rice",
+        "Winner": "North Texas"
+    },
+    "400938673": {
+        "Loser": "UTEP",
+        "Winner": "UAB"
+    },
+    "400938674": {
+        "Loser": "Middle Tennessee",
+        "Winner": "Marshall"
+    },
+    "400938675": {
+        "Loser": "Marshall",
+        "Winner": "Florida Atlantic"
+    },
+    "400938676": {
+        "Loser": "UT San Antonio",
+        "Winner": "Southern Mississippi"
+    },
+    "400938887": {
+        "Loser": "UMass",
+        "Winner": "Hawai'i"
+    },
+    "400938888": {
+        "Loser": "UMass",
+        "Winner": "Coastal Carolina"
+    },
+    "400938890": {
+        "Loser": "UMass",
+        "Winner": "Ohio"
+    },
+    "400938892": {
+        "Loser": "Georgia Southern",
+        "Winner": "UMass"
+    },
+    "400938893": {
+        "Loser": "Appalachian State",
+        "Winner": "UMass"
+    },
+    "400938894": {
+        "Winner": "UMass"
+    },
+    "400938895": {
+        "Loser": "BYU",
+        "Winner": "UMass"
+    },
+    "400941786": {
+        "Loser": "San Jose State",
+        "Winner": "South Florida"
+    },
+    "400941787": {
+        "Winner": "Cincinnati"
+    },
+    "400941788": {
+        "Winner": "UConn"
+    },
+    "400941789": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Memphis"
+    },
+    "400941790": {
+        "Loser": "East Carolina"
+    },
+    "400941791": {
+        "Winner": "South Florida"
+    },
+    "400941792": {
+        "Winner": "SMU"
+    },
+    "400941793": {
+        "Winner": "Tulane"
+    },
+    "400941794": {
+        "Loser": "Tulane",
+        "Winner": "Navy"
+    },
+    "400941797": {
+        "Winner": "Temple"
+    },
+    "400941798": {
+        "Loser": "Louisiana",
+        "Winner": "Tulsa"
+    },
+    "400941799": {
+        "Loser": "Illinois",
+        "Winner": "South Florida"
+    },
+    "400941800": {
+        "Loser": "UMass",
+        "Winner": "Temple"
+    },
+    "400941801": {
+        "Loser": "Miami (OH)",
+        "Winner": "Cincinnati"
+    },
+    "400941802": {
+        "Loser": "Tulsa",
+        "Winner": "Toledo"
+    },
+    "400941803": {
+        "Loser": "Temple",
+        "Winner": "South Florida"
+    },
+    "400941804": {
+        "Loser": "Cincinnati",
+        "Winner": "Navy"
+    },
+    "400941805": {
+        "Winner": "Memphis"
+    },
+    "400941806": {
+        "Loser": "Arkansas State",
+        "Winner": "SMU"
+    },
+    "400941807": {
+        "Loser": "Tulsa",
+        "Winner": "New Mexico"
+    },
+    "400941809": {
+        "Loser": "UConn",
+        "Winner": "SMU"
+    },
+    "400941810": {
+        "Loser": "East Carolina",
+        "Winner": "South Florida"
+    },
+    "400941811": {
+        "Loser": "Temple",
+        "Winner": "Houston"
+    },
+    "400941813": {
+        "Loser": "Tulsa",
+        "Winner": "Navy"
+    },
+    "400941814": {
+        "Loser": "UConn",
+        "Winner": "Memphis"
+    },
+    "400941815": {
+        "Loser": "Air Force",
+        "Winner": "Navy"
+    },
+    "400941816": {
+        "Loser": "Cincinnati",
+        "Winner": "UCF"
+    },
+    "400941817": {
+        "Loser": "East Carolina",
+        "Winner": "Temple"
+    },
+    "400941818": {
+        "Loser": "SMU",
+        "Winner": "Houston"
+    },
+    "400941819": {
+        "Loser": "Tulsa",
+        "Winner": "Tulane"
+    },
+    "400941820": {
+        "Loser": "East Carolina",
+        "Winner": "UCF"
+    },
+    "400941821": {
+        "Loser": "Temple",
+        "Winner": "UConn"
+    },
+    "400941822": {
+        "Loser": "Houston",
+        "Winner": "Tulsa"
+    },
+    "400941823": {
+        "Loser": "Navy",
+        "Winner": "Memphis"
+    },
+    "400941824": {
+        "Loser": "Houston",
+        "Winner": "Memphis"
+    },
+    "400941825": {
+        "Loser": "Navy",
+        "Winner": "UCF"
+    },
+    "400941826": {
+        "Loser": "Cincinnati",
+        "Winner": "SMU"
+    },
+    "400941827": {
+        "Loser": "Tulsa",
+        "Winner": "UConn"
+    },
+    "400941828": {
+        "Loser": "BYU",
+        "Winner": "East Carolina"
+    },
+    "400941829": {
+        "Loser": "Tulane",
+        "Winner": "South Florida"
+    },
+    "400941830": {
+        "Loser": "Tulane",
+        "Winner": "Memphis"
+    },
+    "400941831": {
+        "Loser": "Tulsa",
+        "Winner": "SMU"
+    },
+    "400941832": {
+        "Loser": "Cincinnati",
+        "Winner": "South Florida"
+    },
+    "400941833": {
+        "Loser": "East Carolina",
+        "Winner": "Houston"
+    },
+    "400941834": {
+        "Loser": "Navy",
+        "Winner": "Temple"
+    },
+    "400941835": {
+        "Loser": "Tulsa",
+        "Winner": "Memphis"
+    },
+    "400941836": {
+        "Loser": "SMU",
+        "Winner": "UCF"
+    },
+    "400941837": {
+        "Loser": "Tulane",
+        "Winner": "Cincinnati"
+    },
+    "400941838": {
+        "Loser": "UConn",
+        "Winner": "East Carolina"
+    },
+    "400941839": {
+        "Loser": "South Florida",
+        "Winner": "Houston"
+    },
+    "400941840": {
+        "Loser": "Cincinnati",
+        "Winner": "Temple"
+    },
+    "400941841": {
+        "Loser": "SMU",
+        "Winner": "Navy"
+    },
+    "400941842": {
+        "Loser": "UConn",
+        "Winner": "UCF"
+    },
+    "400941843": {
+        "Loser": "East Carolina",
+        "Winner": "Tulane"
+    },
+    "400941844": {
+        "Loser": "Temple",
+        "Winner": "UCF"
+    },
+    "400941845": {
+        "Loser": "Cincinnati",
+        "Winner": "East Carolina"
+    },
+    "400941846": {
+        "Loser": "Houston",
+        "Winner": "Tulane"
+    },
+    "400941847": {
+        "Loser": "SMU",
+        "Winner": "Memphis"
+    },
+    "400941848": {
+        "Loser": "Tulsa",
+        "Winner": "South Florida"
+    },
+    "400941849": {
+        "Loser": "South Florida",
+        "Winner": "UCF"
+    },
+    "400941850": {
+        "Loser": "Navy",
+        "Winner": "Houston"
+    },
+    "400941851": {
+        "Loser": "UConn",
+        "Winner": "Cincinnati"
+    },
+    "400941852": {
+        "Loser": "East Carolina",
+        "Winner": "Memphis"
+    },
+    "400941853": {
+        "Loser": "Tulsa",
+        "Winner": "Temple"
+    },
+    "400941854": {
+        "Loser": "Tulane",
+        "Winner": "SMU"
+    },
+    "400944818": {
+        "Loser": "Akron",
+        "Winner": "Troy"
+    },
+    "400944826": {
+        "Loser": "Georgia State"
+    },
+    "400944827": {},
+    "400944828": {
+        "Winner": "Louisiana"
+    },
+    "400944829": {
+        "Winner": "Texas State"
+    },
+    "400944830": {
+        "Loser": "Troy",
+        "Winner": "Boise State"
+    },
+    "400944831": {
+        "Winner": "Appalachian State"
+    },
+    "400944832": {
+        "Loser": "Georgia Southern"
+    },
+    "400944833": {
+        "Winner": "UNLV"
+    },
+    "400944834": {
+        "Loser": "New Mexico",
+        "Winner": "New Mexico State"
+    },
+    "400944835": {
+        "Winner": "Troy"
+    },
+    "400944836": {
+        "Loser": "Texas State",
+        "Winner": "Appalachian State"
+    },
+    "400944837": {
+        "Loser": "New Mexico State",
+        "Winner": "Troy"
+    },
+    "400944838": {
+        "Winner": "Arkansas State"
+    },
+    "400944839": {
+        "Winner": "Western Michigan"
+    },
+    "400944840": {
+        "Winner": "South Alabama"
+    },
+    "400944841": {
+        "Loser": "South Alabama"
+    },
+    "400944842": {
+        "Loser": "Louisiana",
+        "Winner": "Louisiana Monroe"
+    },
+    "400944843": {
+        "Loser": "Coastal Carolina"
+    },
+    "400944844": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Louisiana Monroe"
+    },
+    "400944845": {
+        "Loser": "Texas State",
+        "Winner": "Wyoming"
+    },
+    "400944846": {
+        "Loser": "Georgia Southern",
+        "Winner": "Arkansas State"
+    },
+    "400944847": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Georgia State"
+    },
+    "400944848": {
+        "Winner": "Louisiana"
+    },
+    "400944849": {
+        "Loser": "Texas State",
+        "Winner": "Louisiana Monroe"
+    },
+    "400944850": {
+        "Loser": "New Mexico State",
+        "Winner": "Appalachian State"
+    },
+    "400944851": {
+        "Loser": "Troy",
+        "Winner": "South Alabama"
+    },
+    "400944852": {
+        "Loser": "Texas State",
+        "Winner": "Louisiana"
+    },
+    "400944853": {
+        "Winner": "Appalachian State"
+    },
+    "400944854": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Arkansas State"
+    },
+    "400944855": {
+        "Loser": "Georgia Southern",
+        "Winner": "New Mexico State"
+    },
+    "400944856": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Georgia State"
+    },
+    "400944857": {
+        "Loser": "Louisiana",
+        "Winner": "Arkansas State"
+    },
+    "400944858": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Appalachian State"
+    },
+    "400944859": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "South Alabama"
+    },
+    "400944860": {
+        "Loser": "Georgia State",
+        "Winner": "Troy"
+    },
+    "400944861": {
+        "Loser": "South Alabama",
+        "Winner": "Georgia State"
+    },
+    "400944862": {
+        "Loser": "New Mexico State",
+        "Winner": "Arkansas State"
+    },
+    "400944863": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Texas State"
+    },
+    "400944864": {
+        "Loser": "Georgia Southern",
+        "Winner": "Troy"
+    },
+    "400944865": {
+        "Loser": "Louisiana Monroe"
+    },
+    "400944866": {
+        "Winner": "Troy"
+    },
+    "400944867": {
+        "Loser": "Appalachian State",
+        "Winner": "Louisiana Monroe"
+    },
+    "400944868": {
+        "Loser": "Georgia Southern",
+        "Winner": "Georgia State"
+    },
+    "400944869": {
+        "Loser": "South Alabama",
+        "Winner": "Louisiana"
+    },
+    "400944870": {
+        "Loser": "Texas State",
+        "Winner": "New Mexico State"
+    },
+    "400944871": {
+        "Loser": "Georgia Southern",
+        "Winner": "Appalachian State"
+    },
+    "400944872": {
+        "Loser": "Arkansas State",
+        "Winner": "South Alabama"
+    },
+    "400944873": {
+        "Loser": "Texas State",
+        "Winner": "Georgia State"
+    },
+    "400944874": {
+        "Loser": "Coastal Carolina",
+        "Winner": "Troy"
+    },
+    "400944875": {
+        "Loser": "Texas State",
+        "Winner": "Arkansas State"
+    },
+    "400944876": {
+        "Winner": "Coastal Carolina"
+    },
+    "400944877": {
+        "Loser": "South Alabama",
+        "Winner": "Georgia Southern"
+    },
+    "400944878": {
+        "Loser": "New Mexico State",
+        "Winner": "Louisiana"
+    },
+    "400944879": {
+        "Loser": "Georgia State",
+        "Winner": "Appalachian State"
+    },
+    "400944880": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Arkansas State"
+    },
+    "400944881": {
+        "Loser": "Louisiana",
+        "Winner": "Georgia Southern"
+    },
+    "400944882": {
+        "Winner": "New Mexico State"
+    },
+    "400944883": {
+        "Loser": "Texas State",
+        "Winner": "Troy"
+    },
+    "400944884": {
+        "Loser": "Louisiana",
+        "Winner": "Appalachian State"
+    },
+    "400944885": {
+        "Loser": "Arkansas State",
+        "Winner": "Troy"
+    },
+    "400944886": {
+        "Loser": "Georgia Southern",
+        "Winner": "Coastal Carolina"
+    },
+    "400944887": {
+        "Loser": "Georgia State"
+    },
+    "400944888": {
+        "Loser": "South Alabama",
+        "Winner": "New Mexico State"
+    },
+    "400944889": {
+        "Winner": "Toledo"
+    },
+    "400944890": {
+        "Winner": "Central Michigan"
+    },
+    "400944891": {
+        "Loser": "Charlotte",
+        "Winner": "Eastern Michigan"
+    },
+    "400944892": {
+        "Winner": "Ohio"
+    },
+    "400944893": {
+        "Winner": "Akron"
+    },
+    "400944894": {
+        "Winner": "Miami (OH)"
+    },
+    "400944895": {
+        "Winner": "Northern Illinois"
+    },
+    "400944896": {
+        "Winner": "Kent State"
+    },
+    "400944897": {
+        "Loser": "Bowling Green"
+    },
+    "400944898": {
+        "Loser": "Nevada",
+        "Winner": "Toledo"
+    },
+    "400944899": {
+        "Winner": "Buffalo"
+    },
+    "400944900": {
+        "Winner": "Ball State"
+    },
+    "400944901": {
+        "Loser": "Central Michigan",
+        "Winner": "Miami (OH)"
+    },
+    "400944902": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Ohio"
+    },
+    "400944903": {
+        "Winner": "Western Michigan"
+    },
+    "400944904": {
+        "Loser": "Bowling Green",
+        "Winner": "Akron"
+    },
+    "400944905": {
+        "Loser": "Ball State",
+        "Winner": "Western Michigan"
+    },
+    "400944986": {
+        "Loser": "Kent State",
+        "Winner": "Buffalo"
+    },
+    "400944987": {
+        "Loser": "Northern Illinois",
+        "Winner": "San Diego State"
+    },
+    "400944988": {
+        "Loser": "Ball State",
+        "Winner": "Akron"
+    },
+    "400944989": {
+        "Loser": "Miami (OH)",
+        "Winner": "Bowling Green"
+    },
+    "400944990": {
+        "Loser": "Ohio",
+        "Winner": "Central Michigan"
+    },
+    "400944991": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Toledo"
+    },
+    "400944992": {
+        "Loser": "Kent State",
+        "Winner": "Northern Illinois"
+    },
+    "400944993": {
+        "Loser": "Buffalo",
+        "Winner": "Western Michigan"
+    },
+    "400944994": {
+        "Loser": "Western Michigan",
+        "Winner": "Akron"
+    },
+    "400944995": {
+        "Loser": "Miami (OH)",
+        "Winner": "Kent State"
+    },
+    "400944996": {
+        "Loser": "Buffalo",
+        "Winner": "Northern Illinois"
+    },
+    "400944997": {
+        "Loser": "Bowling Green",
+        "Winner": "Ohio"
+    },
+    "400944998": {
+        "Loser": "Central Michigan",
+        "Winner": "Toledo"
+    },
+    "400944999": {
+        "Loser": "Akron",
+        "Winner": "Toledo"
+    },
+    "400945000": {
+        "Loser": "Buffalo",
+        "Winner": "Miami (OH)"
+    },
+    "400945001": {
+        "Loser": "Ball State",
+        "Winner": "Central Michigan"
+    },
+    "400945002": {
+        "Loser": "Kent State",
+        "Winner": "Ohio"
+    },
+    "400945003": {
+        "Loser": "Bowling Green",
+        "Winner": "Northern Illinois"
+    },
+    "400945004": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Western Michigan"
+    },
+    "400945005": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Northern Illinois"
+    },
+    "400945006": {
+        "Loser": "Ball State",
+        "Winner": "Toledo"
+    },
+    "400945007": {
+        "Loser": "Buffalo",
+        "Winner": "Akron"
+    },
+    "400945008": {
+        "Loser": "Kent State",
+        "Winner": "Bowling Green"
+    },
+    "400945009": {
+        "Loser": "Miami (OH)",
+        "Winner": "Ohio"
+    },
+    "400945010": {
+        "Loser": "Western Michigan",
+        "Winner": "Central Michigan"
+    },
+    "400945011": {
+        "Loser": "Ball State",
+        "Winner": "Eastern Michigan"
+    },
+    "400945012": {
+        "Loser": "Northern Illinois",
+        "Winner": "Toledo"
+    },
+    "400945013": {
+        "Loser": "Akron",
+        "Winner": "Miami (OH)"
+    },
+    "400945014": {
+        "Loser": "Bowling Green",
+        "Winner": "Buffalo"
+    },
+    "400945015": {
+        "Loser": "Eastern Michigan",
+        "Winner": "Central Michigan"
+    },
+    "400945016": {
+        "Loser": "Kent State",
+        "Winner": "Western Michigan"
+    },
+    "400945017": {
+        "Loser": "Toledo",
+        "Winner": "Ohio"
+    },
+    "400945018": {
+        "Loser": "Ball State",
+        "Winner": "Northern Illinois"
+    },
+    "400945019": {
+        "Loser": "Kent State",
+        "Winner": "Central Michigan"
+    },
+    "400945020": {
+        "Loser": "Ohio",
+        "Winner": "Akron"
+    },
+    "400945021": {
+        "Loser": "Miami (OH)",
+        "Winner": "Eastern Michigan"
+    },
+    "400945022": {
+        "Loser": "Bowling Green",
+        "Winner": "Toledo"
+    },
+    "400945023": {
+        "Loser": "Western Michigan",
+        "Winner": "Northern Illinois"
+    },
+    "400945024": {
+        "Loser": "Ball State",
+        "Winner": "Buffalo"
+    },
+    "400945025": {
+        "Loser": "Bowling Green",
+        "Winner": "Eastern Michigan"
+    },
+    "400945026": {
+        "Loser": "Kent State",
+        "Winner": "Akron"
+    },
+    "400945027": {
+        "Loser": "Ball State",
+        "Winner": "Miami (OH)"
+    },
+    "400945028": {
+        "Loser": "Northern Illinois",
+        "Winner": "Central Michigan"
+    },
+    "400945029": {
+        "Loser": "Ohio",
+        "Winner": "Buffalo"
+    },
+    "400945030": {
+        "Loser": "Western Michigan",
+        "Winner": "Toledo"
+    },
+    "400945031": {
+        "Winner": "BYU"
+    },
+    "400945246": {
+        "Winner": "Air Force"
+    },
+    "400945247": {
+        "Winner": "New Mexico"
+    },
+    "400945248": {
+        "Winner": "Fresno State"
+    },
+    "400945249": {
+        "Winner": "Hawai'i"
+    },
+    "400945250": {
+        "Winner": "San Diego State"
+    },
+    "400945251": {
+        "Winner": "San Jose State"
+    },
+    "400945252": {
+        "Loser": "UNLV"
+    },
+    "400945253": {
+        "Winner": "Utah State"
+    },
+    "400945254": {
+        "Winner": "Colorado State"
+    },
+    "400945255": {
+        "Winner": "Wyoming"
+    },
+    "400945256": {
+        "Loser": "New Mexico",
+        "Winner": "Boise State"
+    },
+    "400945257": {
+        "Loser": "Nevada"
+    },
+    "400945258": {
+        "Loser": "Boise State",
+        "Winner": "Virginia"
+    },
+    "400945259": {
+        "Loser": "Air Force",
+        "Winner": "San Diego State"
+    },
+    "400945260": {
+        "Loser": "San Jose State",
+        "Winner": "Utah State"
+    },
+    "400945261": {
+        "Loser": "Hawai'i",
+        "Winner": "Wyoming"
+    },
+    "400945262": {
+        "Loser": "BYU",
+        "Winner": "Utah State"
+    },
+    "400945263": {
+        "Loser": "Air Force",
+        "Winner": "New Mexico"
+    },
+    "400945264": {
+        "Loser": "Hawai'i",
+        "Winner": "Colorado State"
+    },
+    "400945265": {
+        "Loser": "Nevada",
+        "Winner": "Fresno State"
+    },
+    "400945266": {
+        "Loser": "San Jose State",
+        "Winner": "UNLV"
+    },
+    "400945267": {
+        "Loser": "BYU",
+        "Winner": "Boise State"
+    },
+    "400945268": {
+        "Loser": "Utah State",
+        "Winner": "Colorado State"
+    },
+    "400945269": {
+        "Loser": "San Jose State",
+        "Winner": "Fresno State"
+    },
+    "400945270": {
+        "Loser": "Hawai'i",
+        "Winner": "Nevada"
+    },
+    "400945271": {
+        "Loser": "UNLV",
+        "Winner": "San Diego State"
+    },
+    "400945272": {
+        "Loser": "UNLV",
+        "Winner": "Air Force"
+    },
+    "400945273": {
+        "Loser": "San Diego State",
+        "Winner": "Boise State"
+    },
+    "400945274": {
+        "Loser": "Nevada",
+        "Winner": "Colorado State"
+    },
+    "400945275": {
+        "Loser": "New Mexico",
+        "Winner": "Fresno State"
+    },
+    "400945276": {
+        "Loser": "Utah State",
+        "Winner": "Wyoming"
+    },
+    "400945277": {
+        "Loser": "San Jose State",
+        "Winner": "Hawai'i"
+    },
+    "400945278": {
+        "Loser": "Nevada",
+        "Winner": "Air Force"
+    },
+    "400945279": {
+        "Loser": "Wyoming",
+        "Winner": "Boise State"
+    },
+    "400945280": {
+        "Loser": "New Mexico",
+        "Winner": "Colorado State"
+    },
+    "400945281": {
+        "Loser": "UNLV",
+        "Winner": "Utah State"
+    },
+    "400945282": {
+        "Loser": "San Diego State",
+        "Winner": "Fresno State"
+    },
+    "400945283": {
+        "Loser": "Colorado State",
+        "Winner": "Air Force"
+    },
+    "400945284": {
+        "Loser": "Utah State",
+        "Winner": "Boise State"
+    },
+    "400945285": {
+        "Loser": "New Mexico",
+        "Winner": "Wyoming"
+    },
+    "400945286": {
+        "Loser": "Fresno State",
+        "Winner": "UNLV"
+    },
+    "400945287": {
+        "Loser": "Hawai'i",
+        "Winner": "San Diego State"
+    },
+    "400945288": {
+        "Loser": "San Jose State",
+        "Winner": "BYU"
+    },
+    "400945289": {
+        "Loser": "Nevada",
+        "Winner": "Boise State"
+    },
+    "400945290": {
+        "Loser": "Colorado State",
+        "Winner": "Wyoming"
+    },
+    "400945291": {
+        "Loser": "New Mexico",
+        "Winner": "Utah State"
+    },
+    "400945292": {
+        "Loser": "BYU",
+        "Winner": "Fresno State"
+    },
+    "400945293": {
+        "Loser": "Hawai'i",
+        "Winner": "UNLV"
+    },
+    "400945294": {
+        "Loser": "San Jose State",
+        "Winner": "San Diego State"
+    },
+    "400945295": {
+        "Loser": "Air Force",
+        "Winner": "Wyoming"
+    },
+    "400945296": {
+        "Loser": "Colorado State",
+        "Winner": "Boise State"
+    },
+    "400945297": {
+        "Loser": "Hawai'i",
+        "Winner": "Fresno State"
+    },
+    "400945298": {
+        "Loser": "San Jose State",
+        "Winner": "Nevada"
+    },
+    "400945299": {
+        "Loser": "UNLV",
+        "Winner": "BYU"
+    },
+    "400945300": {
+        "Loser": "Air Force",
+        "Winner": "Boise State"
+    },
+    "400945301": {
+        "Loser": "San Jose State",
+        "Winner": "Colorado State"
+    },
+    "400945302": {
+        "Loser": "New Mexico",
+        "Winner": "UNLV"
+    },
+    "400945303": {
+        "Loser": "Hawai'i",
+        "Winner": "Utah State"
+    },
+    "400945304": {
+        "Loser": "Wyoming",
+        "Winner": "Fresno State"
+    },
+    "400945305": {
+        "Loser": "Nevada",
+        "Winner": "San Diego State"
+    },
+    "400945306": {
+        "Loser": "Utah State",
+        "Winner": "Air Force"
+    },
+    "400945307": {
+        "Loser": "Boise State",
+        "Winner": "Fresno State"
+    },
+    "400945308": {
+        "Loser": "New Mexico",
+        "Winner": "San Diego State"
+    },
+    "400945309": {
+        "Loser": "Wyoming",
+        "Winner": "San Jose State"
+    },
+    "400945310": {
+        "Loser": "Hawai'i",
+        "Winner": "BYU"
+    },
+    "400945311": {
+        "Loser": "UNLV",
+        "Winner": "Nevada"
+    },
+    "400953322": {
+        "Loser": "North Texas",
+        "Winner": "Troy"
+    },
+    "400953323": {
+        "Loser": "Oregon",
+        "Winner": "Boise State"
+    },
+    "400953324": {
+        "Loser": "Colorado State",
+        "Winner": "Marshall"
+    },
+    "400953325": {
+        "Loser": "Arkansas State",
+        "Winner": "Middle Tennessee"
+    },
+    "400953386": {
+        "Loser": "Akron",
+        "Winner": "Florida Atlantic"
+    },
+    "400953387": {
+        "Winner": "Temple"
+    },
+    "400953388": {
+        "Loser": "UAB",
+        "Winner": "Ohio"
+    },
+    "400953389": {
+        "Loser": "Central Michigan",
+        "Winner": "Wyoming"
+    },
+    "400953390": {
+        "Loser": "Texas Tech",
+        "Winner": "South Florida"
+    },
+    "400953391": {
+        "Loser": "San Diego State",
+        "Winner": "Army"
+    },
+    "400953392": {
+        "Loser": "Toledo",
+        "Winner": "Appalachian State"
+    },
+    "400953393": {
+        "Loser": "Houston",
+        "Winner": "Fresno State"
+    },
+    "400953394": {
+        "Loser": "Northern Illinois",
+        "Winner": "Duke"
+    },
+    "400953395": {
+        "Loser": "West Virginia",
+        "Winner": "Utah"
+    },
+    "400953396": {
+        "Loser": "UCLA",
+        "Winner": "Kansas State"
+    },
+    "400953397": {
+        "Loser": "Southern Mississippi",
+        "Winner": "Florida State"
+    },
+    "400953398": {
+        "Loser": "Boston College",
+        "Winner": "Iowa"
+    },
+    "400953399": {
+        "Loser": "Missouri",
+        "Winner": "Texas"
+    },
+    "400953400": {
+        "Loser": "Virginia",
+        "Winner": "Navy"
+    },
+    "400953401": {
+        "Loser": "Stanford",
+        "Winner": "TCU"
+    },
+    "400953402": {
+        "Loser": "Texas A&M",
+        "Winner": "Wake Forest"
+    },
+    "400953403": {
+        "Loser": "Kentucky",
+        "Winner": "Northwestern"
+    },
+    "400953404": {
+        "Loser": "USC",
+        "Winner": "Ohio State"
+    },
+    "400953405": {
+        "Loser": "Louisville",
+        "Winner": "Mississippi State"
+    },
+    "400953406": {
+        "Loser": "Memphis",
+        "Winner": "Iowa State"
+    },
+    "400953407": {
+        "Loser": "Washington",
+        "Winner": "Penn State"
+    },
+    "400953408": {
+        "Loser": "Miami",
+        "Winner": "Wisconsin"
+    },
+    "400953409": {
+        "Loser": "Western Kentucky",
+        "Winner": "Georgia State"
+    },
+    "400953410": {
+        "Loser": "Michigan",
+        "Winner": "South Carolina"
+    },
+    "400953411": {
+        "Loser": "Auburn",
+        "Winner": "UCF"
+    },
+    "400953412": {
+        "Loser": "Oklahoma",
+        "Winner": "Georgia"
+    },
+    "400953413": {
+        "Loser": "Clemson",
+        "Winner": "Alabama"
+    },
+    "400953414": {
+        "Loser": "LSU",
+        "Winner": "Notre Dame"
+    },
+    "400953415": {
+        "Loser": "Georgia",
+        "Winner": "Alabama"
+    },
+    "400953416": {
+        "Loser": "Virginia Tech",
+        "Winner": "Oklahoma State"
+    },
+    "400953417": {
+        "Loser": "Arizona State",
+        "Winner": "NC State"
+    },
+    "400954523": {
+        "Loser": "SMU",
+        "Winner": "Louisiana Tech"
+    },
+    "400955149": {
+        "Loser": "Stanford",
+        "Winner": "USC"
+    },
+    "400955150": {
+        "Loser": "Akron",
+        "Winner": "Toledo"
+    },
+    "400955151": {
+        "Loser": "Memphis",
+        "Winner": "UCF"
+    },
+    "400955152": {
+        "Loser": "North Texas",
+        "Winner": "Florida Atlantic"
+    },
+    "400955153": {
+        "Loser": "Auburn",
+        "Winner": "Georgia"
+    },
+    "400955154": {
+        "Loser": "Fresno State",
+        "Winner": "Boise State"
+    },
+    "400955155": {
+        "Loser": "Miami",
+        "Winner": "Clemson"
+    },
+    "400955156": {
+        "Loser": "Wisconsin",
+        "Winner": "Ohio State"
+    },
+    "400955157": {
+        "Loser": "TCU",
+        "Winner": "Oklahoma"
+    },
+    "400959397": {
+        "Loser": "Washington State",
+        "Winner": "Michigan State"
+    },
+    "400959398": {
+        "Loser": "Arizona",
+        "Winner": "Purdue"
+    },
+    "400966332": {
+        "Loser": "Utah State",
+        "Winner": "New Mexico State"
+    },
+    "400981507": {
+        "Loser": "Florida State",
+        "Winner": "Miami"
+    },
+    "400981508": {
+        "Loser": "Georgia Tech",
+        "Winner": "Miami"
+    },
+    "400982707": {
+        "Winner": "Indiana"
+    },
+    "400985386": {
+        "Loser": "UConn",
+        "Winner": "South Florida"
+    },
+    "400985387": {
+        "Loser": "UMass"
+    },
+    "400985406": {
+        "Loser": "Memphis",
+        "Winner": "UCF"
+    },
+    "400986609": {
+        "Winner": "UCF"
+    },
+    "401000149": {
+        "Loser": "Louisiana Monroe",
+        "Winner": "Florida State"
+    }
+}

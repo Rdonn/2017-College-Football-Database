@@ -1,0 +1,875 @@
+game_ID,Team one,Team two,Q1,Q2,Q3,Q4,OT,Matchup,Game Type
+400933827,Alabama,Florida State,3,14,11,3, ,Florida State V.S.Alabama,regular season
+400933828,Arkansas,Florida A&M,7,14,14,21, ,Florida A&M V.S.Arkansas,regular season
+400933829,Auburn,Georgia Southern,17,14,10,7, ,Georgia Southern V.S.Auburn,regular season
+400933830,Michigan,Florida,13,17,13,7, ,Michigan V.S.Florida,regular season
+400933831,Georgia,Appalachian State,7,14,10,10, ,Appalachian State V.S.Georgia,regular season
+400933832,Kentucky,Southern Mississippi,0,17,17,7, ,Kentucky V.S.Southern Mississippi,regular season
+400933833,LSU,BYU,0,14,6,7, ,BYU V.S.LSU,regular season
+400933834,Ole Miss,South Alabama,10,13,30,21, ,South Alabama V.S.Ole Miss,regular season
+400933835,Mississippi State,Charleston Southern,23,12,7,7, ,Charleston Southern V.S.Mississippi State,regular season
+400933836,Missouri,Missouri State,41,42,10,22, ,Missouri State V.S.Missouri,regular season
+400933837,South Carolina,NC State,28,14,14,7, ,NC State V.S.South Carolina,regular season
+400933838,UCLA,Texas A&M,20,28,13,28, ,Texas A&M V.S.UCLA,regular season
+400933839,Vanderbilt,Middle Tennessee,14,7,7,6, ,Vanderbilt V.S.Middle Tennessee,regular season
+400933840,Tennessee,Georgia Tech,7,14,14,21,27,Tennessee V.S.Georgia Tech,regular season
+400933841,Alabama,Fresno State,17,14,3,17, ,Fresno State V.S.Alabama,regular season
+400933842,TCU,Arkansas,14,7,0,14, ,TCU V.S.Arkansas,regular season
+400933843,Clemson,Auburn,3,10,7,0, ,Auburn V.S.Clemson,regular season
+400933845,Georgia,Notre Dame,6,17,10,6, ,Georgia V.S.Notre Dame,regular season
+400933846,Kentucky,Eastern Kentucky,10,13,10,10, ,Eastern Kentucky V.S.Kentucky,regular season
+400933847,LSU,Chattanooga,17,14,14,10, ,Chattanooga V.S.LSU,regular season
+400933848,Ole Miss,UT Martin,16,17,21,14, ,UT Martin V.S.Ole Miss,regular season
+400933849,Mississippi State,Louisiana Tech,25,25,21,7, ,Mississippi State V.S.Louisiana Tech,regular season
+400933850,South Carolina,Missouri,3,21,13,7, ,South Carolina V.S.Missouri,regular season
+400933851,Tennessee,Indiana State,14,14,14,7, ,Indiana State V.S.Tennessee,regular season
+400933852,Texas A&M,Nicholls,14,6,0,18, ,Nicholls V.S.Texas A&M,regular season
+400933853,Vanderbilt,Alabama A&M,14,21,7,0, ,Alabama A&M V.S.Vanderbilt,regular season
+400933854,Alabama,Colorado State,17,17,14,16, ,Colorado State V.S.Alabama,regular season
+400933855,Auburn,Mercer,7,6,7,14, ,Mercer V.S.Auburn,regular season
+400933856,Florida,Tennessee,3,6,0,37, ,Tennessee V.S.Florida,regular season
+400933857,Georgia,Samford,14,14,21,7, ,Samford V.S.Georgia,regular season
+400933858,California,Ole Miss,17,6,10,10, ,Ole Miss V.S.California,regular season
+400933859,Mississippi State,LSU,0,24,13,7, ,LSU V.S.Mississippi State,regular season
+400933860,Purdue,Missouri,14,17,7,0, ,Purdue V.S.Missouri,regular season
+400933861,Kentucky,South Carolina,13,7,3,13, ,Kentucky V.S.South Carolina,regular season
+400933862,Texas A&M,Louisiana,7,28,17,14, ,Louisiana V.S.Texas A&M,regular season
+400933863,Vanderbilt,Kansas State,7,7,0,7, ,Kansas State V.S.Vanderbilt,regular season
+400933864,Texas A&M,Arkansas,14,24,14,34,7,Texas A&M V.S.Arkansas,regular season
+400933865,Georgia,Mississippi State,14,3,17,0, ,Mississippi State V.S.Georgia,regular season
+400933866,Florida,Kentucky,7,21,10,17, ,Florida V.S.Kentucky,regular season
+400933867,LSU,Syracuse,10,7,30,14, ,Syracuse V.S.LSU,regular season
+400933868,Auburn,Missouri,14,24,17,10, ,Auburn V.S.Missouri,regular season
+400933869,South Carolina,Louisiana Tech,3,3,7,20, ,Louisiana Tech V.S.South Carolina,regular season
+400933870,Tennessee,UMass,0,20,10,0, ,UMass V.S.Tennessee,regular season
+400933871,Alabama,Vanderbilt,21,10,21,7, ,Alabama V.S.Vanderbilt,regular season
+400933872,Alabama,Ole Miss,24,14,24,7, ,Ole Miss V.S.Alabama,regular season
+400933873,Arkansas,New Mexico State,14,24,14,14, ,New Mexico State V.S.Arkansas,regular season
+400933874,Auburn,Mississippi State,17,14,7,21, ,Mississippi State V.S.Auburn,regular season
+400933875,Florida,Vanderbilt,14,20,7,21, ,Vanderbilt V.S.Florida,regular season
+400933876,Kentucky,Eastern Michigan,14,14,3,13, ,Eastern Michigan V.S.Kentucky,regular season
+400933877,Troy,LSU,7,3,14,21, ,Troy V.S.LSU,regular season
+400933878,Georgia,Tennessee,10,14,7,10, ,Georgia V.S.Tennessee,regular season
+400933879,Texas A&M,South Carolina,0,17,10,14, ,South Carolina V.S.Texas A&M,regular season
+400933880,Auburn,Ole Miss,17,21,13,16, ,Ole Miss V.S.Auburn,regular season
+400933881,Kentucky,Missouri,10,24,20,20, ,Missouri V.S.Kentucky,regular season
+400933882,LSU,Florida,7,6,20,0, ,LSU V.S.Florida,regular season
+400933883,South Carolina,Arkansas,6,21,17,26, ,Arkansas V.S.South Carolina,regular season
+400933884,Alabama,Texas A&M,10,10,14,12, ,Alabama V.S.Texas A&M,regular season
+400933885,Georgia,Vanderbilt,7,21,17,14, ,Georgia V.S.Vanderbilt,regular season
+400933886,Alabama,Arkansas,17,7,10,16, ,Arkansas V.S.Alabama,regular season
+400933887,Texas A&M,Florida,6,7,7,16, ,Texas A&M V.S.Florida,regular season
+400933888,Georgia,Missouri,28,27,13,13, ,Missouri V.S.Georgia,regular season
+400933889,LSU,Auburn,17,20,0,13, ,Auburn V.S.LSU,regular season
+400933890,Ole Miss,Vanderbilt,7,49,12,24, ,Vanderbilt V.S.Ole Miss,regular season
+400933891,Mississippi State,BYU,7,17,14,7, ,BYU V.S.Mississippi State,regular season
+400933892,South Carolina,Tennessee,6,6,6,6, ,South Carolina V.S.Tennessee,regular season
+400933893,Alabama,Tennessee,7,14,17,14, ,Tennessee V.S.Alabama,regular season
+400933894,Auburn,Arkansas,13,10,35,14, ,Auburn V.S.Arkansas,regular season
+400933895,LSU,Ole Miss,13,6,27,18, ,LSU V.S.Ole Miss,regular season
+400933896,Mississippi State,Kentucky,7,17,7,21, ,Kentucky V.S.Mississippi State,regular season
+400933897,Missouri,Idaho,41,24,14,10, ,Idaho V.S.Missouri,regular season
+400933898,Georgia,Florida,21,0,14,14, ,Georgia V.S.Florida,regular season
+400933899,Kentucky,Tennessee,13,28,3,11, ,Tennessee V.S.Kentucky,regular season
+400933900,Arkansas,Ole Miss,28,24,7,16, ,Arkansas V.S.Ole Miss,regular season
+400933901,Missouri,UConn,23,13,21,7, ,Missouri V.S.UConn,regular season
+400933902,South Carolina,Vanderbilt,21,16,14,10, ,Vanderbilt V.S.South Carolina,regular season
+400933903,Mississippi State,Texas A&M,7,7,21,14, ,Mississippi State V.S.Texas A&M,regular season
+400933904,Alabama,LSU,7,10,14,3, ,LSU V.S.Alabama,regular season
+400933905,Arkansas,Coastal Carolina,14,17,25,21, ,Coastal Carolina V.S.Arkansas,regular season
+400933906,Georgia,South Carolina,7,14,10,3, ,South Carolina V.S.Georgia,regular season
+400933907,Ole Miss,Kentucky,10,27,17,17, ,Ole Miss V.S.Kentucky,regular season
+400933908,Mississippi State,UMass,13,20,14,10, ,UMass V.S.Mississippi State,regular season
+400933909,Missouri,Florida,7,27,10,17, ,Florida V.S.Missouri,regular season
+400933910,Tennessee,Southern Mississippi,7,6,14,7, ,Southern Mississippi V.S.Tennessee,regular season
+400933911,Auburn,Texas A&M,3,31,21,14, ,Auburn V.S.Texas A&M,regular season
+400933912,Vanderbilt,Western Kentucky,21,14,10,3, ,Western Kentucky V.S.Vanderbilt,regular season
+400933913,Auburn,Georgia,13,10,17,17, ,Georgia V.S.Auburn,regular season
+400933914,LSU,Arkansas,7,7,15,14, ,Arkansas V.S.LSU,regular season
+400933915,Ole Miss,Louisiana,21,24,7,20, ,Louisiana V.S.Ole Miss,regular season
+400933916,Alabama,Mississippi State,14,14,10,17, ,Alabama V.S.Mississippi State,regular season
+400933917,Missouri,Tennessee,24,17,17,9, ,Tennessee V.S.Missouri,regular season
+400933918,South Carolina,Florida,14,20,7,7, ,Florida V.S.South Carolina,regular season
+400933919,Texas A&M,New Mexico,13,42,7,7, ,New Mexico V.S.Texas A&M,regular season
+400933920,Kentucky,Vanderbilt,14,13,35,3, ,Kentucky V.S.Vanderbilt,regular season
+400933921,Alabama,Mercer,14,21,14,7, ,Mercer V.S.Alabama,regular season
+400933922,Mississippi State,Arkansas,14,14,7,14, ,Mississippi State V.S.Arkansas,regular season
+400933923,Auburn,Louisiana Monroe,14,7,14,21, ,Louisiana Monroe V.S.Auburn,regular season
+400933924,Florida,UAB,6,13,14,10, ,UAB V.S.Florida,regular season
+400933925,Georgia,Kentucky,13,14,14,14, ,Kentucky V.S.Georgia,regular season
+400933926,Texas A&M,Ole Miss,28,17,7,3, ,Texas A&M V.S.Ole Miss,regular season
+400933927,South Carolina,Wofford,3,14,14,10, ,Wofford V.S.South Carolina,regular season
+400933928,LSU,Tennessee,3,24,13,0, ,LSU V.S.Tennessee,regular season
+400933929,Missouri,Vanderbilt,7,28,20,7, ,Missouri V.S.Vanderbilt,regular season
+400933930,Ole Miss,Mississippi State,7,9,14,29, ,Ole Miss V.S.Mississippi State,regular season
+400933931,Missouri,Arkansas,28,31,7,27, ,Missouri V.S.Arkansas,regular season
+400933932,Auburn,Alabama,7,10,17,6, ,Alabama V.S.Auburn,regular season
+400933933,Florida State,Florida,14,23,3,20, ,Florida State V.S.Florida,regular season
+400933934,Georgia,Georgia Tech,7,17,14,7, ,Georgia V.S.Georgia Tech,regular season
+400933935,Louisville,Kentucky,24,17,3,17, ,Louisville V.S.Kentucky,regular season
+400933936,LSU,Texas A&M,13,14,28,11, ,Texas A&M V.S.LSU,regular season
+400933937,Clemson,South Carolina,7,13,14,10, ,Clemson V.S.South Carolina,regular season
+400933938,Vanderbilt,Tennessee,21,14,3,28, ,Vanderbilt V.S.Tennessee,regular season
+400934488,Iowa State,Northern Iowa,21,10,21,14, ,Northern Iowa V.S.Iowa State,regular season
+400934489,Liberty,Baylor,6,28,31,28, ,Liberty V.S.Baylor,regular season
+400934490,Kansas,Southeast Missouri State,14,14,17,9, ,Southeast Missouri State V.S.Kansas,regular season
+400934491,Kansas State,Central Arkansas,20,34,13,7, ,Central Arkansas V.S.Kansas State,regular season
+400934492,Oklahoma,UTEP,21,21,14,7, ,UTEP V.S.Oklahoma,regular season
+400934493,Oklahoma State,Tulsa,21,34,14,14, ,Tulsa V.S.Oklahoma State,regular season
+400934494,TCU,Jackson State,21,14,21,7, ,Jackson State V.S.TCU,regular season
+400934495,Maryland,Texas,21,23,27,21, ,Maryland V.S.Texas,regular season
+400934496,Texas Tech,Eastern Washington,7,31,21,7, ,Eastern Washington V.S.Texas Tech,regular season
+400934497,Virginia Tech,West Virginia,3,14,24,14, ,West Virginia V.S.Virginia Tech,regular season
+400934498,UT San Antonio,Baylor,0,14,7,6, ,UT San Antonio V.S.Baylor,regular season
+400934499,Iowa,Iowa State,14,10,21,31,9,Iowa V.S.Iowa State,regular season
+400934500,Central Michigan,Kansas,3,27,21,21, ,Central Michigan V.S.Kansas,regular season
+400934501,Kansas State,Charlotte,28,17,10,7, ,Charlotte V.S.Kansas State,regular season
+400934502,Oklahoma,Ohio State,0,6,24,17, ,Oklahoma V.S.Ohio State,regular season
+400934503,Oklahoma State,South Alabama,17,3,21,10, ,Oklahoma State V.S.South Alabama,regular season
+400934504,Texas,San Jose State,7,14,14,21, ,San Jose State V.S.Texas,regular season
+400934505,West Virginia,East Carolina,24,28,17,7, ,East Carolina V.S.West Virginia,regular season
+400934506,Duke,Baylor,14,7,23,10, ,Baylor V.S.Duke,regular season
+400934507,Ohio,Kansas,11,28,14,19, ,Kansas V.S.Ohio,regular season
+400934508,Oklahoma,Tulane,28,14,7,21, ,Tulane V.S.Oklahoma,regular season
+400934509,Oklahoma State,Pittsburgh,21,42,14,3, ,Oklahoma State V.S.Pittsburgh,regular season
+400934510,TCU,SMU,23,27,14,28, ,SMU V.S.TCU,regular season
+400934511,USC,Texas,0,21,3,10,17,Texas V.S.USC,regular season
+400934512,Texas Tech,Arizona State,24,28,31,14, ,Arizona State V.S.Texas Tech,regular season
+400934513,West Virginia,Delaware State,34,21,7,13, ,Delaware State V.S.West Virginia,regular season
+400934514,West Virginia,Kansas,10,38,14,28, ,West Virginia V.S.Kansas,regular season
+400934515,Oklahoma,Baylor,28,17,21,24, ,Oklahoma V.S.Baylor,regular season
+400934516,TCU,Oklahoma State,13,17,21,24, ,TCU V.S.Oklahoma State,regular season
+400934517,Iowa State,Akron,14,20,14,7, ,Iowa State V.S.Akron,regular season
+400934518,Texas Tech,Houston,6,17,7,21, ,Texas Tech V.S.Houston,regular season
+400934519,Kansas State,Baylor,10,13,10,20, ,Baylor V.S.Kansas State,regular season
+400934520,Oklahoma State,Texas Tech,14,24,16,21, ,Oklahoma State V.S.Texas Tech,regular season
+400934521,Texas,Iowa State,7,7,7,3, ,Texas V.S.Iowa State,regular season
+400934522,TCU,West Virginia,3,7,31,14, ,West Virginia V.S.TCU,regular season
+400934523,Iowa State,Oklahoma,17,20,11,21, ,Iowa State V.S.Oklahoma,regular season
+400934524,Texas,Kansas State,3,35,10,6,20,Kansas State V.S.Texas,regular season
+400934525,Texas Tech,Kansas,28,17,22,17, ,Texas Tech V.S.Kansas,regular season
+400934526,Oklahoma State,Baylor,14,31,16,14, ,Baylor V.S.Oklahoma State,regular season
+400934527,Iowa State,Kansas,14,10,14,7, ,Kansas V.S.Iowa State,regular season
+400934528,Oklahoma,Texas,10,20,10,13, ,Oklahoma V.S.Texas,regular season
+400934529,West Virginia,Texas Tech,24,21,14,22, ,Texas Tech V.S.West Virginia,regular season
+400934530,TCU,Kansas State,10,6,10,6, ,TCU V.S.Kansas State,regular season
+400934531,Iowa State,Texas Tech,13,17,7,7, ,Iowa State V.S.Texas Tech,regular season
+400934532,TCU,Kansas,10,14,19,0, ,Kansas V.S.TCU,regular season
+400934533,West Virginia,Baylor,10,13,28,23, ,West Virginia V.S.Baylor,regular season
+400934534,Oklahoma,Kansas State,21,10,10,36, ,Oklahoma V.S.Kansas State,regular season
+400934535,Oklahoma State,Texas,7,7,3,3,3,Oklahoma State V.S.Texas,regular season
+400934536,Kansas State,Kansas,13,3,10,24, ,Kansas State V.S.Kansas,regular season
+400934537,Oklahoma State,West Virginia,13,20,21,35, ,Oklahoma State V.S.West Virginia,regular season
+400934538,Texas,Baylor,7,21,3,14, ,Texas V.S.Baylor,regular season
+400934539,Oklahoma,Texas Tech,34,14,28,0, ,Texas Tech V.S.Oklahoma,regular season
+400934540,Iowa State,TCU,7,7,7,0, ,TCU V.S.Iowa State,regular season
+400934541,Baylor,Kansas,0,27,10,10, ,Baylor V.S.Kansas,regular season
+400934542,West Virginia,Iowa State,10,13,10,3, ,Iowa State V.S.West Virginia,regular season
+400934543,Kansas State,Texas Tech,3,28,21,18,7,Kansas State V.S.Texas Tech,regular season
+400934544,Oklahoma,Oklahoma State,24,52,10,28, ,Oklahoma V.S.Oklahoma State,regular season
+400934545,TCU,Texas,7,17,0,7, ,Texas V.S.TCU,regular season
+400934546,Texas,Kansas,35,17,3,14, ,Kansas V.S.Texas,regular season
+400934547,West Virginia,Kansas State,13,35,0,3, ,West Virginia V.S.Kansas State,regular season
+400934548,Oklahoma State,Iowa State,21,21,17,32, ,Oklahoma State V.S.Iowa State,regular season
+400934549,Texas Tech,Baylor,21,7,17,17, ,Texas Tech V.S.Baylor,regular season
+400934550,Oklahoma,TCU,24,28,0,6, ,TCU V.S.Oklahoma,regular season
+400934551,Iowa State,Baylor,14,13,6,3, ,Iowa State V.S.Baylor,regular season
+400934552,Kansas State,Oklahoma State,17,24,21,23, ,Kansas State V.S.Oklahoma State,regular season
+400934553,Oklahoma,Kansas,7,17,7,13, ,Oklahoma V.S.Kansas,regular season
+400934554,Texas,West Virginia,0,14,14,14, ,Texas V.S.West Virginia,regular season
+400934555,TCU,Texas Tech,3,10,7,10, ,TCU V.S.Texas Tech,regular season
+400934556,TCU,Baylor,23,17,17,10, ,Baylor V.S.TCU,regular season
+400934557,Texas Tech,Texas,14,16,3,17, ,Texas Tech V.S.Texas,regular season
+400934558,Kansas State,Iowa State,3,10,6,20, ,Iowa State V.S.Kansas State,regular season
+400934559,Oklahoma State,Kansas,13,31,21,10, ,Kansas V.S.Oklahoma State,regular season
+400934560,Oklahoma,West Virginia,17,38,28,7, ,West Virginia V.S.Oklahoma,regular season
+400934561,Tulane,Army,7,17,0,14, ,Army V.S.Tulane,regular season
+400934562,Army,Buffalo,10,14,0,14, ,Buffalo V.S.Army,regular season
+400934563,Ohio State,Army,14,10,14,7, ,Army V.S.Ohio State,regular season
+400934564,Army,Rice,21,14,13,13, ,Army V.S.Rice,regular season
+400934565,Army,Duke,10,21,0,6, ,Duke V.S.Army,regular season
+400934566,Army,UTEP,7,21,14,14, ,UTEP V.S.Army,regular season
+400934567,Army,Eastern Michigan,14,14,7,20, ,Eastern Michigan V.S.Army,regular season
+400934568,Army,Temple,7,21,0,28,3,Temple V.S.Army,regular season
+400934569,Army,Air Force,7,7,0,7, ,Army V.S.Air Force,regular season
+400934570,Army,Fordham,21,19,17,13, ,Fordham V.S.Army,regular season
+400934571,North Texas,Army,21,27,15,38, ,Army V.S.North Texas,regular season
+400934572,Army,Navy,10,7,3,7, ,Army V.S.Navy,regular season
+400934573,Notre Dame,Temple,24,14,7,20, ,Temple V.S.Notre Dame,regular season
+400934574,Notre Dame,Boston College,10,14,17,28, ,Notre Dame V.S.Boston College,regular season
+400934575,Notre Dame,Michigan State,21,14,10,11, ,Notre Dame V.S.Michigan State,regular season
+400934576,Notre Dame,Miami (OH),35,24,3,7, ,Miami (OH) V.S.Notre Dame,regular season
+400934577,Notre Dame,North Carolina,0,23,10,10, ,Notre Dame V.S.North Carolina,regular season
+400934578,Notre Dame,USC,14,14,28,7, ,USC V.S.Notre Dame,regular season
+400934579,Notre Dame,NC State,14,21,14,0, ,NC State V.S.Notre Dame,regular season
+400934580,Notre Dame,Wake Forest,10,31,23,21, ,Wake Forest V.S.Notre Dame,regular season
+400934581,Miami,Notre Dame,14,13,15,7, ,Notre Dame V.S.Miami,regular season
+400934582,Notre Dame,Navy,3,17,14,7, ,Navy V.S.Notre Dame,regular season
+400934583,Stanford,Notre Dame,14,10,13,21, ,Notre Dame V.S.Stanford,regular season
+400935229,Ohio State,Indiana,10,17,29,14, ,Ohio State V.S.Indiana,regular season
+400935230,Minnesota,Buffalo,21,0,0,3, ,Buffalo V.S.Minnesota,regular season
+400935231,Wisconsin,Utah State,10,10,28,21, ,Utah State V.S.Wisconsin,regular season
+400935232,Illinois,Ball State,13,10,14,8, ,Ball State V.S.Illinois,regular season
+400935233,Iowa,Wyoming,0,17,7,3, ,Wyoming V.S.Iowa,regular season
+400935234,Michigan State,Bowling Green,3,14,21,7, ,Bowling Green V.S.Michigan State,regular season
+400935235,Nebraska,Arkansas State,31,22,7,19, ,Arkansas State V.S.Nebraska,regular season
+400935236,Northwestern,Nevada,14,10,10,17, ,Nevada V.S.Northwestern,regular season
+400935237,Penn State,Akron,14,21,10,7, ,Akron V.S.Penn State,regular season
+400935238,Louisville,Purdue,14,10,22,17, ,Louisville V.S.Purdue,regular season
+400935239,Purdue,Ohio,17,24,14,10, ,Ohio V.S.Purdue,regular season
+400935240,Duke,Northwestern,10,21,10,17, ,Northwestern V.S.Duke,regular season
+400935241,Illinois,Western Kentucky,3,10,7,7, ,Western Kentucky V.S.Illinois,regular season
+400935242,Maryland,Towson,21,14,21,24, ,Towson V.S.Maryland,regular season
+400935243,Michigan,Cincinnati,21,3,14,12, ,Cincinnati V.S.Michigan,regular season
+400935244,Michigan State,Western Michigan,7,7,14,14, ,Western Michigan V.S.Michigan State,regular season
+400935245,Penn State,Pittsburgh,14,3,10,20, ,Pittsburgh V.S.Penn State,regular season
+400935246,Eastern Michigan,Rutgers,10,3,13,3, ,Eastern Michigan V.S.Rutgers,regular season
+400935247,Arizona State,New Mexico State,14,13,16,25, ,New Mexico State V.S.Arizona State,regular season
+400935248,Utah,North Dakota,3,23,10,17, ,North Dakota V.S.Utah,regular season
+400935249,Colorado,Colorado State,10,10,0,0, ,Colorado State V.S.Colorado,regular season
+400935250,Washington,Rutgers,10,7,10,17, ,Washington V.S.Rutgers,regular season
+400935251,Arizona,Northern Arizona,21,27,14,24, ,Northern Arizona V.S.Arizona,regular season
+400935252,USC,Western Michigan,14,14,14,38, ,Western Michigan V.S.USC,regular season
+400935253,Oregon,Southern Utah,28,35,21,14, ,Southern Utah V.S.Oregon,regular season
+400935254,Oregon State,Portland State,13,7,34,13, ,Portland State V.S.Oregon State,regular season
+400935255,Washington State,Montana State,7,7,7,10, ,Montana State V.S.Washington State,regular season
+400935256,California,North Carolina,14,17,14,20, ,California V.S.North Carolina,regular season
+400935257,Stanford,Rice,21,17,14,17, ,Stanford V.S.Rice,regular season
+400935258,Houston,Arizona,6,21,5,3, ,Houston V.S.Arizona,regular season
+400935259,San Diego State,Arizona State,14,20,7,9, ,San Diego State V.S.Arizona State,regular season
+400935260,USC,Stanford,21,24,0,21, ,Stanford V.S.USC,regular season
+400935261,UCLA,Hawai'i,14,28,21,16, ,Hawai'i V.S.UCLA,regular season
+400935262,Colorado,Texas State,7,7,20,6, ,Texas State V.S.Colorado,regular season
+400935263,Utah,BYU,3,6,16,7, ,Utah V.S.BYU,regular season
+400935264,Oregon,Nebraska,28,28,14,7, ,Nebraska V.S.Oregon,regular season
+400935265,Minnesota,Oregon State,10,24,14,14, ,Minnesota V.S.Oregon State,regular season
+400935266,Washington,Montana,28,14,14,14, ,Montana V.S.Washington,regular season
+400935267,Washington State,Boise State,14,6,7,35,29,Boise State V.S.Washington State,regular season
+400935268,California,Weber State,17,20,0,16, ,Weber State V.S.California,regular season
+400935269,Arizona,UTEP,0,44,21,14, ,Arizona V.S.UTEP,regular season
+400935270,Memphis,UCLA,14,37,28,14, ,UCLA V.S.Memphis,regular season
+400935271,Colorado,Northern Colorado,21,21,10,10, ,Northern Colorado V.S.Colorado,regular season
+400935272,Utah,San Jose State,12,31,7,20, ,San Jose State V.S.Utah,regular season
+400935273,Oregon,Wyoming,24,28,3,7, ,Oregon V.S.Wyoming,regular season
+400935274,Washington State,Oregon State,9,28,21,17, ,Oregon State V.S.Washington State,regular season
+400935275,Washington,Fresno State,27,21,13,3, ,Fresno State V.S.Washington,regular season
+400935276,San Diego State,Stanford,0,17,6,14, ,Stanford V.S.San Diego State,regular season
+400935277,Utah,Arizona,13,10,21,10, ,Utah V.S.Arizona,regular season
+400935278,Arizona State,Oregon,24,7,28,13, ,Oregon V.S.Arizona State,regular season
+400935279,USC,California,6,20,0,24, ,USC V.S.California,regular season
+400935280,Stanford,UCLA,9,27,28,28, ,UCLA V.S.Stanford,regular season
+400935281,Washington,Colorado,7,10,17,13, ,Washington V.S.Colorado,regular season
+400935282,Colorado State,Oregon State,17,27,10,31, ,Oregon State V.S.Colorado State,regular season
+400935283,Washington State,Nevada,14,21,3,14, ,Nevada V.S.Washington State,regular season
+400935284,Washington State,USC,10,24,6,17, ,USC V.S.Washington State,regular season
+400935285,Stanford,Arizona State,10,31,7,10, ,Arizona State V.S.Stanford,regular season
+400935286,UCLA,Colorado,14,10,17,9, ,Colorado V.S.UCLA,regular season
+400935287,Oregon,California,17,7,14,31, ,California V.S.Oregon,regular season
+400935288,Washington,Oregon State,7,0,21,21, ,Washington V.S.Oregon State,regular season
+400935289,Arizona,Colorado,21,14,21,31, ,Arizona V.S.Colorado,regular season
+400935290,USC,Oregon State,14,10,7,17, ,Oregon State V.S.USC,regular season
+400935291,Stanford,Utah,10,13,6,14, ,Stanford V.S.Utah,regular season
+400935292,Washington State,Oregon,17,6,10,10, ,Washington State V.S.Oregon,regular season
+400935293,Washington,California,7,17,14,7, ,California V.S.Washington,regular season
+400935294,California,Washington State,10,10,3,17, ,Washington State V.S.California,regular season
+400935295,Arizona,UCLA,24,20,26,7, ,UCLA V.S.Arizona,regular season
+400935296,Arizona State,Washington,7,6,0,7, ,Washington V.S.Arizona State,regular season
+400935297,USC,Utah,14,14,7,20, ,Utah V.S.USC,regular season
+400935298,Colorado,Oregon State,17,16,14,22, ,Colorado V.S.Oregon State,regular season
+400935299,Stanford,Oregon,28,7,7,14, ,Oregon V.S.Stanford,regular season
+400935300,Arizona,California,21,7,21,13,27,Arizona V.S.California,regular season
+400935301,Arizona State,Utah,9,7,10,14, ,Arizona State V.S.Utah,regular season
+400935302,UCLA,Oregon,14,14,10,7, ,Oregon V.S.UCLA,regular season
+400935303,Washington State,Colorado,0,14,7,7, ,Colorado V.S.Washington State,regular season
+400935304,Stanford,Oregon State,0,13,10,6, ,Stanford V.S.Oregon State,regular season
+400935305,Arizona,Washington State,17,20,27,31, ,Washington State V.S.Arizona,regular season
+400935306,USC,Arizona State,17,24,14,10, ,USC V.S.Arizona State,regular season
+400935307,Washington,UCLA,6,23,17,21, ,UCLA V.S.Washington,regular season
+400935308,Colorado,California,21,20,0,31, ,California V.S.Colorado,regular season
+400935309,Oregon,Utah,7,16,17,21, ,Utah V.S.Oregon,regular season
+400935310,Utah,UCLA,7,20,21,17, ,UCLA V.S.Utah,regular season
+400935311,USC,Arizona,7,20,21,36, ,Arizona V.S.USC,regular season
+400935312,Arizona State,Colorado,3,28,13,27, ,Colorado V.S.Arizona State,regular season
+400935313,Washington,Oregon,3,17,21,0, ,Oregon V.S.Washington,regular season
+400935314,California,Oregon State,21,12,17,10, ,Oregon State V.S.California,regular season
+400935315,Washington State,Stanford,0,21,17,7, ,Stanford V.S.Washington State,regular season
+400935316,Stanford,Washington,7,17,10,18, ,Washington V.S.Stanford,regular season
+400935317,Arizona,Oregon State,14,14,28,21, ,Oregon State V.S.Arizona,regular season
+400935318,UCLA,Arizona State,21,20,27,13, ,Arizona State V.S.UCLA,regular season
+400935319,USC,Colorado,0,20,24,18, ,USC V.S.Colorado,regular season
+400935320,Washington State,Utah,13,17,6,22, ,Washington State V.S.Utah,regular season
+400935321,Oregon,Arizona,21,28,14,13, ,Arizona V.S.Oregon,regular season
+400935322,Arizona State,Oregon State,16,21,6,21, ,Arizona State V.S.Oregon State,regular season
+400935323,USC,UCLA,21,0,14,16, ,UCLA V.S.USC,regular season
+400935324,Washington,Utah,13,16,17,17, ,Utah V.S.Washington,regular season
+400935325,Stanford,California,6,10,15,0, ,California V.S.Stanford,regular season
+400935326,UCLA,California,10,16,15,16, ,California V.S.UCLA,regular season
+400935327,Oregon,Oregon State,24,35,13,7, ,Oregon State V.S.Oregon,regular season
+400935328,Arizona State,Arizona,21,17,21,13, ,Arizona V.S.Arizona State,regular season
+400935329,Utah,Colorado,14,14,10,9, ,Colorado V.S.Utah,regular season
+400935330,Washington,Washington State,7,17,10,21, ,Washington State V.S.Washington,regular season
+400935347,Indiana,Virginia,0,20,17,14, ,Indiana V.S.Virginia,regular season
+400935348,Wisconsin,Florida Atlantic,21,17,7,0, ,Florida Atlantic V.S.Wisconsin,regular season
+400935349,Wisconsin,BYU,13,17,7,9, ,Wisconsin V.S.BYU,regular season
+400935351,Iowa,North Texas,14,10,7,14, ,North Texas V.S.Iowa,regular season
+400935352,Michigan,Air Force,6,9,17,10, ,Air Force V.S.Michigan,regular season
+400935353,Minnesota,Middle Tennessee,3,20,7,7, ,Middle Tennessee V.S.Minnesota,regular season
+400935354,Northern Illinois,Nebraska,14,0,10,14, ,Northern Illinois V.S.Nebraska,regular season
+400935355,Northwestern,Bowling Green,21,21,0,14, ,Bowling Green V.S.Northwestern,regular season
+400935356,Penn State,Georgia State,14,21,14,7, ,Georgia State V.S.Penn State,regular season
+400935357,Rutgers,Morgan State,7,27,17,14, ,Morgan State V.S.Rutgers,regular season
+400935359,Indiana,Georgia Southern,21,17,24,7, ,Georgia Southern V.S.Indiana,regular season
+400935360,Penn State,Iowa,3,9,10,18, ,Penn State V.S.Iowa,regular season
+400935361,UCF,Maryland,3,14,14,17, ,UCF V.S.Maryland,regular season
+400935362,Nebraska,Rutgers,14,10,14,6, ,Rutgers V.S.Nebraska,regular season
+400935363,Ohio State,UNLV,16,35,17,7, ,UNLV V.S.Ohio State,regular season
+400935364,Michigan,Purdue,0,17,7,14, ,Michigan V.S.Purdue,regular season
+400935365,Nebraska,Illinois,7,17,3,7, ,Nebraska V.S.Illinois,regular season
+400935366,Michigan State,Iowa,14,10,0,3, ,Iowa V.S.Michigan State,regular season
+400935367,Maryland,Minnesota,7,20,7,21, ,Maryland V.S.Minnesota,regular season
+400935368,Penn State,Indiana,28,14,10,7, ,Indiana V.S.Penn State,regular season
+400935369,Ohio State,Rutgers,7,28,7,14, ,Ohio State V.S.Rutgers,regular season
+400935370,Wisconsin,Northwestern,10,7,14,26, ,Northwestern V.S.Wisconsin,regular season
+400935371,Iowa,Illinois,10,20,10,21, ,Illinois V.S.Iowa,regular season
+400935372,Michigan State,Michigan,10,7,7,0, ,Michigan State V.S.Michigan,regular season
+400935373,Wisconsin,Nebraska,10,17,14,14, ,Wisconsin V.S.Nebraska,regular season
+400935374,Penn State,Northwestern,3,7,14,14, ,Penn State V.S.Northwestern,regular season
+400935375,Ohio State,Maryland,27,21,14,14, ,Maryland V.S.Ohio State,regular season
+400935376,Purdue,Minnesota,13,7,7,21, ,Minnesota V.S.Purdue,regular season
+400935377,Northwestern,Maryland,10,28,10,10, ,Northwestern V.S.Maryland,regular season
+400935378,Rutgers,Illinois,10,21,7,21, ,Rutgers V.S.Illinois,regular season
+400935379,Michigan,Indiana,3,13,7,17,7,Michigan V.S.Indiana,regular season
+400935380,Michigan State,Minnesota,16,7,6,28, ,Michigan State V.S.Minnesota,regular season
+400935381,Ohio State,Nebraska,14,21,28,7, ,Ohio State V.S.Nebraska,regular season
+400935382,Wisconsin,Purdue,17,6,3,0, ,Purdue V.S.Wisconsin,regular season
+400935383,Michigan State,Indiana,3,3,3,17, ,Indiana V.S.Michigan State,regular season
+400935384,Minnesota,Illinois,14,0,3,24, ,Illinois V.S.Minnesota,regular season
+400935385,Northwestern,Iowa,0,7,7,6,7,Iowa V.S.Northwestern,regular season
+400935386,Penn State,Michigan,14,20,7,14, ,Michigan V.S.Penn State,regular season
+400935387,Rutgers,Purdue,7,3,10,6, ,Purdue V.S.Rutgers,regular season
+400935388,Wisconsin,Maryland,7,17,17,10, ,Maryland V.S.Wisconsin,regular season
+400935389,Northwestern,Michigan State,7,13,0,14,36,Michigan State V.S.Northwestern,regular season
+400935390,Wisconsin,Illinois,7,13,0,14, ,Wisconsin V.S.Illinois,regular season
+400935391,Iowa,Minnesota,7,0,7,13, ,Minnesota V.S.Iowa,regular season
+400935392,Maryland,Indiana,23,28,10,20, ,Indiana V.S.Maryland,regular season
+400935393,Michigan,Rutgers,0,28,14,7, ,Rutgers V.S.Michigan,regular season
+400935394,Ohio State,Penn State,17,28,10,22, ,Penn State V.S.Ohio State,regular season
+400935395,Nebraska,Purdue,3,17,9,20, ,Nebraska V.S.Purdue,regular season
+400935396,Wisconsin,Indiana,7,17,17,21, ,Wisconsin V.S.Indiana,regular season
+400935397,Iowa,Ohio State,20,28,7,24, ,Ohio State V.S.Iowa,regular season
+400935398,Michigan,Minnesota,20,7,13,3, ,Minnesota V.S.Michigan,regular season
+400935399,Michigan State,Penn State,21,7,17,6, ,Penn State V.S.Michigan State,regular season
+400935400,Northwestern,Nebraska,14,17,10,7,7,Northwestern V.S.Nebraska,regular season
+400935401,Purdue,Illinois,14,9,3,13, ,Illinois V.S.Purdue,regular season
+400935402,Rutgers,Maryland,7,24,10,14, ,Maryland V.S.Rutgers,regular season
+400935403,Indiana,Illinois,0,14,10,14, ,Indiana V.S.Illinois,regular season
+400935404,Michigan,Maryland,7,21,3,14, ,Michigan V.S.Maryland,regular season
+400935405,Minnesota,Nebraska,21,23,10,21, ,Nebraska V.S.Minnesota,regular season
+400935406,Northwestern,Purdue,0,14,13,9, ,Purdue V.S.Northwestern,regular season
+400935407,Ohio State,Michigan State,14,24,13,0, ,Michigan State V.S.Ohio State,regular season
+400935408,Penn State,Rutgers,3,17,14,7, ,Rutgers V.S.Penn State,regular season
+400935409,Wisconsin,Iowa,10,14,14,14, ,Iowa V.S.Wisconsin,regular season
+400935410,Indiana,Rutgers,17,3,14,7, ,Rutgers V.S.Indiana,regular season
+400935411,Purdue,Iowa,7,9,14,9, ,Purdue V.S.Iowa,regular season
+400935412,Michigan State,Maryland,7,7,3,7, ,Maryland V.S.Michigan State,regular season
+400935413,Northwestern,Minnesota,0,25,7,7, ,Minnesota V.S.Northwestern,regular season
+400935414,Ohio State,Illinois,28,10,14,14, ,Illinois V.S.Ohio State,regular season
+400935415,Penn State,Nebraska,24,28,14,34, ,Nebraska V.S.Penn State,regular season
+400935416,Wisconsin,Michigan,7,7,17,3, ,Michigan V.S.Wisconsin,regular season
+400935417,Iowa,Nebraska,14,14,28,14, ,Iowa V.S.Nebraska,regular season
+400935418,Northwestern,Illinois,7,14,14,14, ,Northwestern V.S.Illinois,regular season
+400935419,Penn State,Maryland,14,17,24,14, ,Penn State V.S.Maryland,regular season
+400935420,Ohio State,Michigan,7,21,13,10, ,Ohio State V.S.Michigan,regular season
+400935421,Wisconsin,Minnesota,7,10,7,7, ,Wisconsin V.S.Minnesota,regular season
+400935422,Purdue,Indiana,14,17,3,21, ,Indiana V.S.Purdue,regular season
+400935423,Michigan State,Rutgers,13,10,3,21, ,Michigan State V.S.Rutgers,regular season
+400937445,Wake Forest,Presbyterian College,16,21,14,7, ,Presbyterian College V.S.Wake Forest,regular season
+400937446,Boston College,Northern Illinois,6,17,14,6, ,Boston College V.S.Northern Illinois,regular season
+400937447,Clemson,Kent State,21,10,21,7, ,Kent State V.S.Clemson,regular season
+400937448,Duke,North Carolina Central,21,33,6,7, ,North Carolina Central V.S.Duke,regular season
+400937449,Miami,Bethune-Cookman,6,24,21,3, ,Bethune-Cookman V.S.Miami,regular season
+400937450,Pittsburgh,Youngstown State,14,7,7,14,7,Youngstown State V.S.Pittsburgh,regular season
+400937451,Syracuse,Central Connecticut,21,10,20,6, ,Central Connecticut V.S.Syracuse,regular season
+400937452,Virginia,William & Mary,7,7,10,14, ,William & Mary V.S.Virginia,regular season
+400937453,Wake Forest,Boston College,7,21,13,3, ,Wake Forest V.S.Boston College,regular season
+400937455,Georgia Tech,Jacksonville State,3,14,23,7, ,Jacksonville State V.S.Georgia Tech,regular season
+400937456,Louisville,North Carolina,17,17,21,27, ,Louisville V.S.North Carolina,regular season
+400937458,NC State,Marshall,13,30,7,7, ,Marshall V.S.NC State,regular season
+400937459,Middle Tennessee,Syracuse,5,17,10,21, ,Middle Tennessee V.S.Syracuse,regular season
+400937460,Virginia Tech,Delaware,7,10,0,10, ,Delaware V.S.Virginia Tech,regular season
+400937461,Clemson,Louisville,14,12,14,28, ,Clemson V.S.Louisville,regular season
+400937464,North Carolina,Old Dominion,11,35,17,13, ,North Carolina V.S.Old Dominion,regular season
+400937465,NC State,Furman,17,24,21,3, ,Furman V.S.NC State,regular season
+400937466,Syracuse,Central Michigan,20,21,17,0, ,Central Michigan V.S.Syracuse,regular season
+400937467,Virginia,UConn,7,17,13,19, ,UConn V.S.Virginia,regular season
+400937468,Virginia Tech,East Carolina,24,16,34,7, ,Virginia Tech V.S.East Carolina,regular season
+400937469,Wake Forest,Utah State,14,15,27,0, ,Utah State V.S.Wake Forest,regular season
+400937470,Clemson,Boston College,0,7,7,27, ,Boston College V.S.Clemson,regular season
+400937471,Duke,North Carolina,10,10,10,14, ,Duke V.S.North Carolina,regular season
+400937472,NC State,Florida State,10,17,6,15, ,NC State V.S.Florida State,regular season
+400937473,Georgia Tech,Pittsburgh,14,24,7,7, ,Pittsburgh V.S.Georgia Tech,regular season
+400937474,Louisville,Kent State,21,10,14,0, ,Kent State V.S.Louisville,regular season
+400937475,Miami,Toledo,10,16,14,42, ,Toledo V.S.Miami,regular season
+400937477,Virginia Tech,Old Dominion,3,14,14,7, ,Old Dominion V.S.Virginia Tech,regular season
+400937478,Wake Forest,Appalachian State,9,3,21,6, ,Wake Forest V.S.Appalachian State,regular season
+400937479,Miami,Duke,17,6,0,14, ,Miami V.S.Duke,regular season
+400937480,Boston College,Central Michigan,16,13,7,0, ,Central Michigan V.S.Boston College,regular season
+400937481,Clemson,Virginia Tech,10,10,7,21, ,Clemson V.S.Virginia Tech,regular season
+400937482,Florida State,Wake Forest,6,19,3,17, ,Florida State V.S.Wake Forest,regular season
+400937483,Georgia Tech,North Carolina,7,3,14,16, ,North Carolina V.S.Georgia Tech,regular season
+400937484,Louisville,Murray State,17,21,17,10, ,Murray State V.S.Louisville,regular season
+400937485,NC State,Syracuse,13,20,10,15, ,Syracuse V.S.NC State,regular season
+400937486,Pittsburgh,Rice,21,7,10,14, ,Rice V.S.Pittsburgh,regular season
+400937487,NC State,Louisville,0,27,10,27, ,Louisville V.S.NC State,regular season
+400937488,Virginia Tech,Boston College,10,10,3,10, ,Virginia Tech V.S.Boston College,regular season
+400937489,Clemson,Wake Forest,14,0,7,21, ,Wake Forest V.S.Clemson,regular season
+400937490,Virginia,Duke,14,14,7,14, ,Duke V.S.Virginia,regular season
+400937491,Syracuse,Pittsburgh,3,17,13,18, ,Pittsburgh V.S.Syracuse,regular season
+400937493,Syracuse,Clemson,21,10,17,3, ,Clemson V.S.Syracuse,regular season
+400937494,Boston College,Louisville,21,14,14,38, ,Boston College V.S.Louisville,regular season
+400937495,Florida State,Duke,7,3,10,7, ,Florida State V.S.Duke,regular season
+400937496,Virginia,North Carolina,0,10,21,3, ,Virginia V.S.North Carolina,regular season
+400937497,NC State,Pittsburgh,21,7,7,17, ,NC State V.S.Pittsburgh,regular season
+400937498,Boston College,Virginia,17,14,10,10, ,Boston College V.S.Virginia,regular season
+400937499,Pittsburgh,Duke,7,3,21,10, ,Pittsburgh V.S.Duke,regular season
+400937500,Louisville,Florida State,14,14,14,17, ,Louisville V.S.Florida State,regular season
+400937501,Georgia Tech,Wake Forest,10,24,15,13, ,Wake Forest V.S.Georgia Tech,regular season
+400937502,Miami,Syracuse,3,13,17,13, ,Syracuse V.S.Miami,regular season
+400937503,Virginia Tech,North Carolina,14,21,17,14, ,North Carolina V.S.Virginia Tech,regular season
+400937504,Boston College,Florida State,7,17,14,0, ,Florida State V.S.Boston College,regular season
+400937505,Clemson,Georgia Tech,17,7,3,7, ,Georgia Tech V.S.Clemson,regular season
+400937506,Virginia Tech,Duke,7,13,7,0, ,Duke V.S.Virginia Tech,regular season
+400937507,Wake Forest,Louisville,17,21,14,22, ,Louisville V.S.Wake Forest,regular season
+400937508,Miami,North Carolina,3,10,17,13, ,Miami V.S.North Carolina,regular season
+400937509,Pittsburgh,Virginia,7,21,7,10, ,Virginia V.S.Pittsburgh,regular season
+400937510,Clemson,NC State,21,17,14,17, ,Clemson V.S.NC State,regular season
+400937511,Florida State,Syracuse,7,28,6,10, ,Syracuse V.S.Florida State,regular season
+400937512,Virginia,Georgia Tech,10,17,29,20, ,Georgia Tech V.S.Virginia,regular season
+400937513,Miami,Virginia Tech,0,17,14,7, ,Virginia Tech V.S.Miami,regular season
+400937514,North Carolina,Pittsburgh,17,24,10,14, ,North Carolina V.S.Pittsburgh,regular season
+400937515,NC State,Boston College,0,17,7,7, ,NC State V.S.Boston College,regular season
+400937516,Clemson,Florida State,7,10,7,21, ,Florida State V.S.Clemson,regular season
+400937517,Georgia Tech,Virginia Tech,10,13,14,13, ,Virginia Tech V.S.Georgia Tech,regular season
+400937518,Louisville,Virginia,14,17,14,14, ,Virginia V.S.Louisville,regular season
+400937519,Wake Forest,Syracuse,35,27,21,24, ,Wake Forest V.S.Syracuse,regular season
+400937520,Boston College,UConn,3,14,19,19, ,Boston College V.S.UConn,regular season
+400937521,Clemson,The Citadel,21,17,20,6, ,The Citadel V.S.Clemson,regular season
+400937522,Duke,Georgia Tech,10,30,10,13, ,Georgia Tech V.S.Duke,regular season
+400937523,Florida State,Delaware State,27,35,7,14, ,Delaware State V.S.Florida State,regular season
+400937524,Louisville,Syracuse,10,28,14,14, ,Syracuse V.S.Louisville,regular season
+400937525,Miami,Virginia,21,14,24,13, ,Virginia V.S.Miami,regular season
+400937526,North Carolina,Western Carolina,14,35,10,16, ,Western Carolina V.S.North Carolina,regular season
+400937527,Wake Forest,NC State,21,14,10,9, ,NC State V.S.Wake Forest,regular season
+400937528,Virginia Tech,Pittsburgh,14,3,0,17, ,Pittsburgh V.S.Virginia Tech,regular season
+400937529,Pittsburgh,Miami,3,14,7,14, ,Miami V.S.Pittsburgh,regular season
+400937530,Virginia Tech,Virginia,0,3,7,0, ,Virginia Tech V.S.Virginia,regular season
+400937531,Boston College,Syracuse,21,21,7,7, ,Boston College V.S.Syracuse,regular season
+400937532,Duke,Wake Forest,13,14,13,14, ,Duke V.S.Wake Forest,regular season
+400937533,NC State,North Carolina,13,13,7,21, ,North Carolina V.S.NC State,regular season
+400938591,UCF,Florida Intl,21,29,21,7, ,Florida Intl V.S.UCF,regular season
+400938592,Navy,Florida Atlantic,10,21,17,13, ,Navy V.S.Florida Atlantic,regular season
+400938593,Louisiana Tech,Northwestern State,17,17,21,21, ,Northwestern State V.S.Louisiana Tech,regular season
+400938594,Marshall,Miami (OH),10,24,14,9, ,Miami (OH) V.S.Marshall,regular season
+400938595,North Texas,Lamar,24,28,14,7, ,Lamar V.S.North Texas,regular season
+400938596,Old Dominion,Albany,10,14,3,21, ,Albany V.S.Old Dominion,regular season
+400938597,UAB,Alabama A&M,7,10,14,14, ,Alabama A&M V.S.UAB,regular season
+400938599,Western Kentucky,Eastern Kentucky,0,17,21,10, ,Eastern Kentucky V.S.Western Kentucky,regular season
+400938600,Florida Intl,Alcorn State,0,14,3,10, ,Alcorn State V.S.Florida Intl,regular season
+400938601,SMU,North Texas,20,14,23,29, ,North Texas V.S.SMU,regular season
+400938602,Old Dominion,UMass,3,7,7,7, ,Old Dominion V.S.UMass,regular season
+400938603,Rice,UTEP,3,7,14,21, ,Rice V.S.UTEP,regular season
+400938604,Southern Mississippi,Southern,28,7,10,0, ,Southern V.S.Southern Mississippi,regular season
+400938605,Ball State,UAB,10,28,24,20, ,UAB V.S.Ball State,regular season
+400938606,North Carolina A&T,Charlotte,21,10,14,21, ,North Carolina A&T V.S.Charlotte,regular season
+400938607,Florida Atlantic,Bethune-Cookman,14,7,17,7, ,Bethune-Cookman V.S.Florida Atlantic,regular season
+400938608,Louisiana Tech,Western Kentucky,11,17,7,10, ,Louisiana Tech V.S.Western Kentucky,regular season
+400938609,Marshall,Kent State,0,7,0,14, ,Kent State V.S.Marshall,regular season
+400938610,Houston,Rice,17,21,0,3, ,Rice V.S.Houston,regular season
+400938611,Southern Mississippi,Louisiana Monroe,7,24,14,0, ,Southern Mississippi V.S.Louisiana Monroe,regular season
+400938612,UAB,Coastal Carolina,15,6,15,17, ,Coastal Carolina V.S.UAB,regular season
+400938613,UT San Antonio,Southern,21,27,10,10, ,Southern V.S.UT San Antonio,regular season
+400938614,Georgia State,Charlotte,0,14,0,14, ,Georgia State V.S.Charlotte,regular season
+400938615,Florida Intl,Rice,0,17,3,0, ,Florida Intl V.S.Rice,regular season
+400938616,Buffalo,Florida Atlantic,21,13,7,24, ,Florida Atlantic V.S.Buffalo,regular season
+400938617,Middle Tennessee,Bowling Green,14,17,3,3, ,Bowling Green V.S.Middle Tennessee,regular season
+400938618,North Texas,UAB,17,27,22,23, ,UAB V.S.North Texas,regular season
+400938619,New Mexico State,UTEP,14,14,13,14, ,UTEP V.S.New Mexico State,regular season
+400938620,UT San Antonio,Texas State,17,24,3,14, ,UT San Antonio V.S.Texas State,regular season
+400938621,Western Kentucky,Ball State,14,10,7,23, ,Ball State V.S.Western Kentucky,regular season
+400938622,Florida Intl,Charlotte,19,21,10,9, ,Charlotte V.S.Florida Intl,regular season
+400938623,Florida Atlantic,Middle Tennessee,20,10,7,21, ,Middle Tennessee V.S.Florida Atlantic,regular season
+400938624,Louisiana Tech,South Alabama,21,9,3,17, ,South Alabama V.S.Louisiana Tech,regular season
+400938625,Marshall,Cincinnati,7,17,14,21, ,Marshall V.S.Cincinnati,regular season
+400938626,North Texas,Southern Mississippi,21,17,23,10, ,North Texas V.S.Southern Mississippi,regular season
+400938627,Marshall,Charlotte,7,0,10,0, ,Marshall V.S.Charlotte,regular season
+400938628,Middle Tennessee,Florida Intl,6,14,17,17, ,Florida Intl V.S.Middle Tennessee,regular season
+400938629,Florida Atlantic,Old Dominion,24,21,21,20, ,Florida Atlantic V.S.Old Dominion,regular season
+400938630,UAB,Louisiana Tech,20,6,0,19, ,Louisiana Tech V.S.UAB,regular season
+400938631,Western Kentucky,UTEP,0,22,7,0, ,Western Kentucky V.S.UTEP,regular season
+400938632,Western Kentucky,Charlotte,21,31,0,7, ,Charlotte V.S.Western Kentucky,regular season
+400938633,Florida Intl,Tulane,7,6,10,10, ,Tulane V.S.Florida Intl,regular season
+400938634,Marshall,Old Dominion,0,10,7,21, ,Old Dominion V.S.Marshall,regular season
+400938635,UAB,Middle Tennessee,19,23,3,3, ,Middle Tennessee V.S.UAB,regular season
+400938636,North Texas,UT San Antonio,23,10,3,19, ,UT San Antonio V.S.North Texas,regular season
+400938637,Southern Mississippi,UTEP,7,7,0,10, ,UTEP V.S.Southern Mississippi,regular season
+400938638,Charlotte,UAB,0,14,10,10,15,UAB V.S.Charlotte,regular season
+400938639,Florida Atlantic,North Texas,24,24,31,21, ,North Texas V.S.Florida Atlantic,regular season
+400938640,Southern Mississippi,Louisiana Tech,6,21,6,21,7,Southern Mississippi V.S.Louisiana Tech,regular season
+400938641,Western Kentucky,Old Dominion,14,21,17,14, ,Western Kentucky V.S.Old Dominion,regular season
+400938642,UT San Antonio,Rice,10,7,10,0, ,Rice V.S.UT San Antonio,regular season
+400938643,Florida Intl,Marshall,14,21,14,22, ,Florida Intl V.S.Marshall,regular season
+400938644,Florida Atlantic,Western Kentucky,17,24,7,22, ,Florida Atlantic V.S.Western Kentucky,regular season
+400938645,Louisiana Tech,Rice,7,21,14,28, ,Louisiana Tech V.S.Rice,regular season
+400938646,North Texas,Old Dominion,24,34,15,10, ,Old Dominion V.S.North Texas,regular season
+400938647,UAB,Southern Mississippi,16,3,6,17, ,UAB V.S.Southern Mississippi,regular season
+400938648,UT San Antonio,UTEP,3,28,7,7, ,UT San Antonio V.S.UTEP,regular season
+400938649,Old Dominion,Charlotte,3,0,3,0, ,Charlotte V.S.Old Dominion,regular season
+400938650,Florida Intl,UT San Antonio,0,0,14,7, ,UT San Antonio V.S.Florida Intl,regular season
+400938651,North Texas,Louisiana Tech,10,17,10,10, ,North Texas V.S.Louisiana Tech,regular season
+400938652,Middle Tennessee,UTEP,10,7,10,6, ,UTEP V.S.Middle Tennessee,regular season
+400938653,UAB,Rice,21,28,7,17, ,Rice V.S.UAB,regular season
+400938654,Middle Tennessee,Charlotte,21,14,7,14, ,Middle Tennessee V.S.Charlotte,regular season
+400938655,Old Dominion,Florida Intl,14,24,16,13, ,Old Dominion V.S.Florida Intl,regular season
+400938656,Florida Atlantic,Louisiana Tech,9,20,29,13, ,Florida Atlantic V.S.Louisiana Tech,regular season
+400938657,Marshall,Western Kentucky,7,13,20,13, ,Western Kentucky V.S.Marshall,regular season
+400938658,North Texas,UTEP,14,7,17,17, ,UTEP V.S.North Texas,regular season
+400938659,Southern Mississippi,Rice,10,26,27,14, ,Southern Mississippi V.S.Rice,regular season
+400938660,UAB,UT San Antonio,17,10,0,16, ,UAB V.S.UT San Antonio,regular season
+400938661,Southern Mississippi,Charlotte,13,32,21,21, ,Charlotte V.S.Southern Mississippi,regular season
+400938662,Florida Atlantic,Florida Intl,14,17,23,22, ,Florida Intl V.S.Florida Atlantic,regular season
+400938663,Louisiana Tech,UTEP,7,21,14,21, ,Louisiana Tech V.S.UTEP,regular season
+400938664,UT San Antonio,Marshall,3,3,0,10, ,Marshall V.S.UT San Antonio,regular season
+400938665,Western Kentucky,Middle Tennessee,7,3,3,35,31,Middle Tennessee V.S.Western Kentucky,regular season
+400938666,Old Dominion,Rice,14,3,7,21, ,Rice V.S.Old Dominion,regular season
+400938667,Florida Atlantic,Charlotte,10,20,13,0, ,Florida Atlantic V.S.Charlotte,regular season
+400938668,Florida Intl,Western Kentucky,6,17,28,7, ,Western Kentucky V.S.Florida Intl,regular season
+400938669,Louisiana Tech,UT San Antonio,7,3,6,10, ,UT San Antonio V.S.Louisiana Tech,regular season
+400938670,Southern Mississippi,Marshall,0,28,14,13, ,Southern Mississippi V.S.Marshall,regular season
+400938671,Middle Tennessee,Old Dominion,6,21,7,17, ,Old Dominion V.S.Middle Tennessee,regular season
+400938672,North Texas,Rice,14,24,3,3, ,North Texas V.S.Rice,regular season
+400938673,UAB,UTEP,10,11,14,0, ,UTEP V.S.UAB,regular season
+400938674,Marshall,Middle Tennessee,10,31,0,7, ,Marshall V.S.Middle Tennessee,regular season
+400938675,Florida Atlantic,Marshall,13,6,20,16, ,Marshall V.S.Florida Atlantic,regular season
+400938676,Southern Mississippi,UT San Antonio,10,10,14,26, ,Southern Mississippi V.S.UT San Antonio,regular season
+400938887,Hawai'i,UMass,14,14,21,24, ,Hawai'i V.S.UMass,regular season
+400938888,Coastal Carolina,UMass,21,14,17,14, ,UMass V.S.Coastal Carolina,regular season
+400938890,Ohio,UMass,17,37,16,38, ,Ohio V.S.UMass,regular season
+400938892,UMass,Georgia Southern,35,30,3,7, ,Georgia Southern V.S.UMass,regular season
+400938893,UMass,Appalachian State,10,21,3,6,17,Appalachian State V.S.UMass,regular season
+400938894,UMass,Maine,28,12,21,14, ,Maine V.S.UMass,regular season
+400938895,UMass,BYU,0,3,16,7, ,UMass V.S.BYU,regular season
+400941786,South Florida,San Jose State,16,28,7,13, ,South Florida V.S.San Jose State,regular season
+400941787,Cincinnati,Austin Peay,0,21,6,13, ,Austin Peay V.S.Cincinnati,regular season
+400941788,UConn,Holy Cross,10,17,7,13, ,Holy Cross V.S.UConn,regular season
+400941789,Memphis,Louisiana Monroe,14,13,24,15, ,Louisiana Monroe V.S.Memphis,regular season
+400941790,James Madison,East Carolina,7,0,21,20, ,James Madison V.S.East Carolina,regular season
+400941791,South Florida,Stony Brook,14,3,10,21, ,Stony Brook V.S.South Florida,regular season
+400941792,SMU,Stephen F. Austin,21,24,6,21, ,Stephen F. Austin V.S.SMU,regular season
+400941793,Tulane,Grambling,14,10,14,19, ,Grambling V.S.Tulane,regular season
+400941794,Navy,Tulane,7,20,9,8, ,Tulane V.S.Navy,regular season
+400941797,Temple,Villanova,3,7,6,13, ,Villanova V.S.Temple,regular season
+400941798,Tulsa,Louisiana,20,41,19,28, ,Louisiana V.S.Tulsa,regular season
+400941799,South Florida,Illinois,11,21,14,24, ,Illinois V.S.South Florida,regular season
+400941800,Temple,UMass,3,20,13,14, ,UMass V.S.Temple,regular season
+400941801,Cincinnati,Miami (OH),10,0,7,21, ,Cincinnati V.S.Miami (OH),regular season
+400941802,Toledo,Tulsa,28,14,31,32, ,Tulsa V.S.Toledo,regular season
+400941803,South Florida,Temple,3,24,13,10, ,Temple V.S.South Florida,regular season
+400941804,Navy,Cincinnati,21,17,21,15, ,Cincinnati V.S.Navy,regular season
+400941805,Memphis,Southern Illinois,21,17,20,17, ,Southern Illinois V.S.Memphis,regular season
+400941806,SMU,Arkansas State,24,20,7,14, ,Arkansas State V.S.SMU,regular season
+400941807,New Mexico,Tulsa,10,13,0,6, ,New Mexico V.S.Tulsa,regular season
+400941809,SMU,UConn,14,17,17,29, ,UConn V.S.SMU,regular season
+400941810,South Florida,East Carolina,31,24,24,13, ,South Florida V.S.East Carolina,regular season
+400941811,Houston,Temple,7,6,10,10, ,Houston V.S.Temple,regular season
+400941813,Navy,Tulsa,14,14,3,21, ,Navy V.S.Tulsa,regular season
+400941814,Memphis,UConn,21,38,21,21, ,Memphis V.S.UConn,regular season
+400941815,Navy,Air Force,14,24,24,31, ,Air Force V.S.Navy,regular season
+400941816,UCF,Cincinnati,27,26,21, , ,UCF V.S.Cincinnati,regular season
+400941817,Temple,East Carolina,3,24,14,3, ,Temple V.S.East Carolina,regular season
+400941818,Houston,SMU,16,17,17,7, ,SMU V.S.Houston,regular season
+400941819,Tulane,Tulsa,28,27,21,14, ,Tulsa V.S.Tulane,regular season
+400941820,UCF,East Carolina,28,28,7,21, ,East Carolina V.S.UCF,regular season
+400941821,UConn,Temple,7,14,21,10, ,UConn V.S.Temple,regular season
+400941822,Tulsa,Houston,3,14,17,28, ,Houston V.S.Tulsa,regular season
+400941823,Memphis,Navy,17,3,19,18, ,Navy V.S.Memphis,regular season
+400941824,Memphis,Houston,7,10,35,28, ,Memphis V.S.Houston,regular season
+400941825,UCF,Navy,7,14,17,14, ,UCF V.S.Navy,regular season
+400941826,SMU,Cincinnati,24,17,0,15,3,SMU V.S.Cincinnati,regular season
+400941827,UConn,Tulsa,3,0,14,17, ,Tulsa V.S.UConn,regular season
+400941828,East Carolina,BYU,14,6,9,21, ,BYU V.S.East Carolina,regular season
+400941829,South Florida,Tulane,7,20,21,14, ,South Florida V.S.Tulane,regular season
+400941830,Memphis,Tulane,14,33,7,28, ,Tulane V.S.Memphis,regular season
+400941831,SMU,Tulsa,21,28,13,10, ,Tulsa V.S.SMU,regular season
+400941832,South Florida,Cincinnati,6,20,7,3, ,Cincinnati V.S.South Florida,regular season
+400941833,Houston,East Carolina,21,17,24,17, ,East Carolina V.S.Houston,regular season
+400941834,Temple,Navy,13,10,21,16, ,Navy V.S.Temple,regular season
+400941835,Memphis,Tulsa,21,14,10,10, ,Memphis V.S.Tulsa,regular season
+400941836,UCF,SMU,14,21,17,3, ,UCF V.S.SMU,regular season
+400941837,Cincinnati,Tulane,10,13,7,3, ,Cincinnati V.S.Tulane,regular season
+400941838,East Carolina,UConn,28,13,31,7, ,East Carolina V.S.UConn,regular season
+400941839,Houston,South Florida,0,7,21,24, ,Houston V.S.South Florida,regular season
+400941840,Temple,Cincinnati,3,10,29,17, ,Temple V.S.Cincinnati,regular season
+400941841,Navy,SMU,18,27,27,11, ,SMU V.S.Navy,regular season
+400941842,UCF,UConn,24,14,7,28, ,UConn V.S.UCF,regular season
+400941843,Tulane,East Carolina,14,17,7,10,7,Tulane V.S.East Carolina,regular season
+400941844,UCF,Temple,10,34,14,6, ,UCF V.S.Temple,regular season
+400941845,East Carolina,Cincinnati,14,23,21,10, ,Cincinnati V.S.East Carolina,regular season
+400941846,Tulane,Houston,6,10,7,14, ,Houston V.S.Tulane,regular season
+400941847,Memphis,SMU,20,35,28,28, ,SMU V.S.Memphis,regular season
+400941848,South Florida,Tulsa,28,13,3,3, ,Tulsa V.S.South Florida,regular season
+400941849,UCF,South Florida,28,13,21,29, ,South Florida V.S.UCF,regular season
+400941850,Houston,Navy,7,14,7,10, ,Navy V.S.Houston,regular season
+400941851,Cincinnati,UConn,3,10,9,21, ,UConn V.S.Cincinnati,regular season
+400941852,Memphis,East Carolina,28,21,27,7, ,East Carolina V.S.Memphis,regular season
+400941853,Temple,Tulsa,17,27,13,8, ,Temple V.S.Tulsa,regular season
+400941854,SMU,Tulane,21,27,24,7, ,Tulane V.S.SMU,regular season
+400944818,Troy,Akron,10,9,7,13, ,Akron V.S.Troy,regular season
+400944826,Tennessee State,Georgia State,3,10,7,7, ,Tennessee State V.S.Georgia State,regular season
+400944827,Idaho,Sacramento State,0,20,7,7, ,Sacramento State V.S.Idaho,regular season
+400944828,Louisiana,Southeastern Louisiana,42,28,7,22, ,Southeastern Louisiana V.S.Louisiana,regular season
+400944829,Texas State,Houston Baptist,9,10,7,5, ,Houston Baptist V.S.Texas State,regular season
+400944830,Boise State,Troy,10,17,0,10, ,Troy V.S.Boise State,regular season
+400944831,Appalachian State,Savannah State,14,31,2,14, ,Savannah State V.S.Appalachian State,regular season
+400944832,New Hampshire,Georgia Southern,15,7,5,7, ,New Hampshire V.S.Georgia Southern,regular season
+400944833,UNLV,Idaho,7,6,31,16, ,UNLV V.S.Idaho,regular season
+400944834,New Mexico State,New Mexico,15,13,7,23, ,New Mexico State V.S.New Mexico,regular season
+400944835,Troy,Alabama State,14,13,7,7, ,Alabama State V.S.Troy,regular season
+400944836,Appalachian State,Texas State,7,10,10,6, ,Appalachian State V.S.Texas State,regular season
+400944837,Troy,New Mexico State,16,0,27,8, ,Troy V.S.New Mexico State,regular season
+400944838,Arkansas State,Arkansas-Pine Bluff,13,10,21,7, ,Arkansas-Pine Bluff V.S.Arkansas State,regular season
+400944839,Western Michigan,Idaho,10,10,27,18, ,Idaho V.S.Western Michigan,regular season
+400944840,South Alabama,Alabama A&M,24,7,14,0, ,Alabama A&M V.S.South Alabama,regular season
+400944841,Idaho,South Alabama,13,10,0,17,12,Idaho V.S.South Alabama,regular season
+400944842,Louisiana Monroe,Louisiana,9,27,16,34,20,Louisiana Monroe V.S.Louisiana,regular season
+400944843,Western Illinois,Coastal Carolina,17,14,21,10, ,Western Illinois V.S.Coastal Carolina,regular season
+400944844,Louisiana Monroe,Coastal Carolina,25,28,22,19, ,Coastal Carolina V.S.Louisiana Monroe,regular season
+400944845,Wyoming,Texas State,0,41,14,0, ,Texas State V.S.Wyoming,regular season
+400944846,Arkansas State,Georgia Southern,3,36,14,15, ,Arkansas State V.S.Georgia Southern,regular season
+400944847,Georgia State,Coastal Carolina,14,14,0,20, ,Georgia State V.S.Coastal Carolina,regular season
+400944848,Louisiana,Idaho,14,10,10,3, ,Louisiana V.S.Idaho,regular season
+400944849,Louisiana Monroe,Texas State,39,7,9,17, ,Louisiana Monroe V.S.Texas State,regular season
+400944850,Appalachian State,New Mexico State,10,21,3,42, ,New Mexico State V.S.Appalachian State,regular season
+400944851,South Alabama,Troy,7,2,7,11, ,South Alabama V.S.Troy,regular season
+400944852,Louisiana,Texas State,14,0,10,7, ,Texas State V.S.Louisiana,regular season
+400944853,Appalachian State,Idaho,0,17,10,16, ,Appalachian State V.S.Idaho,regular season
+400944854,Arkansas State,Coastal Carolina,7,17,17,27, ,Coastal Carolina V.S.Arkansas State,regular season
+400944855,New Mexico State,Georgia Southern,28,17,3,14, ,New Mexico State V.S.Georgia Southern,regular season
+400944856,Georgia State,Louisiana Monroe,23,13,28,20, ,Georgia State V.S.Louisiana Monroe,regular season
+400944857,Arkansas State,Louisiana,17,20,3,10, ,Louisiana V.S.Arkansas State,regular season
+400944858,Appalachian State,Coastal Carolina,17,19,9,21, ,Coastal Carolina V.S.Appalachian State,regular season
+400944859,South Alabama,Louisiana Monroe,21,23,9,3, ,Louisiana Monroe V.S.South Alabama,regular season
+400944860,Troy,Georgia State,10,14,10,10, ,Troy V.S.Georgia State,regular season
+400944861,Georgia State,South Alabama,7,10,3,14, ,South Alabama V.S.Georgia State,regular season
+400944862,Arkansas State,New Mexico State,7,14,10,27, ,Arkansas State V.S.New Mexico State,regular season
+400944863,Texas State,Coastal Carolina,14,10,3,7, ,Texas State V.S.Coastal Carolina,regular season
+400944864,Troy,Georgia Southern,21,17,3,13, ,Georgia Southern V.S.Troy,regular season
+400944865,Idaho,Louisiana Monroe,14,21,9,10, ,Louisiana Monroe V.S.Idaho,regular season
+400944866,Troy,Idaho,7,10,7,21, ,Idaho V.S.Troy,regular season
+400944867,Louisiana Monroe,Appalachian State,14,38,21,24, ,Appalachian State V.S.Louisiana Monroe,regular season
+400944868,Georgia State,Georgia Southern,14,3,14,7, ,Georgia State V.S.Georgia Southern,regular season
+400944869,Louisiana,South Alabama,3,23,0,7, ,Louisiana V.S.South Alabama,regular season
+400944870,New Mexico State,Texas State,21,17,21,21, ,New Mexico State V.S.Texas State,regular season
+400944871,Appalachian State,Georgia Southern,3,10,6,14, ,Georgia Southern V.S.Appalachian State,regular season
+400944872,South Alabama,Arkansas State,10,6,13,14, ,Arkansas State V.S.South Alabama,regular season
+400944873,Georgia State,Texas State,17,10,13,23, ,Georgia State V.S.Texas State,regular season
+400944874,Troy,Coastal Carolina,24,14,14,7, ,Troy V.S.Coastal Carolina,regular season
+400944875,Arkansas State,Texas State,22,0,20,0, ,Texas State V.S.Arkansas State,regular season
+400944876,Coastal Carolina,Idaho,7,10,0,3, ,Coastal Carolina V.S.Idaho,regular season
+400944877,Georgia Southern,South Alabama,21,10,14,7, ,South Alabama V.S.Georgia Southern,regular season
+400944878,Louisiana,New Mexico State,21,27,17,16, ,New Mexico State V.S.Louisiana,regular season
+400944879,Appalachian State,Georgia State,0,17,14,10, ,Appalachian State V.S.Georgia State,regular season
+400944880,Arkansas State,Louisiana Monroe,21,28,35,33, ,Arkansas State V.S.Louisiana Monroe,regular season
+400944881,Georgia Southern,Louisiana,14,10,13,21, ,Georgia Southern V.S.Louisiana,regular season
+400944882,New Mexico State,Idaho,14,7,3,3, ,Idaho V.S.New Mexico State,regular season
+400944883,Troy,Texas State,17,24,20,10, ,Texas State V.S.Troy,regular season
+400944884,Appalachian State,Louisiana,21,21,14,21, ,Louisiana V.S.Appalachian State,regular season
+400944885,Troy,Arkansas State,0,17,13,27, ,Troy V.S.Arkansas State,regular season
+400944886,Coastal Carolina,Georgia Southern,10,14,21,0, ,Georgia Southern V.S.Coastal Carolina,regular season
+400944887,Idaho,Georgia State,14,10,3,7, ,Idaho V.S.Georgia State,regular season
+400944888,New Mexico State,South Alabama,0,20,0,19, ,South Alabama V.S.New Mexico State,regular season
+400944889,Toledo,Elon,13,13,21,13, ,Elon V.S.Toledo,regular season
+400944890,Central Michigan,Rhode Island,0,13,7,22,15,Rhode Island V.S.Central Michigan,regular season
+400944891,Eastern Michigan,Charlotte,21,3,7,0, ,Charlotte V.S.Eastern Michigan,regular season
+400944892,Ohio,Hampton,7,13,26,13, ,Hampton V.S.Ohio,regular season
+400944893,Akron,Arkansas-Pine Bluff,14,20,14,7, ,Arkansas-Pine Bluff V.S.Akron,regular season
+400944894,Miami (OH),Austin Peay,14,14,3,10, ,Austin Peay V.S.Miami (OH),regular season
+400944895,Northern Illinois,Eastern Illinois,10,24,7,7, ,Eastern Illinois V.S.Northern Illinois,regular season
+400944896,Kent State,Howard,21,14,12,22, ,Howard V.S.Kent State,regular season
+400944897,South Dakota,Bowling Green,24,6,14,18, ,South Dakota V.S.Bowling Green,regular season
+400944898,Toledo,Nevada,13,17,28,3, ,Toledo V.S.Nevada,regular season
+400944899,Buffalo,Colgate,23,10,7,3, ,Colgate V.S.Buffalo,regular season
+400944900,Ball State,Tennessee Tech,7,21,13,0, ,Tennessee Tech V.S.Ball State,regular season
+400944901,Miami (OH),Central Michigan,14,28,3,0, ,Miami (OH) V.S.Central Michigan,regular season
+400944902,Ohio,Eastern Michigan,6,10,3,7,21,Ohio V.S.Eastern Michigan,regular season
+400944903,Western Michigan,Wagner,7,21,28,7, ,Wagner V.S.Western Michigan,regular season
+400944904,Akron,Bowling Green,19,14,17,7, ,Akron V.S.Bowling Green,regular season
+400944905,Western Michigan,Ball State,14,17,20,7, ,Ball State V.S.Western Michigan,regular season
+400944986,Buffalo,Kent State,7,26,7,0, ,Buffalo V.S.Kent State,regular season
+400944987,San Diego State,Northern Illinois,28,17,14,3, ,Northern Illinois V.S.San Diego State,regular season
+400944988,Akron,Ball State,10,10,0,14, ,Ball State V.S.Akron,regular season
+400944989,Bowling Green,Miami (OH),9,27,17,13, ,Bowling Green V.S.Miami (OH),regular season
+400944990,Central Michigan,Ohio,14,13,6,16, ,Central Michigan V.S.Ohio,regular season
+400944991,Toledo,Eastern Michigan,9,7,10,9, ,Eastern Michigan V.S.Toledo,regular season
+400944992,Northern Illinois,Kent State,7,10,10,0, ,Kent State V.S.Northern Illinois,regular season
+400944993,Western Michigan,Buffalo,24,7,7,24,77,Western Michigan V.S.Buffalo,regular season
+400944994,Akron,Western Michigan,7,10,0,10, ,Akron V.S.Western Michigan,regular season
+400944995,Kent State,Miami (OH),0,17,14,0, ,Miami (OH) V.S.Kent State,regular season
+400944996,Northern Illinois,Buffalo,3,24,0,0, ,Northern Illinois V.S.Buffalo,regular season
+400944997,Ohio,Bowling Green,6,31,13,28, ,Ohio V.S.Bowling Green,regular season
+400944998,Toledo,Central Michigan,7,10,3,20, ,Toledo V.S.Central Michigan,regular season
+400944999,Toledo,Akron,21,10,14,24, ,Akron V.S.Toledo,regular season
+400945000,Miami (OH),Buffalo,10,7,14,7, ,Buffalo V.S.Miami (OH),regular season
+400945001,Central Michigan,Ball State,10,24,10,21, ,Central Michigan V.S.Ball State,regular season
+400945002,Ohio,Kent State,3,13,28,7, ,Kent State V.S.Ohio,regular season
+400945003,Northern Illinois,Bowling Green,21,17,13,14, ,Northern Illinois V.S.Bowling Green,regular season
+400945004,Western Michigan,Eastern Michigan,0,17,10,7,3,Western Michigan V.S.Eastern Michigan,regular season
+400945005,Northern Illinois,Eastern Michigan,0,21,6,21,9,Eastern Michigan V.S.Northern Illinois,regular season
+400945006,Toledo,Ball State,10,24,34,7, ,Toledo V.S.Ball State,regular season
+400945007,Akron,Buffalo,14,13,0,14, ,Buffalo V.S.Akron,regular season
+400945008,Bowling Green,Kent State,17,12,14,17, ,Bowling Green V.S.Kent State,regular season
+400945009,Ohio,Miami (OH),28,21,14,10, ,Miami (OH) V.S.Ohio,regular season
+400945010,Central Michigan,Western Michigan,21,7,14,21, ,Central Michigan V.S.Western Michigan,regular season
+400945011,Eastern Michigan,Ball State,21,28,14,7, ,Ball State V.S.Eastern Michigan,regular season
+400945012,Toledo,Northern Illinois,14,3,21,6, ,Northern Illinois V.S.Toledo,regular season
+400945013,Miami (OH),Akron,14,3,14,7, ,Akron V.S.Miami (OH),regular season
+400945014,Buffalo,Bowling Green,28,7,14,17, ,Bowling Green V.S.Buffalo,regular season
+400945015,Central Michigan,Eastern Michigan,21,24,7,20, ,Eastern Michigan V.S.Central Michigan,regular season
+400945016,Western Michigan,Kent State,35,10,3,20, ,Kent State V.S.Western Michigan,regular season
+400945017,Ohio,Toledo,7,10,17,14, ,Toledo V.S.Ohio,regular season
+400945018,Northern Illinois,Ball State,28,14,24,14, ,Ball State V.S.Northern Illinois,regular season
+400945019,Central Michigan,Kent State,10,35,0,20, ,Central Michigan V.S.Kent State,regular season
+400945020,Akron,Ohio,24,30,3,14, ,Ohio V.S.Akron,regular season
+400945021,Eastern Michigan,Miami (OH),7,23,14,7, ,Eastern Michigan V.S.Miami (OH),regular season
+400945022,Toledo,Bowling Green,21,24,35,23, ,Toledo V.S.Bowling Green,regular season
+400945023,Northern Illinois,Western Michigan,21,14,14,17, ,Western Michigan V.S.Northern Illinois,regular season
+400945024,Buffalo,Ball State,10,23,21,10, ,Buffalo V.S.Ball State,regular season
+400945025,Eastern Michigan,Bowling Green,23,14,28,0, ,Bowling Green V.S.Eastern Michigan,regular season
+400945026,Akron,Kent State,10,21,7,0, ,Kent State V.S.Akron,regular season
+400945027,Miami (OH),Ball State,14,14,0,7, ,Miami (OH) V.S.Ball State,regular season
+400945028,Central Michigan,Northern Illinois,14,3,17,21, ,Northern Illinois V.S.Central Michigan,regular season
+400945029,Buffalo,Ohio,31,3,14,7, ,Ohio V.S.Buffalo,regular season
+400945030,Toledo,Western Michigan,3,17,21,6, ,Western Michigan V.S.Toledo,regular season
+400945031,BYU,Portland State,7,13,0,6, ,Portland State V.S.BYU,regular season
+400945246,Air Force,VMI,14,21,14,13, ,VMI V.S.Air Force,regular season
+400945247,New Mexico,Abilene Christian,14,7,10,21, ,Abilene Christian V.S.New Mexico,regular season
+400945248,Fresno State,Incarnate Word,17,17,32,0, ,Incarnate Word V.S.Fresno State,regular season
+400945249,Hawai'i,Western Carolina,7,24,21,7, ,Western Carolina V.S.Hawai'i,regular season
+400945250,San Diego State,UC Davis,13,14,14,14, ,UC Davis V.S.San Diego State,regular season
+400945251,San Jose State,Cal Poly,3,10,13,21, ,Cal Poly V.S.San Jose State,regular season
+400945252,Howard,UNLV,13,27,21,22, ,Howard V.S.UNLV,regular season
+400945253,Utah State,Idaho State,17,27,14,6, ,Idaho State V.S.Utah State,regular season
+400945254,Colorado State,Abilene Christian,10,7,24,7, ,Abilene Christian V.S.Colorado State,regular season
+400945255,Wyoming,Gardner-Webb,14,10,0,3, ,Gardner-Webb V.S.Wyoming,regular season
+400945256,Boise State,New Mexico,7,14,0,21, ,New Mexico V.S.Boise State,regular season
+400945257,Idaho State,Nevada,10,20,14,14, ,Idaho State V.S.Nevada,regular season
+400945258,Virginia,Boise State,14,21,14,16, ,Virginia V.S.Boise State,regular season
+400945259,San Diego State,Air Force,6,10,7,29, ,San Diego State V.S.Air Force,regular season
+400945260,Utah State,San Jose State,14,24,24,9, ,Utah State V.S.San Jose State,regular season
+400945261,Wyoming,Hawai'i,0,14,14,14,7,Hawai'i V.S.Wyoming,regular season
+400945262,Utah State,BYU,14,31,3,16, ,BYU V.S.Utah State,regular season
+400945263,New Mexico,Air Force,7,28,24,35, ,Air Force V.S.New Mexico,regular season
+400945264,Colorado State,Hawai'i,14,24,20,14, ,Colorado State V.S.Hawai'i,regular season
+400945265,Fresno State,Nevada,10,35,7,10, ,Nevada V.S.Fresno State,regular season
+400945266,UNLV,San Jose State,17,31,6,0, ,San Jose State V.S.UNLV,regular season
+400945267,Boise State,BYU,7,17,0,7, ,Boise State V.S.BYU,regular season
+400945268,Colorado State,Utah State,17,14,0,10, ,Colorado State V.S.Utah State,regular season
+400945269,Fresno State,San Jose State,14,7,7,9, ,Fresno State V.S.San Jose State,regular season
+400945270,Nevada,Hawai'i,14,21,14,7, ,Hawai'i V.S.Nevada,regular season
+400945271,San Diego State,UNLV,6,24,7,14, ,San Diego State V.S.UNLV,regular season
+400945272,Air Force,UNLV,17,17,16,14, ,UNLV V.S.Air Force,regular season
+400945273,Boise State,San Diego State,14,7,7,17, ,Boise State V.S.San Diego State,regular season
+400945274,Colorado State,Nevada,28,21,31,6, ,Nevada V.S.Colorado State,regular season
+400945275,Fresno State,New Mexico,14,7,10,7, ,New Mexico V.S.Fresno State,regular season
+400945276,Wyoming,Utah State,9,16,7,19, ,Wyoming V.S.Utah State,regular season
+400945277,Hawai'i,San Jose State,10,17,14,22, ,San Jose State V.S.Hawai'i,regular season
+400945278,Air Force,Nevada,21,27,15,24, ,Air Force V.S.Nevada,regular season
+400945279,Boise State,Wyoming,7,3,14,14, ,Wyoming V.S.Boise State,regular season
+400945280,Colorado State,New Mexico,7,24,7,13, ,Colorado State V.S.New Mexico,regular season
+400945281,Utah State,UNLV,21,35,7,17, ,Utah State V.S.UNLV,regular season
+400945282,Fresno State,San Diego State,7,13,10,0, ,Fresno State V.S.San Diego State,regular season
+400945283,Air Force,Colorado State,21,28,10,14, ,Air Force V.S.Colorado State,regular season
+400945284,Boise State,Utah State,21,14,14,6, ,Boise State V.S.Utah State,regular season
+400945285,Wyoming,New Mexico,7,35,0,3, ,New Mexico V.S.Wyoming,regular season
+400945286,UNLV,Fresno State,12,6,14,10, ,UNLV V.S.Fresno State,regular season
+400945287,San Diego State,Hawai'i,7,14,7,7, ,San Diego State V.S.Hawai'i,regular season
+400945288,BYU,San Jose State,17,13,7,24, ,San Jose State V.S.BYU,regular season
+400945289,Boise State,Nevada,17,28,7,3, ,Nevada V.S.Boise State,regular season
+400945290,Wyoming,Colorado State,3,13,3,10, ,Colorado State V.S.Wyoming,regular season
+400945291,Utah State,New Mexico,7,10,3,14, ,Utah State V.S.New Mexico,regular season
+400945292,Fresno State,BYU,10,6,10,7, ,BYU V.S.Fresno State,regular season
+400945293,UNLV,Hawai'i,7,6,28,13, ,Hawai'i V.S.UNLV,regular season
+400945294,San Diego State,San Jose State,21,14,21,3, ,San Diego State V.S.San Jose State,regular season
+400945295,Wyoming,Air Force,7,21,7,7, ,Wyoming V.S.Air Force,regular season
+400945296,Boise State,Colorado State,24,28,28,24,7,Boise State V.S.Colorado State,regular season
+400945297,Fresno State,Hawai'i,7,21,10,14, ,Fresno State V.S.Hawai'i,regular season
+400945298,Nevada,San Jose State,21,24,14,14, ,San Jose State V.S.Nevada,regular season
+400945299,BYU,UNLV,0,21,21,10, ,BYU V.S.UNLV,regular season
+400945300,Boise State,Air Force,24,13,10,16, ,Air Force V.S.Boise State,regular season
+400945301,Colorado State,San Jose State,21,14,7,14, ,San Jose State V.S.Colorado State,regular season
+400945302,UNLV,New Mexico,10,28,10,25, ,UNLV V.S.New Mexico,regular season
+400945303,Utah State,Hawai'i,14,7,14,3, ,Hawai'i V.S.Utah State,regular season
+400945304,Fresno State,Wyoming,3,7,3,7, ,Fresno State V.S.Wyoming,regular season
+400945305,San Diego State,Nevada,24,14,7,20, ,Nevada V.S.San Diego State,regular season
+400945306,Air Force,Utah State,24,14,7,28, ,Utah State V.S.Air Force,regular season
+400945307,Fresno State,Boise State,14,3,9,19, ,Boise State V.S.Fresno State,regular season
+400945308,San Diego State,New Mexico,7,7,17,14, ,New Mexico V.S.San Diego State,regular season
+400945309,San Jose State,Wyoming,7,13,3,14, ,Wyoming V.S.San Jose State,regular season
+400945310,BYU,Hawai'i,14,6,7,23, ,BYU V.S.Hawai'i,regular season
+400945311,Nevada,UNLV,6,16,10,7, ,UNLV V.S.Nevada,regular season
+400953322,Troy,North Texas,22,20,24,14, ,Troy V.S.North Texas,R+L CARRIERS NEW ORLEANS BOWL
+400953323,Boise State,Oregon,14,24,7,21, ,Boise State V.S.Oregon,LAS VEGAS BOWL
+400953324,Marshall,Colorado State,0,35,10,14, ,Marshall V.S.Colorado State,GILDAN NEW MEXICO BOWL
+400953325,Middle Tennessee,Arkansas State,10,21,14,20, ,Middle Tennessee V.S.Arkansas State,RAYCOM MEDIA CAMELLIA BOWL
+400953386,Florida Atlantic,Akron,7,17,15,14, ,Akron V.S.Florida Atlantic,CHERIBUNDI TART CHERRY BOCA RATON BOWL
+400953387,Temple,Florida Intl,0,7,10,14, ,Temple V.S.Florida Intl,BAD BOY MOWERS GASPARILLA BOWL
+400953388,Ohio,UAB,13,17,17,0, ,UAB V.S.Ohio,BAHAMAS BOWL
+400953389,Wyoming,Central Michigan,28,6,10,7, ,Central Michigan V.S.Wyoming,FAMOUS IDAHO POTATO BOWL
+400953390,South Florida,Texas Tech,13,7,21,31, ,Texas Tech V.S.South Florida,BIRMINGHAM BOWL
+400953391,Army,San Diego State,14,28,7,28, ,San Diego State V.S.Army,LOCKHEED MARTIN ARMED FORCES BOWL
+400953392,Appalachian State,Toledo,7,13,7,7, ,Appalachian State V.S.Toledo,DOLLAR GENERAL BOWL
+400953393,Fresno State,Houston,7,16,17,20, ,Fresno State V.S.Houston,HAWAI'I BOWL
+400953394,Duke,Northern Illinois,14,26,7,3, ,Duke V.S.Northern Illinois,QUICK LANE BOWL
+400953395,Utah,West Virginia,7,13,3,21, ,Utah V.S.West Virginia,ZAXBY'S HEART OF DALLAS BOWL
+400953396,Kansas State,UCLA,10,14,14,14, ,Kansas State V.S.UCLA,CACTUS BOWL
+400953397,Florida State,Southern Mississippi,13,16,17,9, ,Southern Mississippi V.S.Florida State,WALK-ON'S INDEPENDENCE BOWL
+400953398,Iowa,Boston College,10,17,7,13, ,Iowa V.S.Boston College,NEW ERA PINSTRIPE BOWL
+400953399,Texas,Missouri,14,14,11,10, ,Texas V.S.Missouri,ACADEMY SPORTS + OUTDOORS TEXAS BOWL
+400953400,Navy,Virginia,21,14,14,7, ,Virginia V.S.Navy,MILITARY BOWL PRESENTED BY NORTHROP GRUMMAN
+400953401,TCU,Stanford,17,14,23,22, ,Stanford V.S.TCU,VALERO ALAMO BOWL
+400953402,Wake Forest,Texas A&M,31,35,17,24, ,Wake Forest V.S.Texas A&M,BELK BOWL
+400953403,Northwestern,Kentucky,10,14,7,16, ,Kentucky V.S.Northwestern,FRANKLIN AMERICAN MORTGAGE MUSIC CITY BOWL
+400953404,Ohio State,USC,7,24,0,0, ,USC V.S.Ohio State,GOODYEAR COTTON BOWL CLASSIC
+400953405,Mississippi State,Louisville,21,17,3,17, ,Louisville V.S.Mississippi State,TAXSLAYER BOWL
+400953406,Iowa State,Memphis,14,10,17,0, ,Iowa State V.S.Memphis,AUTOZONE LIBERTY BOWL
+400953407,Penn State,Washington,14,28,14,7, ,Washington V.S.Penn State,PLAYSTATION FIESTA BOWL
+400953408,Wisconsin,Miami,17,21,10,10, ,Wisconsin V.S.Miami,CAPITAL ONE ORANGE BOWL
+400953409,Georgia State,Western Kentucky,17,6,7,14, ,Western Kentucky V.S.Georgia State,AUTONATION CURE BOWL
+400953410,South Carolina,Michigan,6,6,23,10, ,Michigan V.S.South Carolina,OUTBACK BOWL
+400953411,UCF,Auburn,3,16,21,21, ,UCF V.S.Auburn,CHICK-FIL-A PEACH BOWL
+400953412,Georgia,Oklahoma,21,27,14,28,12,Georgia V.S.Oklahoma,ROSE BOWL GAME PRESENTED BY NORTHWESTERN MUTUAL - CFP SEMIFINAL
+400953413,Alabama,Clemson,10,3,17,0, ,Alabama V.S.Clemson,ALLSTATE SUGAR BOWL - CFP SEMIFINAL
+400953414,Notre Dame,LSU,0,3,10,25, ,Notre Dame V.S.LSU,CITRUS BOWL PRESENTED BY OVERTON'S
+400953415,Alabama,Georgia,0,13,17,10,9,Alabama V.S.Georgia,CFP NATIONAL CHAMPIONSHIP PRESENTED BY AT&T
+400953416,Oklahoma State,Virginia Tech,10,10,21,10, ,Virginia Tech V.S.Oklahoma State,CAMPING WORLD BOWL
+400953417,NC State,Arizona State,7,31,3,42, ,NC State V.S.Arizona State,HYUNDAI SUN BOWL
+400954523,Louisiana Tech,SMU,24,28,6,3, ,Louisiana Tech V.S.SMU,DXL FRISCO BOWL
+400955149,USC,Stanford,7,24,14,14, ,Stanford V.S.USC,regular season
+400955150,Toledo,Akron,7,21,17,28, ,Akron V.S.Toledo,regular season
+400955151,UCF,Memphis,24,31,24,17,21,Memphis V.S.UCF,regular season
+400955152,Florida Atlantic,North Texas,10,17,16,15, ,North Texas V.S.Florida Atlantic,regular season
+400955153,Georgia,Auburn,7,10,3,15, ,Georgia V.S.Auburn,regular season
+400955154,Boise State,Fresno State,3,21,0,7, ,Fresno State V.S.Boise State,regular season
+400955155,Clemson,Miami,14,7,17,3, ,Miami V.S.Clemson,regular season
+400955156,Ohio State,Wisconsin,21,10,6,11, ,Ohio State V.S.Wisconsin,regular season
+400955157,Oklahoma,TCU,17,24,17,0, ,TCU V.S.Oklahoma,regular season
+400959397,Michigan State,Washington State,3,21,21,14, ,Washington State V.S.Michigan State,SAN DIEGO COUNTY CREDIT UNION HOLIDAY BOWL
+400959398,Purdue,Arizona,28,17,14,14, ,Arizona V.S.Purdue,FOSTER FARMS BOWL
+400966332,New Mexico State,Utah State,17,9,0,14,6,New Mexico State V.S.Utah State,NOVA HOME LOANS ARIZONA BOWL
+400981507,Miami,Florida State,3,0,10,31, ,Miami V.S.Florida State,regular season
+400981508,Miami,Georgia Tech,10,17,13,9, ,Georgia Tech V.S.Miami,regular season
+400982707,Indiana,Charleston Southern,10,14,3,0, ,Charleston Southern V.S.Indiana,regular season
+400985386,South Florida,UConn,7,17,17,16, ,South Florida V.S.UConn,regular season
+400985387,Florida Intl,UMass,28,28,17,35, ,UMass V.S.Florida Intl,regular season
+400985406,UCF,Memphis,13,17,7,16, ,Memphis V.S.UCF,regular season
+400986609,UCF,Austin Peay,21,50,21,14, ,Austin Peay V.S.UCF,regular season
+401000149,Florida State,Louisiana Monroe,7,7,24,14, ,Louisiana Monroe V.S.Florida State,regular season

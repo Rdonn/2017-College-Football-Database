@@ -1,0 +1,6052 @@
+{
+    "721": {
+        "1060700": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "21",
+                    "94",
+                    "4.48",
+                    "1",
+                    "4.20",
+                    "18.80"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "16",
+                    "9",
+                    "56.3",
+                    "133",
+                    "8.3",
+                    "0",
+                    "1",
+                    "113.58",
+                    "3.2",
+                    "26.6"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "5",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "1.2"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "94",
+                    "133",
+                    "37",
+                    "227",
+                    "6.14",
+                    "45.4"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "94",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "21",
+                    "94",
+                    "4.5",
+                    "18.8"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "94",
+                    "0",
+                    "1",
+                    "21",
+                    "94",
+                    "4.5",
+                    "18.8"
+                ]
+            ]
+        ],
+        "1069556": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "3",
+                    "5",
+                    "1.67",
+                    "0",
+                    "0.43",
+                    "0.71"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "1",
+                    "1",
+                    "100.0",
+                    "31",
+                    "31.0",
+                    "0",
+                    "0",
+                    "360.40",
+                    "0.1",
+                    "4.4"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "1",
+                    "2",
+                    "2.00",
+                    "0",
+                    "0.1",
+                    "0.3"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "5",
+                    "31",
+                    "4",
+                    "36",
+                    "9.00",
+                    "5.1"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "5",
+                    "2",
+                    "0",
+                    "0",
+                    "0",
+                    "4",
+                    "7",
+                    "1.8",
+                    "1.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "5",
+                    "2",
+                    "0",
+                    "4",
+                    "7",
+                    "1.8",
+                    "1.0"
+                ]
+            ]
+        ],
+        "1073408": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "1",
+                    "5",
+                    "5.00",
+                    "0",
+                    "0.17",
+                    "0.83"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "5",
+                    "0",
+                    "1",
+                    "5",
+                    "5.00",
+                    "0.8"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "5",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "5",
+                    "5.0",
+                    "0.8"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "5",
+                    "0",
+                    "0",
+                    "1",
+                    "5",
+                    "5.0",
+                    "0.8"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "6",
+                    "1",
+                    "0",
+                    "1",
+                    "0.17"
+                ]
+            ]
+        ],
+        "1073410": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "2",
+                    "26",
+                    "13.00",
+                    "0",
+                    "2.00",
+                    "26.00"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "26",
+                    "0",
+                    "2",
+                    "26",
+                    "13.00",
+                    "26.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "26",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "2",
+                    "26",
+                    "13.0",
+                    "26.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "26",
+                    "0",
+                    "0",
+                    "2",
+                    "26",
+                    "13.0",
+                    "26.0"
+                ]
+            ]
+        ],
+        "1073411": [
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "0.5"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "17",
+                    "22",
+                    "39",
+                    "3.25"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "3.5",
+                    "21",
+                    "0.29"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "12",
+                    "1.0",
+                    "16",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "4",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1073412": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "52",
+                    "41",
+                    "93",
+                    "7.75"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "3.0",
+                    "23",
+                    "0.25"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "12",
+                    "3.0",
+                    "23",
+                    "0.25"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "1",
+                    "1",
+                    "0"
+                ]
+            ]
+        ],
+        "1076112": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "44",
+                    "418",
+                    "9.50",
+                    "3",
+                    "3.67",
+                    "34.83"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "11",
+                    "261",
+                    "23.73",
+                    "2",
+                    "0.9",
+                    "21.8"
+                ]
+            ],
+            [
+                [
+                    "Punt Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "9",
+                    "52",
+                    "5.78",
+                    "0",
+                    "0.8",
+                    "4.3"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "5",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "30",
+                    "2.5"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "418",
+                    "0",
+                    "44",
+                    "418",
+                    "9.50",
+                    "34.8"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "418",
+                    "261",
+                    "52",
+                    "0",
+                    "0",
+                    "64",
+                    "731",
+                    "11.4",
+                    "60.9"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "418",
+                    "261",
+                    "5",
+                    "55",
+                    "679",
+                    "12.3",
+                    "56.6"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "1",
+                    "0.08"
+                ]
+            ]
+        ],
+        "1076116": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "5",
+                    "32",
+                    "6.40",
+                    "1",
+                    "5.00",
+                    "32.00"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "1",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "6.0"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "32",
+                    "0",
+                    "5",
+                    "32",
+                    "6.40",
+                    "32.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "32",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "5",
+                    "32",
+                    "6.4",
+                    "32.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "32",
+                    "0",
+                    "1",
+                    "5",
+                    "32",
+                    "6.4",
+                    "32.0"
+                ]
+            ]
+        ],
+        "1076117": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "2",
+                    "1",
+                    "1",
+                    "2",
+                    "1.00"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "2",
+                    "1.0",
+                    "1",
+                    "0.50"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "2",
+                    "1.0",
+                    "1",
+                    "0.50"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "2",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1076121": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "43",
+                    "22",
+                    "65",
+                    "5.42"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "4.5",
+                    "9",
+                    "0.38"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "6",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1076124": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "128",
+                    "741",
+                    "5.79",
+                    "7",
+                    "10.67",
+                    "61.75"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "6",
+                    "136",
+                    "22.67",
+                    "0",
+                    "0.5",
+                    "11.3"
+                ]
+            ],
+            [
+                [
+                    "Kickoff Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "21",
+                    "390",
+                    "18.57",
+                    "0",
+                    "1.8",
+                    "32.5"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "7",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "42",
+                    "3.5"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "741",
+                    "0",
+                    "128",
+                    "741",
+                    "5.79",
+                    "61.8"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "741",
+                    "136",
+                    "0",
+                    "390",
+                    "0",
+                    "155",
+                    "1267",
+                    "8.2",
+                    "105.6"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "741",
+                    "136",
+                    "7",
+                    "134",
+                    "877",
+                    "6.5",
+                    "73.1"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "1",
+                    "0.08"
+                ]
+            ]
+        ],
+        "1076125": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "3",
+                    "2",
+                    "1",
+                    "3",
+                    "1.00"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "3",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1076128": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "8",
+                    "173",
+                    "21.63",
+                    "2",
+                    "0.7",
+                    "15.7"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "11",
+                    "2",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "12",
+                    "1.1"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "0",
+                    "173",
+                    "0",
+                    "0",
+                    "0",
+                    "8",
+                    "173",
+                    "21.6",
+                    "15.7"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "0",
+                    "173",
+                    "2",
+                    "8",
+                    "173",
+                    "21.6",
+                    "15.7"
+                ]
+            ]
+        ],
+        "1076129": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "42",
+                    "55",
+                    "97",
+                    "8.08"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "9.5",
+                    "28",
+                    "0.79"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "12",
+                    "1.0",
+                    "9",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "4",
+                    "0"
+                ]
+            ]
+        ],
+        "1076130": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "2",
+                    "2",
+                    "1.00",
+                    "0",
+                    "0.67",
+                    "0.67"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "1",
+                    "0",
+                    "0.0",
+                    "0",
+                    "0.0",
+                    "0",
+                    "0",
+                    "0.00",
+                    "0.3",
+                    "0.0"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "1",
+                    "6",
+                    "6.00",
+                    "0",
+                    "0.3",
+                    "2.0"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "2",
+                    "0",
+                    "3",
+                    "2",
+                    "0.67",
+                    "0.7"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "2",
+                    "6",
+                    "0",
+                    "0",
+                    "0",
+                    "3",
+                    "8",
+                    "2.7",
+                    "2.7"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "2",
+                    "6",
+                    "0",
+                    "3",
+                    "8",
+                    "2.7",
+                    "2.7"
+                ]
+            ]
+        ],
+        "1076131": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "67",
+                    "398",
+                    "5.94",
+                    "1",
+                    "5.58",
+                    "33.17"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "3",
+                    "33",
+                    "11.00",
+                    "0",
+                    "0.3",
+                    "2.8"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "0.5"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "398",
+                    "0",
+                    "67",
+                    "398",
+                    "5.94",
+                    "33.2"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "398",
+                    "33",
+                    "0",
+                    "0",
+                    "0",
+                    "71",
+                    "431",
+                    "6.1",
+                    "35.9"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "398",
+                    "33",
+                    "1",
+                    "70",
+                    "431",
+                    "6.2",
+                    "35.9"
+                ]
+            ],
+            [
+                [
+                    "Interceptions"
+                ],
+                [
+                    "G",
+                    "Int.",
+                    "Yards",
+                    "TD",
+                    "Int./G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0.08"
+                ]
+            ]
+        ],
+        "1076132": [
+            [
+                [
+                    "Place Kicking"
+                ],
+                [
+                    "",
+                    "Field Goal",
+                    "Extra Point"
+                ],
+                []
+            ],
+            [
+                [
+                    "Kickoffs"
+                ],
+                [
+                    "G",
+                    "Kickoffs",
+                    "Yards",
+                    "Avg.",
+                    "Touchback",
+                    "Touchback %",
+                    "Out-Of-Bounds",
+                    "Onside"
+                ],
+                [
+                    "12",
+                    "54",
+                    "3274",
+                    "60.63",
+                    "29",
+                    "53.70",
+                    "2",
+                    "1"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "9",
+                    "43",
+                    "0",
+                    "0",
+                    "70",
+                    "5.8"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "1",
+                    "0.08"
+                ]
+            ]
+        ],
+        "1077531": [
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "0.5"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "30",
+                    "1",
+                    "30",
+                    "30.0",
+                    "2.5"
+                ]
+            ],
+            [
+                [
+                    "Interceptions"
+                ],
+                [
+                    "G",
+                    "Int.",
+                    "Yards",
+                    "TD",
+                    "Int./G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "30",
+                    "1",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "19",
+                    "17",
+                    "36",
+                    "3.00"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "3.0",
+                    "5",
+                    "0.25"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1077706": [
+            [
+                [
+                    "Kickoffs"
+                ],
+                [
+                    "G",
+                    "Kickoffs",
+                    "Yards",
+                    "Avg.",
+                    "Touchback",
+                    "Touchback %",
+                    "Out-Of-Bounds",
+                    "Onside"
+                ],
+                [
+                    "4",
+                    "11",
+                    "678",
+                    "61.64",
+                    "4",
+                    "36.36",
+                    "1",
+                    "1"
+                ]
+            ],
+            [
+                [
+                    "Place Kicking"
+                ],
+                [
+                    "",
+                    "Field Goal",
+                    "Extra Point"
+                ],
+                []
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "4",
+                    "0",
+                    "1",
+                    "2",
+                    "0",
+                    "0",
+                    "5",
+                    "1.3"
+                ]
+            ]
+        ],
+        "1077707": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "-5",
+                    "-",
+                    "0",
+                    "-",
+                    "-"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-5",
+                    "0",
+                    "0",
+                    "-5",
+                    "-",
+                    "-0.4"
+                ]
+            ]
+        ],
+        "1077708": [
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "0",
+                    "0.0",
+                    "0.0"
+                ]
+            ],
+            [
+                [
+                    "Interceptions"
+                ],
+                [
+                    "G",
+                    "Int.",
+                    "Yards",
+                    "TD",
+                    "Int./G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "26",
+                    "34",
+                    "60",
+                    "5.00"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "7",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1081463": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "217",
+                    "821",
+                    "3.78",
+                    "13",
+                    "21.70",
+                    "82.10"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "109",
+                    "54",
+                    "49.5",
+                    "1100",
+                    "10.1",
+                    "10",
+                    "4",
+                    "157.24",
+                    "10.9",
+                    "110.0"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "1",
+                    "24",
+                    "24.00",
+                    "0",
+                    "0.1",
+                    "2.4"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "10",
+                    "13",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "78",
+                    "7.8"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "821",
+                    "1100",
+                    "326",
+                    "1921",
+                    "5.89",
+                    "192.1"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "821",
+                    "24",
+                    "0",
+                    "0",
+                    "0",
+                    "218",
+                    "845",
+                    "3.9",
+                    "84.5"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "821",
+                    "24",
+                    "13",
+                    "218",
+                    "845",
+                    "3.9",
+                    "84.5"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "10",
+                    "4",
+                    "0",
+                    "4",
+                    "0.40"
+                ]
+            ]
+        ],
+        "1081464": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "9",
+                    "19",
+                    "28",
+                    "2.33"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "1.5",
+                    "3",
+                    "0.13"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1081466": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "3",
+                    "4",
+                    "0.33"
+                ]
+            ]
+        ],
+        "1081468": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "2",
+                    "0",
+                    "1",
+                    "1",
+                    "0.50"
+                ]
+            ]
+        ],
+        "1081469": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "1",
+                    "18",
+                    "18.00",
+                    "0",
+                    "0.1",
+                    "2.6"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "0",
+                    "18",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "18",
+                    "18.0",
+                    "2.6"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "0",
+                    "18",
+                    "0",
+                    "1",
+                    "18",
+                    "18.0",
+                    "2.6"
+                ]
+            ]
+        ],
+        "1081471": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "8",
+                    "34",
+                    "4.25",
+                    "1",
+                    "1.33",
+                    "5.67"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "1",
+                    "0",
+                    "0.00",
+                    "0",
+                    "0.2",
+                    "0.0"
+                ]
+            ],
+            [
+                [
+                    "Kickoff Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "2",
+                    "26",
+                    "13.00",
+                    "0",
+                    "0.3",
+                    "4.3"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "6",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "1.0"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "34",
+                    "0",
+                    "8",
+                    "34",
+                    "4.25",
+                    "5.7"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "34",
+                    "0",
+                    "0",
+                    "26",
+                    "0",
+                    "11",
+                    "60",
+                    "5.5",
+                    "10.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "34",
+                    "0",
+                    "1",
+                    "9",
+                    "34",
+                    "3.8",
+                    "5.7"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "6",
+                    "0",
+                    "1",
+                    "1",
+                    "0.17"
+                ]
+            ]
+        ],
+        "1081472": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "4",
+                    "0",
+                    "1",
+                    "1",
+                    "0.25"
+                ]
+            ]
+        ],
+        "1081473": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "7",
+                    "1",
+                    "3",
+                    "4",
+                    "0.57"
+                ]
+            ]
+        ],
+        "1081474": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "44",
+                    "200",
+                    "4.55",
+                    "0",
+                    "6.29",
+                    "28.57"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "200",
+                    "0",
+                    "44",
+                    "200",
+                    "4.55",
+                    "28.6"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "200",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "44",
+                    "200",
+                    "4.5",
+                    "28.6"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "7",
+                    "200",
+                    "0",
+                    "0",
+                    "44",
+                    "200",
+                    "4.5",
+                    "28.6"
+                ]
+            ]
+        ],
+        "1081475": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "1",
+                    "0",
+                    "2",
+                    "2",
+                    "2.00"
+                ]
+            ]
+        ],
+        "1081476": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "7",
+                    "2",
+                    "0",
+                    "2",
+                    "0.29"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "7",
+                    "1.0",
+                    "1",
+                    "0.14"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "7",
+                    "0",
+                    "0",
+                    "1",
+                    "0"
+                ]
+            ]
+        ],
+        "1081478": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "8",
+                    "9",
+                    "0.75"
+                ]
+            ]
+        ],
+        "1081479": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "6",
+                    "2",
+                    "1",
+                    "3",
+                    "0.50"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "6",
+                    "1.0",
+                    "3",
+                    "0.17"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "6",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1081481": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "10",
+                    "1",
+                    "0",
+                    "1",
+                    "0.10"
+                ]
+            ]
+        ],
+        "1081484": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "11",
+                    "1",
+                    "0",
+                    "1",
+                    "0.09"
+                ]
+            ]
+        ],
+        "1081488": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "11",
+                    "55",
+                    "5.00",
+                    "1",
+                    "1.22",
+                    "6.11"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "1",
+                    "10",
+                    "10.00",
+                    "0",
+                    "0.1",
+                    "1.1"
+                ]
+            ],
+            [
+                [
+                    "Kickoff Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "2",
+                    "21",
+                    "10.50",
+                    "0",
+                    "0.2",
+                    "2.3"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "9",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "0.7"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "55",
+                    "0",
+                    "11",
+                    "55",
+                    "5.00",
+                    "6.1"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "55",
+                    "10",
+                    "0",
+                    "21",
+                    "0",
+                    "14",
+                    "86",
+                    "6.1",
+                    "9.6"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "55",
+                    "10",
+                    "1",
+                    "12",
+                    "65",
+                    "5.4",
+                    "7.2"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "9",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1081490": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "11",
+                    "10",
+                    "22",
+                    "32",
+                    "2.91"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "11",
+                    "2.0",
+                    "12",
+                    "0.18"
+                ]
+            ]
+        ],
+        "1081493": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "4",
+                    "16",
+                    "20",
+                    "1.67"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "2.5",
+                    "12",
+                    "0.21"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "12",
+                    "1.0",
+                    "7",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1083868": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "8",
+                    "6",
+                    "2",
+                    "8",
+                    "1.00"
+                ]
+            ]
+        ],
+        "1083869": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "8",
+                    "7",
+                    "3",
+                    "10",
+                    "1.25"
+                ]
+            ]
+        ],
+        "1089518": [
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "0",
+                    "0.0",
+                    "0.0"
+                ]
+            ],
+            [
+                [
+                    "Interceptions"
+                ],
+                [
+                    "G",
+                    "Int.",
+                    "Yards",
+                    "TD",
+                    "Int./G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "21",
+                    "31",
+                    "52",
+                    "4.33"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1089519": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "50",
+                    "218",
+                    "4.36",
+                    "3",
+                    "16.67",
+                    "72.67"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "15",
+                    "4",
+                    "26.7",
+                    "33",
+                    "2.2",
+                    "0",
+                    "1",
+                    "31.82",
+                    "5.0",
+                    "11.0"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "3",
+                    "3",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "18",
+                    "6.0"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "218",
+                    "33",
+                    "65",
+                    "251",
+                    "3.86",
+                    "83.7"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "218",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "50",
+                    "218",
+                    "4.4",
+                    "72.7"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "218",
+                    "0",
+                    "3",
+                    "50",
+                    "218",
+                    "4.4",
+                    "72.7"
+                ]
+            ]
+        ],
+        "1089520": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "9",
+                    "194",
+                    "21.56",
+                    "3",
+                    "0.8",
+                    "17.6"
+                ]
+            ],
+            [
+                [
+                    "Passing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Comp",
+                    "Pct.",
+                    "Yards",
+                    "Yards/Att",
+                    "TD",
+                    "Int",
+                    "Rating",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "1",
+                    "1",
+                    "100.0",
+                    "24",
+                    "24.0",
+                    "0",
+                    "0",
+                    "301.60",
+                    "0.1",
+                    "2.2"
+                ]
+            ],
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "0",
+                    "2",
+                    "-",
+                    "0",
+                    "-",
+                    "-"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "11",
+                    "3",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "18",
+                    "1.6"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "2",
+                    "24",
+                    "1",
+                    "26",
+                    "26.00",
+                    "2.4"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "2",
+                    "194",
+                    "0",
+                    "0",
+                    "0",
+                    "9",
+                    "196",
+                    "21.8",
+                    "17.8"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "2",
+                    "194",
+                    "3",
+                    "9",
+                    "196",
+                    "21.8",
+                    "17.8"
+                ]
+            ]
+        ],
+        "1089521": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "19",
+                    "398",
+                    "20.95",
+                    "3",
+                    "1.6",
+                    "33.2"
+                ]
+            ],
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "-1",
+                    "-",
+                    "0",
+                    "-",
+                    "-"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "12",
+                    "3",
+                    "0",
+                    "0",
+                    "1",
+                    "0",
+                    "20",
+                    "1.7"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-1",
+                    "0",
+                    "0",
+                    "-1",
+                    "-",
+                    "-0.1"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-1",
+                    "398",
+                    "0",
+                    "0",
+                    "0",
+                    "19",
+                    "397",
+                    "20.9",
+                    "33.1"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-1",
+                    "398",
+                    "3",
+                    "19",
+                    "397",
+                    "20.9",
+                    "33.1"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "0",
+                    "1",
+                    "1",
+                    "0.08"
+                ]
+            ]
+        ],
+        "1089522": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "3",
+                    "3",
+                    "6",
+                    "0.50"
+                ]
+            ]
+        ],
+        "1089524": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "5",
+                    "0",
+                    "1",
+                    "1",
+                    "0.20"
+                ]
+            ]
+        ],
+        "1089525": [
+            [
+                [
+                    "Punt Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "1",
+                    "10",
+                    "10.00",
+                    "0",
+                    "0.3",
+                    "3.3"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "0",
+                    "0",
+                    "10",
+                    "0",
+                    "0",
+                    "1",
+                    "10",
+                    "10.0",
+                    "3.3"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "3",
+                    "11",
+                    "4",
+                    "15",
+                    "5.00"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "3",
+                    "1.5",
+                    "3",
+                    "0.50"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "3",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ]
+            ]
+        ],
+        "1089526": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "88",
+                    "384",
+                    "4.36",
+                    "5",
+                    "9.78",
+                    "42.67"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "9",
+                    "5",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "30",
+                    "3.3"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "384",
+                    "0",
+                    "88",
+                    "384",
+                    "4.36",
+                    "42.7"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "384",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "88",
+                    "384",
+                    "4.4",
+                    "42.7"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "9",
+                    "384",
+                    "0",
+                    "5",
+                    "88",
+                    "384",
+                    "4.4",
+                    "42.7"
+                ]
+            ]
+        ],
+        "1089528": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "4",
+                    "21",
+                    "5.25",
+                    "1",
+                    "1.33",
+                    "7.00"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "3",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "2.0"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "21",
+                    "0",
+                    "4",
+                    "21",
+                    "5.25",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "21",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "4",
+                    "21",
+                    "5.3",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "3",
+                    "21",
+                    "0",
+                    "1",
+                    "4",
+                    "21",
+                    "5.3",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "3",
+                    "1",
+                    "1",
+                    "2",
+                    "0.67"
+                ]
+            ]
+        ],
+        "1089529": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "9",
+                    "2",
+                    "2",
+                    "4",
+                    "0.44"
+                ]
+            ]
+        ],
+        "1089532": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "40",
+                    "228",
+                    "5.70",
+                    "1",
+                    "4.00",
+                    "22.80"
+                ]
+            ],
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "4",
+                    "23",
+                    "5.75",
+                    "0",
+                    "0.4",
+                    "2.3"
+                ]
+            ],
+            [
+                [
+                    "Kickoff Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "1",
+                    "17",
+                    "17.00",
+                    "0",
+                    "0.1",
+                    "1.7"
+                ]
+            ],
+            [
+                [
+                    "Scoring"
+                ],
+                [
+                    "G",
+                    "TD",
+                    "FG",
+                    "1XP",
+                    "2XP",
+                    "Safety",
+                    "Points",
+                    "Points/G"
+                ],
+                [
+                    "10",
+                    "1",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "6",
+                    "0.6"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "228",
+                    "0",
+                    "40",
+                    "228",
+                    "5.70",
+                    "22.8"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "228",
+                    "23",
+                    "0",
+                    "17",
+                    "0",
+                    "45",
+                    "268",
+                    "6.0",
+                    "26.8"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "228",
+                    "23",
+                    "1",
+                    "44",
+                    "251",
+                    "5.7",
+                    "25.1"
+                ]
+            ]
+        ],
+        "1089533": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "5",
+                    "27",
+                    "5.40",
+                    "0",
+                    "0.50",
+                    "2.70"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "27",
+                    "0",
+                    "5",
+                    "27",
+                    "5.40",
+                    "2.7"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "27",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "5",
+                    "27",
+                    "5.4",
+                    "2.7"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "10",
+                    "27",
+                    "0",
+                    "0",
+                    "5",
+                    "27",
+                    "5.4",
+                    "2.7"
+                ]
+            ]
+        ],
+        "1089535": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "2",
+                    "3",
+                    "5",
+                    "0.42"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "0",
+                    "0",
+                    "0",
+                    "1"
+                ]
+            ]
+        ],
+        "1089536": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "4",
+                    "11",
+                    "2.75",
+                    "0",
+                    "4.00",
+                    "11.00"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "11",
+                    "0",
+                    "4",
+                    "11",
+                    "2.75",
+                    "11.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "11",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "4",
+                    "11",
+                    "2.8",
+                    "11.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "11",
+                    "0",
+                    "0",
+                    "4",
+                    "11",
+                    "2.8",
+                    "11.0"
+                ]
+            ]
+        ],
+        "1089542": [
+            [
+                [
+                    "Punt Returns"
+                ],
+                [
+                    "G",
+                    "Ret.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Ret./G",
+                    "Yards/G"
+                ],
+                [
+                    "6",
+                    "0",
+                    "21",
+                    "-",
+                    "0",
+                    "0.0",
+                    "3.5"
+                ]
+            ]
+        ],
+        "1089545": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "1",
+                    "2",
+                    "0",
+                    "2",
+                    "2.00"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "1",
+                    "1.0",
+                    "3",
+                    "1.00"
+                ]
+            ]
+        ],
+        "1089546": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "2",
+                    "35",
+                    "17.50",
+                    "0",
+                    "0.4",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "0",
+                    "35",
+                    "0",
+                    "0",
+                    "0",
+                    "2",
+                    "35",
+                    "17.5",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "5",
+                    "0",
+                    "35",
+                    "0",
+                    "2",
+                    "35",
+                    "17.5",
+                    "7.0"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "5",
+                    "2",
+                    "0",
+                    "2",
+                    "0.40"
+                ]
+            ]
+        ],
+        "1089547": [
+            [
+                [
+                    "Punting"
+                ],
+                [
+                    "G",
+                    "Punts",
+                    "Yards",
+                    "Avg.",
+                    "Punts/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "41",
+                    "1728",
+                    "42.15",
+                    "3.4",
+                    "144.0"
+                ]
+            ],
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "1",
+                    "-23",
+                    "-23.00",
+                    "0",
+                    "0.08",
+                    "-1.92"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-23",
+                    "0",
+                    "1",
+                    "-23",
+                    "-23.00",
+                    "-1.9"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-23",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "-23",
+                    "-23.0",
+                    "-1.9"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "12",
+                    "-23",
+                    "0",
+                    "0",
+                    "1",
+                    "-23",
+                    "-23.0",
+                    "-1.9"
+                ]
+            ]
+        ],
+        "1089549": [
+            [
+                [
+                    "Kickoffs"
+                ],
+                [
+                    "G",
+                    "Kickoffs",
+                    "Yards",
+                    "Avg.",
+                    "Touchback",
+                    "Touchback %",
+                    "Out-Of-Bounds",
+                    "Onside"
+                ],
+                [
+                    "1",
+                    "1",
+                    "65",
+                    "65.00",
+                    "1",
+                    "100.00",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1089550": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "6",
+                    "0",
+                    "1",
+                    "1",
+                    "0.17"
+                ]
+            ]
+        ],
+        "1089551": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "7",
+                    "13",
+                    "20",
+                    "1.67"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "3.0",
+                    "14",
+                    "0.25"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "12",
+                    "1.0",
+                    "10",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "0",
+                    "1",
+                    "1",
+                    "0"
+                ]
+            ]
+        ],
+        "1090182": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "4",
+                    "3",
+                    "1",
+                    "4",
+                    "1.00"
+                ]
+            ]
+        ],
+        "1090183": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "2",
+                    "14",
+                    "7.00",
+                    "0",
+                    "2.00",
+                    "14.00"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "14",
+                    "0",
+                    "2",
+                    "14",
+                    "7.00",
+                    "14.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "14",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "2",
+                    "14",
+                    "7.0",
+                    "14.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "14",
+                    "0",
+                    "0",
+                    "2",
+                    "14",
+                    "7.0",
+                    "14.0"
+                ]
+            ]
+        ],
+        "1090184": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "12",
+                    "23",
+                    "11",
+                    "34",
+                    "2.83"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "12",
+                    "1.0",
+                    "2",
+                    "0.08"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "12",
+                    "4",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1090185": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "9",
+                    "1",
+                    "0",
+                    "1",
+                    "0.11"
+                ]
+            ]
+        ],
+        "1090186": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "5",
+                    "1",
+                    "1",
+                    "2",
+                    "0.40"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "5",
+                    "1.0",
+                    "2",
+                    "0.20"
+                ]
+            ]
+        ],
+        "1090195": [
+            [
+                [
+                    "Receiving"
+                ],
+                [
+                    "G",
+                    "Rec.",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Rec./G",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "1",
+                    "8",
+                    "8.00",
+                    "0",
+                    "1.0",
+                    "8.0"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "0",
+                    "8",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "8",
+                    "8.0",
+                    "8.0"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "1",
+                    "0",
+                    "8",
+                    "0",
+                    "1",
+                    "8",
+                    "8.0",
+                    "8.0"
+                ]
+            ]
+        ],
+        "1090199": [
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "11",
+                    "6",
+                    "1",
+                    "7",
+                    "0.64"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "11",
+                    "1",
+                    "0",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1090200": [
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "11",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "0",
+                    "0.0",
+                    "0.0"
+                ]
+            ],
+            [
+                [
+                    "Interceptions"
+                ],
+                [
+                    "G",
+                    "Int.",
+                    "Yards",
+                    "TD",
+                    "Int./G"
+                ],
+                [
+                    "11",
+                    "1",
+                    "0",
+                    "0",
+                    "0.09"
+                ]
+            ],
+            [
+                [
+                    "Tackles"
+                ],
+                [
+                    "G",
+                    "Solo",
+                    "Assisted",
+                    "Total",
+                    "Total/G"
+                ],
+                [
+                    "11",
+                    "22",
+                    "25",
+                    "47",
+                    "4.27"
+                ]
+            ],
+            [
+                [
+                    "Tackles For Loss"
+                ],
+                [
+                    "G",
+                    "TFL",
+                    "TFL Yards",
+                    "TFL/G"
+                ],
+                [
+                    "11",
+                    "6.0",
+                    "24",
+                    "0.55"
+                ]
+            ],
+            [
+                [
+                    "Sacks"
+                ],
+                [
+                    "G",
+                    "Sacks",
+                    "Sack Yards",
+                    "Sacks/G"
+                ],
+                [
+                    "11",
+                    "2.0",
+                    "20",
+                    "0.18"
+                ]
+            ],
+            [
+                [
+                    "Misc. Defense"
+                ],
+                [
+                    "G",
+                    "Passes Broken Up",
+                    "QB Hurries",
+                    "Fumbles Forced",
+                    "Kicks/Punts Blocked"
+                ],
+                [
+                    "11",
+                    "0",
+                    "1",
+                    "0",
+                    "0"
+                ]
+            ]
+        ],
+        "1092144": [
+            [
+                [
+                    "Kickoffs"
+                ],
+                [
+                    "G",
+                    "Kickoffs",
+                    "Yards",
+                    "Avg.",
+                    "Touchback",
+                    "Touchback %",
+                    "Out-Of-Bounds",
+                    "Onside"
+                ],
+                [
+                    "1",
+                    "1",
+                    "65",
+                    "65.00",
+                    "0",
+                    "0.00",
+                    "0",
+                    "0"
+                ]
+            ],
+            [
+                [
+                    "Place Kicking"
+                ],
+                [
+                    "",
+                    "Field Goal",
+                    "Extra Point"
+                ],
+                []
+            ]
+        ],
+        "1092148": [
+            [
+                [
+                    "Rushing"
+                ],
+                [
+                    "G",
+                    "Att",
+                    "Yards",
+                    "Avg.",
+                    "TD",
+                    "Att/G",
+                    "Yards/G"
+                ],
+                [
+                    "2",
+                    "1",
+                    "21",
+                    "21.00",
+                    "0",
+                    "0.50",
+                    "10.50"
+                ]
+            ],
+            [
+                [
+                    "Total Offense"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Pass Yards",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "2",
+                    "21",
+                    "0",
+                    "1",
+                    "21",
+                    "21.00",
+                    "10.5"
+                ]
+            ],
+            [
+                [
+                    "All-Purpose Running"
+                ],
+                [
+                    "G",
+                    "Rush",
+                    "Recv.",
+                    "Punt Ret.",
+                    "Kick Ret.",
+                    "Int. Ret.",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "2",
+                    "21",
+                    "0",
+                    "0",
+                    "0",
+                    "0",
+                    "1",
+                    "21",
+                    "21.0",
+                    "10.5"
+                ]
+            ],
+            [
+                [
+                    "Yards From Scrimmage"
+                ],
+                [
+                    "G",
+                    "Rush Yards",
+                    "Recv Yards",
+                    "TD",
+                    "Plays",
+                    "Total Yards",
+                    "Yards/Play",
+                    "Yards/G"
+                ],
+                [
+                    "2",
+                    "21",
+                    "0",
+                    "0",
+                    "1",
+                    "21",
+                    "21.0",
+                    "10.5"
+                ]
+            ]
+        ]
+    }
+}
